@@ -13,7 +13,7 @@ export default function Footer() {
               Artisan poseur de cuisine et tous corps de métier depuis plus de 20 ans.
               Intervention dans les Yvelines et Île-de-France Ouest.
             </p>
-            <p className="text-xs text-gray-400">SIRET : XXX XXX XXX XXXXX</p>
+            <p className="text-xs text-gray-400">SIRET : 444 547 905 00042</p>
           </div>
 
           {/* Services */}
@@ -68,7 +68,7 @@ export default function Footer() {
           <p>&copy; {new Date().getFullYear()} CHARRIERE SARL — Tous droits réservés</p>
           <div className="flex gap-4">
             <Link href="/mentions-legales" className="hover:text-gray-200">Mentions légales</Link>
-            <Link href="/politique-confidentialite" className="hover:text-gray-200">Confidentialité</Link>
+            <Link href="/mentions-legales#rgpd" className="hover:text-gray-200">Confidentialité</Link>
           </div>
         </div>
       </div>
