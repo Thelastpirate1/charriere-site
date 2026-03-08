@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://charriere-sarl.fr/sitemap.xml",
+    sitemap: "https://charriere-artisan.fr/sitemap.xml",
   };
 }

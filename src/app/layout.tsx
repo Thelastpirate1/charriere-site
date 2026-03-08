@@ -50,7 +50,7 @@ export default function RootLayout({
               name: "CHARRIERE SARL",
               description:
                 "Artisan poseur de cuisine et tous corps de métier à Gargenville (78). 20 ans d'expérience.",
-              url: "https://charriere-sarl.fr",
+              url: "https://charriere-artisan.fr",
               telephone: "+33600000000",
               address: {
                 "@type": "PostalAddress",
