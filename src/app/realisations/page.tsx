@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { ArrowRight, ChefHat, Bath, Wrench, Ruler } from "lucide-react";
 
 export const metadata: Metadata = {
@@ -17,15 +18,15 @@ const categories = [
 ];
 
 const projects = [
-  { category: "cuisine", icon: ChefHat, title: "Cuisine Schmidt — Poissy", desc: "Pose complète cuisine L, plan de travail quartz, crédence carrelage métro", lieu: "Poissy (78)" },
-  { category: "cuisine", icon: ChefHat, title: "Cuisine Ixina — Mantes-la-Jolie", desc: "Installation cuisine en U, îlot central, raccordements plomberie/électricité", lieu: "Mantes-la-Jolie (78)" },
-  { category: "sdb", icon: Bath, title: "Salle de bain — Conflans", desc: "Rénovation complète : douche à l'italienne, double vasque, carrelage grand format", lieu: "Conflans-Ste-Honorine (78)" },
-  { category: "reno", icon: Wrench, title: "Rénovation appartement — Cergy", desc: "Rénovation complète T3 : peinture, sol, cuisine, salle de bain", lieu: "Cergy (95)" },
-  { category: "cuisine", icon: ChefHat, title: "Cuisine Mobalpa — St-Germain", desc: "Pose cuisine haut de gamme, plan travail marbre, électroménager encastré", lieu: "Saint-Germain-en-Laye (78)" },
-  { category: "mesure", icon: Ruler, title: "Dressing sur-mesure — Verneuil", desc: "Aménagement dressing sous combles, éclairage LED intégré", lieu: "Verneuil-sur-Seine (78)" },
-  { category: "sdb", icon: Bath, title: "Salle d'eau — Gargenville", desc: "Création salle d'eau en sous-sol, plomberie neuve, carrelage imitation bois", lieu: "Gargenville (78)" },
-  { category: "reno", icon: Wrench, title: "Rénovation maison — Épône", desc: "Rénovation cuisine + 2 salles de bain + peinture complète", lieu: "Épône (78)" },
-  { category: "cuisine", icon: ChefHat, title: "Relooking cuisine — Les Mureaux", desc: "Remplacement plan de travail, nouvelles poignées, peinture meubles", lieu: "Les Mureaux (78)" },
+  { category: "cuisine", icon: ChefHat, title: "Cuisine Schmidt — Poissy", desc: "Pose complète cuisine L, plan de travail quartz, crédence carrelage métro", lieu: "Poissy (78)", image: "/images/real-cuisine-schmidt-poissy.webp" },
+  { category: "cuisine", icon: ChefHat, title: "Cuisine Ixina — Mantes-la-Jolie", desc: "Installation cuisine en U, îlot central, raccordements plomberie/électricité", lieu: "Mantes-la-Jolie (78)", image: "/images/real-cuisine-ixina-mantes.webp" },
+  { category: "sdb", icon: Bath, title: "Salle de bain — Conflans", desc: "Rénovation complète : douche à l'italienne, double vasque, carrelage grand format", lieu: "Conflans-Ste-Honorine (78)", image: "/images/real-sdb-conflans.webp" },
+  { category: "reno", icon: Wrench, title: "Rénovation appartement — Cergy", desc: "Rénovation complète T3 : peinture, sol, cuisine, salle de bain", lieu: "Cergy (95)", image: "/images/real-renov-cergy.webp" },
+  { category: "cuisine", icon: ChefHat, title: "Cuisine Mobalpa — St-Germain", desc: "Pose cuisine haut de gamme, plan travail marbre, électroménager encastré", lieu: "Saint-Germain-en-Laye (78)", image: "/images/real-cuisine-mobalpa-stgermain.webp" },
+  { category: "mesure", icon: Ruler, title: "Dressing sur-mesure — Verneuil", desc: "Aménagement dressing sous combles, éclairage LED intégré", lieu: "Verneuil-sur-Seine (78)", image: "/images/real-dressing-verneuil.webp" },
+  { category: "sdb", icon: Bath, title: "Salle d'eau — Gargenville", desc: "Création salle d'eau en sous-sol, plomberie neuve, carrelage imitation bois", lieu: "Gargenville (78)", image: "/images/real-sde-gargenville.webp" },
+  { category: "reno", icon: Wrench, title: "Rénovation maison — Épône", desc: "Rénovation cuisine + 2 salles de bain + peinture complète", lieu: "Épône (78)", image: "/images/real-renov-epone.webp" },
+  { category: "cuisine", icon: ChefHat, title: "Relooking cuisine — Les Mureaux", desc: "Remplacement plan de travail, nouvelles poignées, peinture meubles", lieu: "Les Mureaux (78)", image: "/images/real-relooking-mureaux.webp" },
 ];
 
 export default function RealisationsPage() {
@@ -42,15 +43,7 @@ export default function RealisationsPage() {
         </div>
       </section>
 
-      {/* Note photos */}
-      <section className="py-8 bg-[#FEF9E7] border-b border-[#F39C12]/20">
-        <div className="max-w-5xl mx-auto px-4 text-center">
-          <p className="text-sm text-[#7D6608]">
-            <strong>Photos à venir</strong> — Nous documentons actuellement nos chantiers.
-            Les photos avant/après seront ajoutées prochainement.
-          </p>
-        </div>
-      </section>
+
 
       {/* Projects grid */}
       <section className="py-16 md:py-24">
@@ -58,9 +51,14 @@ export default function RealisationsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {projects.map((p, i) => (
               <div key={i} className="card-hover bg-white rounded-xl overflow-hidden shadow-sm border border-gray-100">
-                {/* Image placeholder */}
-                <div className="aspect-[16/10] bg-gradient-to-br from-[#1B4F72] to-[#2E86C1] flex items-center justify-center">
-                  <p.icon className="w-12 h-12 text-white/30" />
+                <div className="aspect-[16/10] relative overflow-hidden">
+                  <Image
+                    src={p.image}
+                    alt={p.title}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  />
                 </div>
                 <div className="p-5">
                   <span className="text-xs font-semibold text-[#E67E22] uppercase">{p.lieu}</span>

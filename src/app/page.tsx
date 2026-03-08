@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import {
   ChefHat, Wrench, Bath, Ruler, Star, Shield, Clock, CheckCircle,
   ArrowRight, Award, Users, Home, Hammer, MessageCircle
@@ -162,11 +163,15 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
             <div className="relative">
-              <div className="aspect-[4/3] rounded-2xl bg-gradient-to-br from-[#1B4F72] to-[#2E86C1] flex items-center justify-center">
-                <div className="text-center text-white/80">
-                  <Hammer className="w-16 h-16 mx-auto mb-4 opacity-50" />
-                  <p className="text-sm">Photo chantier cuisine</p>
-                </div>
+              <div className="aspect-[4/3] rounded-2xl overflow-hidden relative">
+                <Image
+                  src="/images/hero-about.webp"
+                  alt="Artisan posant une cuisine"
+                  fill
+                  className="object-cover rounded-2xl"
+                  sizes="(max-width: 1024px) 100vw, 50vw"
+                  priority
+                />
               </div>
               <div className="absolute -bottom-4 -right-4 bg-[#E67E22] text-white px-6 py-3 rounded-xl shadow-lg">
                 <span className="text-2xl font-bold">20+</span>

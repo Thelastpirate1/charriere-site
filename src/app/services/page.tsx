@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import {
   ChefHat, Wrench, Bath, Ruler, PaintBucket, Plug, Droplets, LayoutGrid,
   ArrowRight, CheckCircle
@@ -14,6 +15,7 @@ export const metadata: Metadata = {
 const allServices = [
   {
     id: "pose-cuisine",
+    image: "/images/service-cuisine.webp",
     icon: ChefHat,
     title: "Pose de Cuisine Équipée",
     subtitle: "Notre spécialité depuis 20 ans",
@@ -31,6 +33,7 @@ const allServices = [
   },
   {
     id: "renovation",
+    image: "/images/service-renovation.webp",
     icon: Wrench,
     title: "Rénovation Intérieure",
     subtitle: "Tous corps de métier",
@@ -48,6 +51,7 @@ const allServices = [
   },
   {
     id: "salle-de-bain",
+    image: "/images/service-sdb.webp",
     icon: Bath,
     title: "Salle de Bain",
     subtitle: "Création & Rénovation",
@@ -65,6 +69,7 @@ const allServices = [
   },
   {
     id: "amenagement",
+    image: "/images/service-amenagement.webp",
     icon: Ruler,
     title: "Aménagement Sur-Mesure",
     subtitle: "Solutions personnalisées",
@@ -110,8 +115,14 @@ export default function ServicesPage() {
               <div className={`grid grid-cols-1 lg:grid-cols-5 gap-8 items-start ${i % 2 === 1 ? "lg:flex-row-reverse" : ""}`}>
                 {/* Image placeholder */}
                 <div className="lg:col-span-2">
-                  <div className="aspect-[4/3] rounded-2xl bg-gradient-to-br from-[#1B4F72] to-[#2E86C1] flex items-center justify-center">
-                    <s.icon className="w-16 h-16 text-white/40" />
+                  <div className="aspect-[4/3] rounded-2xl overflow-hidden relative">
+                    <Image
+                      src={s.image}
+                      alt={s.title}
+                      fill
+                      className="object-cover rounded-2xl"
+                      sizes="(max-width: 1024px) 100vw, 40vw"
+                    />
                   </div>
                 </div>
 
