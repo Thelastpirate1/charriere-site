@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from "lucide-react";
+import { Mail, MapPin, Clock, Send, CheckCircle, PhoneCall, Shield, Zap } from "lucide-react";
 
 const serviceOptions = [
   "Pose de cuisine",
@@ -25,10 +25,10 @@ export default function ContactPage() {
       {/* Header */}
       <section className="gradient-hero pt-32 pb-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Contactez-nous</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Être rappelé gratuitement</h1>
           <p className="text-lg text-white/80 max-w-2xl mx-auto">
-            Demandez votre devis gratuit ou posez-nous vos questions.
-            Nous répondons sous 48h.
+            Laissez-nous vos coordonnées et décrivez votre projet.
+            Nous vous rappelons sous 48h pour un devis gratuit.
           </p>
         </div>
       </section>
@@ -40,58 +40,75 @@ export default function ContactPage() {
             {/* Contact info */}
             <div className="lg:col-span-2 space-y-8">
               <div>
-                <h2 className="text-2xl font-bold text-[#1B4F72] mb-6">Nos coordonnées</h2>
+                <h2 className="text-2xl font-bold text-[#1B4F72] mb-6">Comment ça marche ?</h2>
                 <ul className="space-y-5">
                   <li className="flex items-start gap-4">
-                    <div className="w-10 h-10 rounded-lg bg-[#1B4F72]/10 flex items-center justify-center shrink-0">
-                      <Phone className="w-5 h-5 text-[#1B4F72]" />
+                    <div className="w-10 h-10 rounded-lg bg-[#E67E22]/10 flex items-center justify-center shrink-0">
+                      <Send className="w-5 h-5 text-[#E67E22]" />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-[#2C3E50]">Téléphone</h3>
-                      <a href="tel:+33600000000" className="text-[#E67E22] font-medium hover:underline">
-                        06 XX XX XX XX
-                      </a>
+                      <h3 className="font-semibold text-[#2C3E50]">1. Décrivez votre projet</h3>
+                      <p className="text-gray-600 text-sm">Remplissez le formulaire avec les détails de votre projet et vos coordonnées.</p>
                     </div>
                   </li>
                   <li className="flex items-start gap-4">
-                    <div className="w-10 h-10 rounded-lg bg-[#1B4F72]/10 flex items-center justify-center shrink-0">
-                      <Mail className="w-5 h-5 text-[#1B4F72]" />
+                    <div className="w-10 h-10 rounded-lg bg-[#E67E22]/10 flex items-center justify-center shrink-0">
+                      <PhoneCall className="w-5 h-5 text-[#E67E22]" />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-[#2C3E50]">Email</h3>
-                      <a href="mailto:contact@charriere-sarl.fr" className="text-[#E67E22] font-medium hover:underline">
-                        contact@charriere-sarl.fr
-                      </a>
+                      <h3 className="font-semibold text-[#2C3E50]">2. Nous vous rappelons</h3>
+                      <p className="text-gray-600 text-sm">Un artisan vous contacte sous 48h pour discuter de votre projet et planifier une visite.</p>
                     </div>
                   </li>
                   <li className="flex items-start gap-4">
-                    <div className="w-10 h-10 rounded-lg bg-[#1B4F72]/10 flex items-center justify-center shrink-0">
-                      <MapPin className="w-5 h-5 text-[#1B4F72]" />
+                    <div className="w-10 h-10 rounded-lg bg-[#E67E22]/10 flex items-center justify-center shrink-0">
+                      <Zap className="w-5 h-5 text-[#E67E22]" />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-[#2C3E50]">Adresse</h3>
-                      <p className="text-gray-600 text-sm">78440 Gargenville<br />Yvelines, Île-de-France</p>
-                    </div>
-                  </li>
-                  <li className="flex items-start gap-4">
-                    <div className="w-10 h-10 rounded-lg bg-[#1B4F72]/10 flex items-center justify-center shrink-0">
-                      <Clock className="w-5 h-5 text-[#1B4F72]" />
-                    </div>
-                    <div>
-                      <h3 className="font-semibold text-[#2C3E50]">Horaires</h3>
-                      <p className="text-gray-600 text-sm">Lundi — Vendredi : 8h — 18h<br />Samedi : sur rendez-vous</p>
+                      <h3 className="font-semibold text-[#2C3E50]">3. Devis gratuit sur place</h3>
+                      <p className="text-gray-600 text-sm">Visite gratuite, prise de mesures et devis détaillé sans engagement.</p>
                     </div>
                   </li>
                 </ul>
               </div>
 
-              {/* Zone */}
-              <div className="bg-gray-50 rounded-xl p-6">
-                <h3 className="font-semibold text-[#2C3E50] mb-3">Zone d&apos;intervention</h3>
-                <p className="text-sm text-gray-600 leading-relaxed">
-                  Nous intervenons dans tout le département des Yvelines (78) ainsi que dans
-                  le Val-d&apos;Oise (95), les Hauts-de-Seine (92), l&apos;Eure (27) et l&apos;Oise (60).
-                </p>
+              {/* Reassurance */}
+              <div className="bg-[#1B4F72]/5 rounded-xl p-6">
+                <div className="flex items-center gap-3 mb-3">
+                  <Shield className="w-5 h-5 text-[#27AE60]" />
+                  <h3 className="font-semibold text-[#2C3E50]">Nos engagements</h3>
+                </div>
+                <ul className="text-sm text-gray-600 space-y-2">
+                  <li>Rappel sous 48h maximum</li>
+                  <li>Devis gratuit et sans engagement</li>
+                  <li>Vos données restent confidentielles</li>
+                  <li>Garantie décennale sur tous les travaux</li>
+                </ul>
+              </div>
+
+              {/* Zone + infos */}
+              <div className="space-y-4">
+                <div className="flex items-start gap-3">
+                  <MapPin className="w-5 h-5 text-[#1B4F72] mt-0.5 shrink-0" />
+                  <div>
+                    <h4 className="text-sm font-semibold text-[#2C3E50]">Zone d&apos;intervention</h4>
+                    <p className="text-sm text-gray-500">Yvelines (78), Val-d&apos;Oise (95), Hauts-de-Seine (92), Eure (27)</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <Clock className="w-5 h-5 text-[#1B4F72] mt-0.5 shrink-0" />
+                  <div>
+                    <h4 className="text-sm font-semibold text-[#2C3E50]">Disponibilités</h4>
+                    <p className="text-sm text-gray-500">Lun-Ven 8h-18h, Samedi sur rendez-vous</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <Mail className="w-5 h-5 text-[#1B4F72] mt-0.5 shrink-0" />
+                  <div>
+                    <h4 className="text-sm font-semibold text-[#2C3E50]">Email</h4>
+                    <a href="mailto:contact@charriere-artisan.fr" className="text-sm text-[#E67E22] hover:underline">contact@charriere-artisan.fr</a>
+                  </div>
+                </div>
               </div>
             </div>
 
@@ -102,14 +119,14 @@ export default function ContactPage() {
                   <CheckCircle className="w-16 h-16 text-[#27AE60] mx-auto mb-4" />
                   <h2 className="text-2xl font-bold text-[#2C3E50] mb-2">Demande envoyée !</h2>
                   <p className="text-gray-600">
-                    Merci pour votre message. Nous vous recontacterons sous 48h
+                    Merci pour votre message. Nous vous rappellerons sous 48h
                     pour discuter de votre projet.
                   </p>
                 </div>
               ) : (
                 <form onSubmit={handleSubmit} className="bg-white rounded-2xl shadow-lg border border-gray-100 p-6 md:p-8 space-y-5">
-                  <h2 className="text-2xl font-bold text-[#1B4F72] mb-2">Demande de devis gratuit</h2>
-                  <p className="text-sm text-gray-500 mb-6">Remplissez le formulaire, nous vous recontactons sous 48h.</p>
+                  <h2 className="text-2xl font-bold text-[#1B4F72] mb-2">Demande de rappel gratuit</h2>
+                  <p className="text-sm text-gray-500 mb-6">Remplissez le formulaire, nous vous rappelons sous 48h pour discuter de votre projet.</p>
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
@@ -134,7 +151,7 @@ export default function ContactPage() {
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
-                      <label className="block text-sm font-medium text-[#2C3E50] mb-1">Téléphone *</label>
+                      <label className="block text-sm font-medium text-[#2C3E50] mb-1">Téléphone (pour le rappel) *</label>
                       <input
                         type="tel"
                         required
@@ -189,8 +206,8 @@ export default function ContactPage() {
                     type="submit"
                     className="w-full flex items-center justify-center gap-2 px-6 py-4 bg-[#E67E22] text-white font-semibold rounded-lg hover:bg-[#D35400] transition-colors text-lg"
                   >
-                    <Send className="w-5 h-5" />
-                    Envoyer ma demande de devis
+                    <PhoneCall className="w-5 h-5" />
+                    Demander à être rappelé
                   </button>
 
                   <p className="text-xs text-gray-400 text-center">

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Phone, Mail, MapPin, Clock } from "lucide-react";
+import { Mail, MapPin, Clock, MessageCircle } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -44,12 +44,12 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-3 text-sm text-gray-300">
               <li className="flex items-start gap-2">
-                <Phone className="w-4 h-4 mt-0.5 text-[#E67E22]" />
-                <a href="tel:+33600000000" className="hover:text-[#E67E22]">06 XX XX XX XX</a>
+                <MessageCircle className="w-4 h-4 mt-0.5 text-[#E67E22]" />
+                <Link href="/contact" className="hover:text-[#E67E22]">Demander à être rappelé</Link>
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="w-4 h-4 mt-0.5 text-[#E67E22]" />
-                <a href="mailto:contact@charriere-sarl.fr" className="hover:text-[#E67E22]">contact@charriere-sarl.fr</a>
+                <a href="mailto:contact@charriere-artisan.fr" className="hover:text-[#E67E22]">contact@charriere-artisan.fr</a>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-0.5 text-[#E67E22]" />

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import {
   ChefHat, Wrench, Bath, Ruler, Star, Shield, Clock, CheckCircle,
-  Phone, ArrowRight, Award, Users, Home, Hammer
+  ArrowRight, Award, Users, Home, Hammer, MessageCircle
 } from "lucide-react";
 
 const services = [
@@ -95,13 +95,13 @@ export default function HomePage() {
                 Demander un devis gratuit
                 <ArrowRight className="w-5 h-5" />
               </Link>
-              <a
-                href="tel:+33600000000"
+              <Link
+                href="/contact"
                 className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-sm text-white text-lg font-semibold rounded-xl border border-white/20 hover:bg-white/20 transition-colors"
               >
-                <Phone className="w-5 h-5" />
-                06 XX XX XX XX
-              </a>
+                <MessageCircle className="w-5 h-5" />
+                Être rappelé gratuitement
+              </Link>
             </div>
           </div>
         </div>
@@ -273,9 +273,9 @@ export default function HomePage() {
             <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-[#E67E22] text-white text-lg font-semibold rounded-xl hover:bg-[#D35400] transition-colors">
               Demander un devis gratuit <ArrowRight className="w-5 h-5" />
             </Link>
-            <a href="tel:+33600000000" className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-sm text-white text-lg font-semibold rounded-xl border border-white/20 hover:bg-white/20 transition-colors">
-              <Phone className="w-5 h-5" /> Appeler maintenant
-            </a>
+            <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-sm text-white text-lg font-semibold rounded-xl border border-white/20 hover:bg-white/20 transition-colors">
+              <MessageCircle className="w-5 h-5" /> Être rappelé gratuitement
+            </Link>
           </div>
         </div>
       </section>

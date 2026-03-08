@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
-import { Menu, X, Phone, ChefHat } from "lucide-react";
+import { Menu, X, ChefHat } from "lucide-react";
 
 const navLinks = [
   { href: "/", label: "Accueil" },
@@ -41,20 +41,13 @@ export default function Header() {
             ))}
           </nav>
 
-          {/* CTA + Phone */}
-          <div className="hidden md:flex items-center gap-4">
-            <a
-              href="tel:+33600000000"
-              className="flex items-center gap-2 text-sm font-medium text-[#1B4F72]"
-            >
-              <Phone className="w-4 h-4" />
-              06 XX XX XX XX
-            </a>
+          {/* CTA */}
+          <div className="hidden md:flex items-center gap-3">
             <Link
               href="/contact"
               className="px-5 py-2.5 bg-[#E67E22] text-white text-sm font-semibold rounded-lg hover:bg-[#D35400] transition-colors"
             >
-              Devis gratuit
+              Être rappelé gratuitement
             </Link>
           </div>
 
@@ -84,19 +77,12 @@ export default function Header() {
               </Link>
             ))}
             <div className="pt-3 border-t">
-              <a
-                href="tel:+33600000000"
-                className="flex items-center gap-2 text-[#1B4F72] font-medium mb-3"
-              >
-                <Phone className="w-4 h-4" />
-                06 XX XX XX XX
-              </a>
               <Link
                 href="/contact"
                 onClick={() => setOpen(false)}
                 className="block text-center px-5 py-3 bg-[#E67E22] text-white font-semibold rounded-lg"
               >
-                Devis gratuit
+                Être rappelé gratuitement
               </Link>
             </div>
           </nav>
