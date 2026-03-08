@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { Mail, MapPin, Clock, Send, CheckCircle, PhoneCall, Shield, Zap } from "lucide-react";
+import { Mail, MapPin, Clock, Send, CheckCircle, PhoneCall, Shield, Zap, AlertCircle, Loader2 } from "lucide-react";
 
 const serviceOptions = [
   "Pose de cuisine",
@@ -13,11 +13,50 @@ const serviceOptions = [
 
 export default function ContactPage() {
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
 
-  const handleSubmit = (e: React.FormEvent) => {
+  // Form fields
+  const [name, setName] = useState("");
+  const [firstName, setFirstName] = useState("");
+  const [phone, setPhone] = useState("");
+  const [email, setEmail] = useState("");
+  const [city, setCity] = useState("");
+  const [projectType, setProjectType] = useState("");
+  const [message, setMessage] = useState("");
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Connect to email service or API
-    setSubmitted(true);
+    setLoading(true);
+    setError("");
+
+    try {
+      const res = await fetch("https://n8n.otsdr.fr/webhook/charriere-contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: `${firstName} ${name}`.trim(),
+          email: email || "non-fourni@charriere-artisan.fr",
+          phone,
+          projectType,
+          message: city ? `[Ville: ${city}] ${message}` : message,
+        }),
+      });
+
+      if (!res.ok) {
+        const data = await res.json().catch(() => null);
+        throw new Error(data?.error || "Erreur lors de l'envoi");
+      }
+
+      setSubmitted(true);
+    } catch (err) {
+      console.error("Form submit error:", err);
+      setError(
+        "Une erreur est survenue. Vous pouvez nous appeler directement au 06 75 43 95 80."
+      );
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -128,6 +167,13 @@ export default function ContactPage() {
                   <h2 className="text-2xl font-bold text-[#1B4F72] mb-2">Demande de rappel gratuit</h2>
                   <p className="text-sm text-gray-500 mb-6">Remplissez le formulaire, nous vous rappelons sous 48h pour discuter de votre projet.</p>
 
+                  {error && (
+                    <div className="flex items-start gap-3 bg-red-50 border border-red-200 rounded-lg p-4">
+                      <AlertCircle className="w-5 h-5 text-red-500 shrink-0 mt-0.5" />
+                      <p className="text-sm text-red-700">{error}</p>
+                    </div>
+                  )}
+
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
                       <label className="block text-sm font-medium text-[#2C3E50] mb-1">Nom *</label>
@@ -135,7 +181,10 @@ export default function ContactPage() {
                         type="text"
                         required
                         placeholder="Votre nom"
-                        className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none"
+                        value={name}
+                        onChange={(e) => setName(e.target.value)}
+                        disabled={loading}
+                        className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none disabled:opacity-50"
                       />
                     </div>
                     <div>
@@ -144,7 +193,10 @@ export default function ContactPage() {
                         type="text"
                         required
                         placeholder="Votre prénom"
-                        className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none"
+                        value={firstName}
+                        onChange={(e) => setFirstName(e.target.value)}
+                        disabled={loading}
+                        className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none disabled:opacity-50"
                       />
                     </div>
                   </div>
@@ -156,7 +208,10 @@ export default function ContactPage() {
                         type="tel"
                         required
                         placeholder="06 XX XX XX XX"
-                        className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none"
+                        value={phone}
+                        onChange={(e) => setPhone(e.target.value)}
+                        disabled={loading}
+                        className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none disabled:opacity-50"
                       />
                     </div>
                     <div>
@@ -164,7 +219,10 @@ export default function ContactPage() {
                       <input
                         type="email"
                         placeholder="votre@email.fr"
-                        className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none"
+                        value={email}
+                        onChange={(e) => setEmail(e.target.value)}
+                        disabled={loading}
+                        className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none disabled:opacity-50"
                       />
                     </div>
                   </div>
@@ -175,7 +233,10 @@ export default function ContactPage() {
                       type="text"
                       required
                       placeholder="Ex : Poissy (78)"
-                      className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none"
+                      value={city}
+                      onChange={(e) => setCity(e.target.value)}
+                      disabled={loading}
+                      className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none disabled:opacity-50"
                     />
                   </div>
 
@@ -183,7 +244,10 @@ export default function ContactPage() {
                     <label className="block text-sm font-medium text-[#2C3E50] mb-1">Type de travaux *</label>
                     <select
                       required
-                      className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none bg-white"
+                      value={projectType}
+                      onChange={(e) => setProjectType(e.target.value)}
+                      disabled={loading}
+                      className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none bg-white disabled:opacity-50"
                     >
                       <option value="">Sélectionnez un service</option>
                       {serviceOptions.map((o) => (
@@ -198,16 +262,29 @@ export default function ContactPage() {
                       required
                       rows={4}
                       placeholder="Décrivez votre projet : surface, type de travaux, contraintes particulières, date souhaitée..."
-                      className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none resize-none"
+                      value={message}
+                      onChange={(e) => setMessage(e.target.value)}
+                      disabled={loading}
+                      className="w-full px-4 py-3 border border-gray-200 rounded-lg text-sm focus:ring-2 focus:ring-[#1B4F72] focus:border-transparent outline-none resize-none disabled:opacity-50"
                     />
                   </div>
 
                   <button
                     type="submit"
-                    className="w-full flex items-center justify-center gap-2 px-6 py-4 bg-[#E67E22] text-white font-semibold rounded-lg hover:bg-[#D35400] transition-colors text-lg"
+                    disabled={loading}
+                    className="w-full flex items-center justify-center gap-2 px-6 py-4 bg-[#E67E22] text-white font-semibold rounded-lg hover:bg-[#D35400] transition-colors text-lg disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    <PhoneCall className="w-5 h-5" />
-                    Demander à être rappelé
+                    {loading ? (
+                      <>
+                        <Loader2 className="w-5 h-5 animate-spin" />
+                        Envoi en cours...
+                      </>
+                    ) : (
+                      <>
+                        <PhoneCall className="w-5 h-5" />
+                        Demander à être rappelé
+                      </>
+                    )}
                   </button>
 
                   <p className="text-xs text-gray-400 text-center">
