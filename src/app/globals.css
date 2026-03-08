@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #1B4F72;
+  --color-primary-light: #2E86C1;
+  --color-accent: #E67E22;
+  --color-accent-light: #F39C12;
+  --color-dark: #2C3E50;
+  --color-light: #ECF0F1;
+  --color-success: #27AE60;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #2C3E50;
+  background: #ffffff;
+}
+
+.gradient-hero {
+  background: linear-gradient(135deg, #1B4F72 0%, #154360 50%, #2C3E50 100%);
+}
+
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
