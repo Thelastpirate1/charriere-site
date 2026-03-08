@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import {
   ChefHat, Wrench, Bath, Ruler, PaintBucket, Plug, Droplets, LayoutGrid,
-  ArrowRight, Phone, CheckCircle
+  ArrowRight, CheckCircle
 } from "lucide-react";
 
 export const metadata: Metadata = {
@@ -182,9 +182,9 @@ export default function ServicesPage() {
             <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-[#E67E22] text-white font-semibold rounded-xl hover:bg-[#D35400] transition-colors">
               Demander un devis <ArrowRight className="w-5 h-5" />
             </Link>
-            <a href="tel:+33600000000" className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 text-white font-semibold rounded-xl border border-white/20 hover:bg-white/20 transition-colors">
-              <Phone className="w-5 h-5" /> 06 XX XX XX XX
-            </a>
+            <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 text-white font-semibold rounded-xl border border-white/20 hover:bg-white/20 transition-colors">
+              Être rappelé gratuitement
+            </Link>
           </div>
         </div>
       </section>
