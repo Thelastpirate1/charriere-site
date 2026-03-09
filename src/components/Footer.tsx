@@ -31,11 +31,12 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Zone d&apos;intervention</h4>
             <ul className="space-y-2 text-sm text-gray-300">
-              <li>Gargenville &amp; environs</li>
-              <li>Mantes-la-Jolie, Poissy</li>
-              <li>Saint-Germain-en-Laye</li>
-              <li>Conflans, Cergy-Pontoise</li>
-              <li>Tout le département 78</li>
+              <li><Link href="/artisan-mantes-la-jolie" className="hover:text-[#E67E22] transition-colors">Mantes-la-Jolie</Link></li>
+              <li><Link href="/artisan-les-mureaux" className="hover:text-[#E67E22] transition-colors">Les Mureaux</Link></li>
+              <li><Link href="/artisan-poissy" className="hover:text-[#E67E22] transition-colors">Poissy</Link></li>
+              <li><Link href="/artisan-saint-germain-en-laye" className="hover:text-[#E67E22] transition-colors">Saint-Germain-en-Laye</Link></li>
+              <li><Link href="/artisan-conflans-sainte-honorine" className="hover:text-[#E67E22] transition-colors">Conflans-Sainte-Honorine</Link></li>
+              <li><Link href="/artisan-sartrouville" className="hover:text-[#E67E22] transition-colors">Sartrouville</Link></li>
             </ul>
           </div>
 
