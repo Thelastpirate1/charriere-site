@@ -7,6 +7,9 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  verification: {
+    google: "0_dwmKqardFRGLlk-nc3EF2381DpoGgJibF7tf0MeAU",
+  },
   title: {
     default: "CHARRIERE SARL — Pose de Cuisine & Artisanat | Yvelines (78)",
     template: "%s | CHARRIERE SARL",
