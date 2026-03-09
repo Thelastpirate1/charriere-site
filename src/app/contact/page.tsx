@@ -48,6 +48,15 @@ export default function ContactPage() {
         throw new Error(data?.error || "Erreur lors de l'envoi");
       }
 
+      // Envoi événement GA4 conversion
+      if (typeof window !== "undefined" && typeof window.gtag === "function") {
+        window.gtag("event", "generate_lead", {
+          event_category: "formulaire",
+          event_label: projectType,
+          value: 1,
+        });
+      }
+
       setSubmitted(true);
     } catch (err) {
       console.error("Form submit error:", err);
