@@ -24,6 +24,7 @@ export default function Footer() {
               <li><Link href="/services#renovation" className="hover:text-[#E67E22] transition-colors">Rénovation intérieure</Link></li>
               <li><Link href="/services#salle-de-bain" className="hover:text-[#E67E22] transition-colors">Salle de bain</Link></li>
               <li><Link href="/services#amenagement" className="hover:text-[#E67E22] transition-colors">Aménagement sur-mesure</Link></li>
+              <li><Link href="/blog" className="hover:text-[#E67E22] transition-colors">Blog & Conseils</Link></li>
             </ul>
           </div>
 
