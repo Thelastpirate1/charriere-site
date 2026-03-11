@@ -13,6 +13,82 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "tendances-carrelage-salle-de-bain-2026-gargenville-poissy",
+    title: "Tendances Carrelage Salle de Bain 2026 : Guide Complet pour une Rénovation Moderne",
+    metaTitle: "Tendances Carrelage Salle de Bain 2026 — Rénovation Moderne | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les tendances carrelage salle de bain 2026 avec CHARRIERE SARL. Formats, couleurs, matières : tout pour réussir votre rénovation à Gargenville et Poissy.",
+    keywords: ["tendances carrelage salle de bain 2026","rénovation salle de bain moderne","carrelage tendance Gargenville","carrelage salle de bain Poissy"],
+    excerpt:
+      "Les tendances carrelage 2026 privilégient les grands formats, les finitions naturelles et les couleurs apaisantes pour créer des salles de bain modernes et fonctionnelles.",
+    publishedAt: "2026-03-11",
+    readTime: "6 min",
+    category: "Salle de bain",
+    content: `L'année 2026 marque un tournant dans l'univers du carrelage pour salle de bain. Les propriétaires de Gargenville, Poissy et des communes environnantes des Yvelines recherchent désormais des revêtements qui allient esthétisme contemporain et durabilité. Cette évolution reflète une nouvelle approche de la rénovation, où la salle de bain devient un véritable espace de bien-être.
+
+## Les grands formats : la tendance incontournable de 2026
+
+Les carreaux grand format dominent les tendances 2026. Ces dimensions généreuses, allant de 60x120 cm jusqu'à 120x240 cm, transforment visuellement l'espace en créant une sensation d'ampleur. Dans les projets de rénovation que nous réalisons chez CHARRIERE SARL, notamment à Gargenville et dans les communes limitrophes, nous constatons que nos clients privilégient ces formats pour leur capacité à moderniser instantanément une salle de bain.
+
+Ces grands carreaux présentent plusieurs avantages pratiques. Moins de joints signifie moins d'entretien et une surface plus hygiénique. L'effet visuel est également saisissant : les lignes épurées créent une continuité qui agrandit visuellement l'espace, particulièrement appréciable dans les salles de bain de dimensions moyennes que l'on retrouve fréquemment dans les maisons des Yvelines.
+
+## Couleurs et nuances : vers la sérénité et l'authenticité
+
+Les palettes chromatiques 2026 s'orientent vers des teintes qui favorisent la détente. Les beiges chauds, les gris doux et les blancs cassés remplacent progressivement le blanc pur, trop froid pour l'atmosphère cocooning recherchée aujourd'hui.
+
+Les tons terreux gagnent également en popularité. Ces couleurs inspirées de la nature, du sable aux ocres en passant par les terres cuites douces, apportent une dimension organique à l'espace. Dans nos chantiers à Poissy et aux alentours, nous observons une forte demande pour ces teintes qui s'harmonisent parfaitement avec les matériaux naturels comme le bois ou la pierre.
+
+Les contrastes subtils font également partie des tendances marquantes. L'association d'un carrelage principal dans des tons neutres avec des accents plus soutenus sur un mur ou dans une niche crée du relief sans surcharger l'espace.
+
+## Matières et finitions : l'authenticité au premier plan
+
+### L'effet pierre naturelle
+
+Les carrelages reproduisant fidèlement l'aspect de la pierre naturelle connaissent un succès grandissant. Travertin, marbre veiné, ardoise ou pierre calcaire : ces imitations atteignent désormais un niveau de réalisme remarquable. Cette tendance répond au désir de reconnecter l'habitat avec des matériaux authentiques, tout en conservant les avantages pratiques du grès cérame.
+
+### Les finitions bois sublimées
+
+Le carrelage aspect bois évolue vers des reproductions plus raffinées. Les essences claires comme le chêne blanchi ou les bois exotiques aux veinages marqués séduisent particulièrement. Ces carrelages permettent d'introduire la chaleur du bois dans la salle de bain sans les contraintes d'entretien du matériau naturel.
+
+### Les surfaces tactiles
+
+Les finitions texturées gagnent du terrain. Reliefs subtils, surfaces légèrement rugueuses ou effets matière apportent une dimension sensorielle à l'espace. Ces finitions antidérapantes sont particulièrement adaptées aux sols de douche, alliant sécurité et esthétisme.
+
+## Formats et poses créatives
+
+### Le retour du format métro revisité
+
+Si les grands formats dominent, le carrelage métro fait son retour sous une forme modernisée. Les dimensions classiques 7,5x15 cm évoluent vers des proportions plus généreuses comme 10x20 cm ou 15x30 cm. La pose traditionnelle en quinconce laisse place à des arrangements plus créatifs : pose verticale pour élancer l'espace ou pose en chevron pour un effet dynamique.
+
+### Les mosaïques contemporaines
+
+Les mosaïques se réinventent avec des matériaux nobles et des formats variés. Les compositions mêlant différentes tailles de carreaux ou associant plusieurs matières créent des surfaces uniques. Ces éléments décoratifs trouvent leur place sur les murs de douche ou derrière les vasques pour créer un point focal.
+
+## Conseils d'expert pour votre projet de rénovation
+
+### Adaptation aux contraintes techniques
+
+Le choix du carrelage doit tenir compte des spécificités techniques de votre salle de bain. L'exposition à l'humidité, les variations de température et le passage fréquent nécessitent des matériaux adaptés. Les carreaux de grès cérame pleine masse offrent une résistance optimale et conviennent à tous les usages.
+
+### Harmonisation avec l'existant
+
+Lors d'une rénovation partielle, l'intégration harmonieuse du nouveau carrelage avec les éléments conservés demande une réflexion approfondie. Les tons neutres facilitent cette transition et permettent une évolution progressive de l'aménagement.
+
+### Budget et mise en œuvre
+
+Les prix varient considérablement selon les matériaux choisis. Comptez entre 25 et 60 euros le m² pour un carrelage de qualité, pose comprise. Les formats spéciaux ou les finitions techniques peuvent porter ce montant à 80 euros le m² ou plus. Un diagnostic préalable permet d'évaluer précisément les travaux nécessaires et d'optimiser votre budget.
+
+## Éclairage et mise en valeur
+
+L'éclairage joue un rôle crucial dans la mise en valeur des nouveaux carrelages. Les éclairages LED intégrés ou les spots orientables permettent de souligner les reliefs et les nuances des matériaux. Cette approche globale de l'aménagement transforme la salle de bain en véritable espace de détente.
+
+## Durabilité et entretien
+
+Les tendances 2026 intègrent également les préoccupations environnementales. Les carrelages certifiés, fabriqués selon des procédés respectueux de l'environnement, séduisent une clientèle soucieuse de son impact écologique. Ces produits offrent également une durabilité exceptionnelle, garantissant un investissement pérenne pour votre habitat.
+
+Pour votre projet de rénovation de salle de bain à Gargenville, Poissy ou dans les Yvelines, CHARRIERE SARL vous accompagne dans le choix et la mise en œuvre de ces nouvelles tendances carrelage. Notre expertise nous permet de vous conseiller les solutions les mieux adaptées à votre espace et à vos besoins. Contactez-nous pour un devis gratuit et découvrez comment transformer votre salle de bain selon les dernières tendances 2026.`,
+  },
+  {
     slug: "comment-choisir-sa-cuisine",
     title: "Comment choisir sa cuisine en 2026 : le guide complet",
     metaTitle: "Comment Choisir sa Cuisine en 2026 — Guide Complet | CHARRIERE SARL",
