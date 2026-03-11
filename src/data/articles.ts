@@ -13,6 +13,76 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renovation-cuisine-ouverte-appartement-haussmannien-mantes-la-jolie",
+    title: "Rénovation d'une cuisine ouverte dans un appartement haussmannien : défis et solutions",
+    metaTitle: "Rénovation cuisine ouverte appartement haussmannien Mantes-la-Jolie | CHARRIERE SARL",
+    metaDescription:
+      "Transformez votre cuisine haussmannienne en espace ouvert dans les Yvelines. Conseils d'expert sur contraintes, évacuations et autorisations copropriété.",
+    keywords: ["renovation cuisine ouverte haussmannien","cuisine appartement ancien Mantes-la-Jolie","renovation cuisine Yvelines","contraintes copropriete cuisine"],
+    excerpt:
+      "Rénover une cuisine ouverte dans un appartement haussmannien nécessite une expertise particulière pour gérer les contraintes techniques et réglementaires.",
+    publishedAt: "2026-03-11",
+    readTime: "8 min",
+    category: "Cuisine",
+    content: `Les appartements haussmanniens de Mantes-la-Jolie et des Yvelines offrent un charme indéniable avec leurs hauts plafonds et leurs moulures d'époque. Cependant, créer une cuisine ouverte dans ces espaces centenaires représente un défi technique majeur qui nécessite une approche experte et méthodique.
+
+## Les spécificités des appartements haussmanniens dans les Yvelines
+
+Les immeubles haussmanniens de Mantes-la-Jolie, Poissy ou Saint-Germain-en-Laye présentent des caractéristiques architecturales particulières. Construits entre 1850 et 1900, ces bâtiments disposent généralement de murs porteurs épais, de canalisations d'origine souvent vétustes et d'une répartition des pièces cloisonnée selon les codes de l'époque.
+
+L'ouverture d'une cuisine sur le salon nécessite une analyse structurelle approfondie. Les murs à abattre peuvent être porteurs, ce qui implique la pose d'une poutre métallique pour reprendre les charges. Cette intervention technique demande l'intervention d'un bureau d'études structure et une déclaration préalable de travaux en mairie.
+
+## Contraintes techniques et évacuations dans l'ancien
+
+La problématique des évacuations constitue l'un des défis majeurs de ce type de rénovation. Les appartements haussmanniens des Yvelines disposent souvent d'évacuations d'eaux usées situées uniquement côté cour, loin de l'emplacement souhaité pour la nouvelle cuisine ouverte.
+
+Le raccordement aux évacuations existantes peut nécessiter la création de chutes supplémentaires ou l'installation de systèmes de relevage. Ces solutions techniques, bien que parfaitement maîtrisées par CHARRIERE SARL, demandent une étude préalable minutieuse pour déterminer la faisabilité et optimiser les coûts.
+
+L'évacuation des fumées représente également un enjeu important. L'installation d'une hotte aspirante performante dans une cuisine ouverte haussmannienne nécessite souvent la création d'un conduit d'évacuation traversant plusieurs étages, ce qui implique des accords avec les autres copropriétaires.
+
+## Gestion de la copropriété et autorisations nécessaires
+
+Tout projet de rénovation dans un immeuble en copropriété de Mantes-la-Jolie ou des communes environnantes doit respecter un cadre réglementaire strict. La création d'une cuisine ouverte implique généralement des modifications de cloisons, ce qui nécessite l'accord du syndic et parfois de l'assemblée générale des copropriétaires.
+
+Les travaux touchant aux parties communes, comme les évacuations ou les conduits de fumée, requièrent une autorisation spécifique. Il convient de présenter un dossier technique complet incluant les plans, l'étude de faisabilité et l'engagement d'un artisan qualifié pour rassurer les autres copropriétaires.
+
+Le règlement de copropriété peut également imposer des contraintes horaires pour les travaux ou des spécifications techniques particulières. Une bonne préparation administrative évite les retards et les surcoûts.
+
+## Solutions techniques adaptées aux contraintes haussmaniennes
+
+### Optimisation de l'espace et circulation
+
+L'aménagement d'une cuisine ouverte dans un appartement haussmannien demande de repenser entièrement la circulation. Les pièces en enfilade typiques de cette époque doivent être réorganisées pour créer un espace fluide et fonctionnel.
+
+L'installation d'un îlot central peut s'avérer délicate en raison des contraintes d'évacuation. Une péninsule adossée au mur existant constitue souvent une solution plus réaliste, permettant d'intégrer l'évier tout en conservant les évacuations d'origine.
+
+### Préservation du cachet architectural
+
+L'un des défis majeurs consiste à concilier modernité de la cuisine ouverte et préservation du caractère haussmannien. Les moulures au plafond, les parquets anciens et les cheminées d'époque doivent être intégrés harmonieusement dans le nouveau design.
+
+Le choix des matériaux devient crucial : un plan de travail en pierre naturelle, des façades en bois massif ou des carreaux de métro peuvent créer un lien subtil entre ancien et contemporain. L'éclairage doit également valoriser les volumes généreux tout en apportant la fonctionnalité nécessaire aux zones de travail.
+
+## Aspects budgétaires et délais de réalisation
+
+La rénovation d'une cuisine ouverte dans un appartement haussmannien représente un investissement conséquent. Comptez entre 25 000 et 45 000 euros pour une réalisation complète incluant l'ouverture des cloisons, la reprise des évacuations, l'électricité et l'aménagement de la cuisine.
+
+Ce budget peut varier selon la complexité des travaux structurels nécessaires. La création d'une chute d'évacuation ou l'installation d'un système de relevage peut ajouter 3 000 à 8 000 euros au devis initial. Les délais s'échelonnent généralement entre 6 et 10 semaines, incluant les phases d'obtention des autorisations.
+
+## Choisir les bons professionnels dans les Yvelines
+
+Ce type de projet nécessite l'intervention de plusieurs corps de métier coordonnés par un chef de projet expérimenté. L'entreprise CHARRIERE SARL, basée à Gargenville, maîtrise parfaitement ces rénovations complexes dans les appartements anciens de Mantes-la-Jolie, Conflans-Sainte-Honorine et de l'ensemble des Yvelines.
+
+L'expérience du bâti ancien fait toute la différence. Anticiper les contraintes, proposer des solutions techniques adaptées et coordonner les différents intervenants permet d'éviter les mauvaises surprises et les dépassements budgétaires.
+
+## Valorisation immobilière et retour sur investissement
+
+Une cuisine ouverte réussie dans un appartement haussmannien apporte une plus-value immobilière significative. Dans les Yvelines, cette rénovation peut augmenter la valeur du bien de 15 à 25 pour cent, particulièrement appréciée par les acquéreurs recherchant le charme de l'ancien avec le confort moderne.
+
+L'amélioration du confort de vie au quotidien justifie également cet investissement. L'espace gagné, la luminosité accrue et la convivialité d'un espace ouvert transforment radicalement l'usage de l'appartement.
+
+Vous envisagez la rénovation d'une cuisine ouverte dans votre appartement haussmannien des Yvelines ? CHARRIERE SARL vous accompagne de l'étude de faisabilité à la réalisation complète de votre projet. Contactez-nous pour un devis gratuit et personnalisé, adapté aux spécificités de votre bien et aux contraintes de votre copropriété.`,
+  },
+  {
     slug: "tendances-carrelage-salle-de-bain-2026-gargenville-poissy",
     title: "Tendances Carrelage Salle de Bain 2026 : Guide Complet pour une Rénovation Moderne",
     metaTitle: "Tendances Carrelage Salle de Bain 2026 — Rénovation Moderne | CHARRIERE SARL",
