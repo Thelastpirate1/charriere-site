@@ -13,6 +13,132 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "isolation-interieure-maison-ancienne-techniques-materiaux-aides-yvelines",
+    title: "Isolation intérieure d'une maison ancienne : tout ce qu'il faut savoir dans les Yvelines",
+    metaTitle: "Isolation Intérieure Maison Ancienne — Guide Complet | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les techniques d'isolation intérieure pour maisons anciennes dans les Yvelines. Matériaux, prix, aides financières et spécificités des pavillons 60-80.",
+    keywords: ["isolation intérieure","maison ancienne","pavillon années 60","isolation Yvelines","rénovation énergétique"],
+    excerpt:
+      "Guide complet pour l'isolation intérieure des maisons anciennes dans les Yvelines : techniques adaptées, matériaux recommandés et aides disponibles.",
+    publishedAt: "2026-03-12",
+    readTime: "8 min",
+    category: "Rénovation",
+    content: `L'isolation intérieure des maisons anciennes représente un enjeu majeur pour améliorer le confort thermique et réduire les factures énergétiques. Dans les Yvelines, où de nombreux pavillons datent des années 60 à 80, cette problématique concerne particulièrement les propriétaires de Gargenville, Mantes-la-Jolie, Poissy ou encore Saint-Germain-en-Laye.
+
+Ces habitations, construites avant les premières réglementations thermiques strictes, présentent souvent des défauts d'isolation qui génèrent inconfort et surconsommation énergétique. Comprendre les spécificités de ces constructions et les solutions adaptées devient essentiel pour mener à bien un projet de rénovation.
+
+## Les spécificités des maisons anciennes dans les Yvelines
+
+### Les pavillons des années 60-80 : un patrimoine à rénover
+
+Les pavillons construits entre 1960 et 1980 dans les Yvelines présentent des caractéristiques communes. Ces maisons, nombreuses à Conflans-Sainte-Honorine, Sartrouville ou Les Mureaux, ont été édifiées avec des matériaux de l'époque : parpaings de 20 cm, cloisons en béton cellulaire, et souvent une absence totale d'isolation thermique.
+
+Les murs extérieurs de ces constructions sont généralement composés d'une seule épaisseur de parpaings, parfois doublée d'une cloison intérieure sans isolation intermédiaire. Cette configuration génère des ponts thermiques importants et des problèmes d'humidité, particulièrement visibles en hiver.
+
+La toiture de ces pavillons, souvent en tuiles mécaniques sur charpente traditionnelle, manque également d'isolation. Les combles perdus, lorsqu'ils existent, ne disposent généralement que d'une fine couche de laine de verre insuffisante selon les standards actuels.
+
+### Problématiques courantes rencontrées
+
+Les propriétaires de maisons anciennes dans les Yvelines font face à plusieurs problématiques récurrentes. Les sensations de froid près des murs extérieurs, même avec un chauffage en fonctionnement, témoignent de l'absence d'isolation efficace. Ces phénomènes s'accompagnent souvent de condensation sur les parois froides, pouvant générer des moisissures.
+
+Les factures de chauffage élevées constituent un autre indicateur révélateur. Une maison mal isolée peut consommer jusqu'à 300 kWh par mètre carré et par an, contre 50 à 90 kWh pour une habitation correctement isolée selon les standards actuels.
+
+## Les techniques d'isolation intérieure adaptées
+
+### L'isolation des murs par l'intérieur
+
+L'isolation des murs par l'intérieur reste la solution la plus courante pour les maisons anciennes. Cette technique présente l'avantage de préserver l'aspect extérieur du bâtiment, un critère important dans certaines communes des Yvelines soumises à des contraintes architecturales.
+
+Plusieurs systèmes existent pour isoler par l'intérieur. Les cloisons sur ossature métallique permettent d'intégrer un isolant épais entre les montants, tout en créant une lame d'air ventilée qui limite les risques de condensation. Cette solution convient particulièrement aux murs en parpaings des pavillons des années 60-80.
+
+Les panneaux isolants collés directement sur le mur constituent une alternative plus simple à mettre en œuvre. Ces systèmes composites associent isolant et parement de finition, réduisant ainsi le nombre d'interventions nécessaires.
+
+### L'isolation des combles et de la toiture
+
+L'isolation des combles représente souvent le chantier prioritaire, car 30% des déperditions thermiques s'effectuent par la toiture. Dans les pavillons anciens des Yvelines, deux configurations se présentent généralement : les combles perdus et les combles aménageables.
+
+Pour les combles perdus, l'isolation par soufflage d'un isolant en vrac constitue la solution la plus efficace et économique. Cette technique permet d'obtenir une épaisseur importante d'isolant, généralement 30 à 40 cm, pour atteindre une résistance thermique de 7 à 10 m².K/W.
+
+L'isolation des rampants s'impose lorsque les combles sont aménagés ou destinés à l'être. Cette intervention plus complexe nécessite la pose d'isolant entre et sous les chevrons, avec la création d'une lame d'air ventilée pour évacuer l'humidité.
+
+### Le traitement des ponts thermiques
+
+Les ponts thermiques constituent un défi particulier dans les maisons anciennes. Ces zones de faiblesse thermique se situent principalement aux liaisons mur-plancher, mur-refend et mur-toiture. Leur traitement nécessite une approche spécifique pour garantir la continuité de l'isolation.
+
+La technique de l'isolation thermique par l'intérieur doit intégrer des rupteurs de ponts thermiques aux points singuliers. Ces éléments, constitués de matériaux peu conducteurs, limitent les transferts de chaleur vers l'extérieur.
+
+## Les matériaux d'isolation recommandés
+
+### Les isolants minéraux
+
+La laine de verre reste l'isolant le plus couramment utilisé pour l'isolation intérieure. Son rapport qualité-prix attractif et ses bonnes performances thermiques en font un choix privilégié pour de nombreux chantiers dans les Yvelines. Avec une conductivité thermique comprise entre 0,032 et 0,040 W/m.K, elle permet d'atteindre les performances requises pour bénéficier des aides à la rénovation.
+
+La laine de roche offre des caractéristiques similaires avec un avantage supplémentaire en matière de résistance au feu. Cette propriété peut s'avérer intéressante pour l'isolation de certaines zones comme les gaines techniques ou les conduits de cheminée.
+
+### Les isolants biosourcés
+
+Les isolants d'origine végétale gagnent en popularité pour l'isolation intérieure des maisons anciennes. La fibre de bois présente d'excellentes propriétés thermiques et hygrométriques, particulièrement adaptées aux murs en matériaux anciens. Sa capacité à réguler l'humidité limite les risques de condensation dans les parois.
+
+La ouate de cellulose, fabriquée à partir de papier recyclé, constitue une alternative écologique performante. Sa mise en œuvre par soufflage permet de traiter efficacement les combles perdus, tandis que sa version en panneaux convient à l'isolation des murs.
+
+### Les isolants synthétiques
+
+Le polystyrène expansé offre de bonnes performances thermiques pour un coût modéré. Sa facilité de mise en œuvre et sa résistance à l'humidité en font un choix pertinent pour l'isolation des sous-sols ou des vide-sanitaires des pavillons anciens.
+
+Le polyuréthane, plus performant mais aussi plus coûteux, permet d'obtenir une isolation efficace avec une épaisseur réduite. Cette caractéristique s'avère précieuse lorsque l'espace disponible est limité.
+
+## Les prix et budgets à prévoir
+
+### Coût de l'isolation des murs
+
+L'isolation des murs par l'intérieur représente un investissement variable selon la technique choisie et la surface à traiter. Pour une isolation par doublage collé avec un isolant de 10 cm d'épaisseur, comptez entre 25 et 40 euros par mètre carré, fourniture et pose comprises.
+
+Le système d'ossature métallique avec isolant entre montants nécessite un budget plus conséquent, généralement compris entre 40 et 60 euros par mètre carré. Cette différence s'explique par la complexité de mise en œuvre et les performances supérieures obtenues.
+
+### Budget pour l'isolation des combles
+
+L'isolation des combles perdus par soufflage constitue l'intervention la plus accessible financièrement. Pour une épaisseur de 30 cm d'isolant, prévoyez entre 15 et 25 euros par mètre carré de surface au sol des combles.
+
+L'isolation des rampants de toiture représente un investissement plus important, généralement compris entre 50 et 80 euros par mètre carré de rampant traité. Ce prix inclut la pose de l'isolant, les pare-vapeur et les finitions nécessaires.
+
+## Les aides financières disponibles
+
+### MaPrimeRénov' et ses déclinaisons
+
+MaPrimeRénov' constitue l'aide principale pour financer les travaux d'isolation intérieure. Le montant de cette prime dépend des revenus du foyer et du type de travaux réalisés. Pour l'isolation des murs par l'intérieur, la prime peut atteindre 25 euros par mètre carré pour les ménages aux revenus très modestes.
+
+L'isolation des combles perdus bénéficie d'une aide pouvant aller jusqu'à 25 euros par mètre carré, tandis que l'isolation des rampants peut être subventionnée à hauteur de 25 euros par mètre carré également.
+
+### Les Certificats d'Économies d'Énergie (CEE)
+
+Le dispositif des CEE permet de bénéficier de primes versées par les fournisseurs d'énergie. Ces aides, cumulables avec MaPrimeRénov', peuvent considérablement réduire le coût des travaux d'isolation. Pour l'isolation des combles, la prime CEE peut atteindre 12 euros par mètre carré.
+
+### Les aides locales dans les Yvelines
+
+Le département des Yvelines et certaines communes proposent des aides complémentaires pour la rénovation énergétique. Ces dispositifs, variables selon les territoires, peuvent prendre la forme de subventions directes ou de prêts à taux préférentiel.
+
+La communauté d'agglomération de Saint-Germain Boucles de Seine propose par exemple des aides pour l'amélioration énergétique des logements. Il convient de se renseigner auprès de sa commune pour connaître les dispositifs locaux disponibles.
+
+## Réussir son projet d'isolation intérieure
+
+### L'importance du diagnostic préalable
+
+Tout projet d'isolation intérieure doit débuter par un diagnostic thermique complet. Cette étude permet d'identifier les zones prioritaires et de dimensionner correctement les solutions d'isolation. Dans les pavillons anciens des Yvelines, ce diagnostic révèle souvent des problématiques spécifiques liées à l'âge et aux techniques de construction de l'époque.
+
+Le diagnostic doit également intégrer une étude de ventilation. L'amélioration de l'isolation modifie les flux d'air dans le bâtiment et peut nécessiter l'adaptation du système de ventilation existant pour maintenir une qualité d'air intérieur satisfaisante.
+
+### Le choix d'un professionnel qualifié
+
+La réussite d'un projet d'isolation intérieure repose largement sur le choix d'un artisan qualifié. La certification RGE (Reconnu Garant de l'Environnement) constitue un gage de qualité et conditionne l'obtention des aides financières.
+
+CHARRIERE SARL, artisan expérimenté basé à Gargenville, accompagne les propriétaires des Yvelines dans leurs projets d'isolation intérieure. Notre connaissance des spécificités locales et notre expertise technique garantissent des travaux conformes aux exigences actuelles.
+
+L'isolation intérieure d'une maison ancienne dans les Yvelines représente un investissement rentable à moyen terme. Les économies d'énergie réalisées, combinées aux aides financières disponibles, permettent d'amortir rapidement les coûts engagés tout en améliorant significativement le confort de vie.
+
+Vous envisagez des travaux d'isolation pour votre maison ancienne dans les Yvelines ? CHARRIERE SARL vous propose un devis gratuit et personnalisé. Contactez-nous pour étudier ensemble la solution d'isolation la mieux adaptée à votre habitation et à votre budget.`,
+  },
+  {
     slug: "renovation-cuisine-ouverte-appartement-haussmannien-mantes-la-jolie",
     title: "Rénovation d'une cuisine ouverte dans un appartement haussmannien : défis et solutions",
     metaTitle: "Rénovation cuisine ouverte appartement haussmannien Mantes-la-Jolie | CHARRIERE SARL",
