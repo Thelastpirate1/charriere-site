@@ -13,6 +13,92 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "agrandir-visuellement-piece-astuces-renovation-yvelines",
+    title: "Comment agrandir visuellement une pièce : 8 astuces de rénovation efficaces",
+    metaTitle: "Agrandir visuellement une pièce — Astuces rénovation | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez 8 astuces d'expert pour agrandir visuellement vos pièces : couleurs, éclairage, miroirs, cloisons verrières. Conseils rénovation Yvelines.",
+    keywords: ["agrandir pièce visuellement","rénovation petit espace","cloison verrière","éclairage rénovation","miroirs décoration","couleurs agrandissantes"],
+    excerpt:
+      "Transformez vos petits espaces en pièces spacieuses grâce à nos 8 astuces d'expert : couleurs, éclairage, miroirs et cloisons verrières.",
+    publishedAt: "2026-03-16",
+    readTime: "6 min",
+    category: "Aménagement",
+    content: `Les logements en Île-de-France, particulièrement dans les Yvelines, présentent souvent des défis d'espace. Que vous habitiez un appartement à Gargenville ou une maison à Mantes-la-Jolie, il existe de nombreuses astuces pour donner une impression de grandeur à vos pièces. En tant qu'artisan spécialisé en rénovation intérieure, CHARRIERE SARL vous dévoile huit techniques éprouvées pour transformer visuellement vos espaces restreints.
+
+## La magie des couleurs claires et neutres
+
+Le choix des couleurs constitue l'un des leviers les plus puissants pour agrandir visuellement un espace. Les teintes claires réfléchissent davantage la lumière et créent une sensation d'ouverture immédiate.
+
+Optez pour des blancs cassés, des beiges doux ou des gris perle sur vos murs principaux. Ces couleurs neutres offrent une toile de fond apaisante qui repousse visuellement les limites de la pièce. Pour éviter la monotonie, vous pouvez introduire une couleur plus soutenue sur un seul pan de mur, créant ainsi un point focal sans alourdir l'ensemble.
+
+Dans les maisons de Poissy ou Les Mureaux que nous rénovons, nous constatons qu'un simple changement de couleur peut transformer radicalement la perception d'un espace. Le coût d'une peinture complète d'une pièce de 15m² oscille entre 800 et 1200 euros, matériaux et main-d'œuvre inclus.
+
+## L'éclairage : votre allié pour créer de la profondeur
+
+Un éclairage bien pensé peut littéralement sculpter l'espace et créer des zones de profondeur. Abandonnez le traditionnel plafonnier central au profit d'un éclairage multicouche.
+
+Commencez par installer des spots encastrés au plafond pour un éclairage général uniforme. Ajoutez ensuite des appliques murales qui dirigent la lumière vers le haut, créant un effet de hauteur. Les lampes d'appoint disposées dans les angles éliminent les zones d'ombre qui rétrécissent visuellement l'espace.
+
+L'éclairage LED offre aujourd'hui des possibilités infinies avec des températures de couleur ajustables. Un éclairage blanc froid (5000K) agrandira davantage l'espace qu'un éclairage chaud, particulièrement adapté aux pièces de vie de Saint-Germain-en-Laye ou Conflans-Sainte-Honorine.
+
+### L'importance de la lumière naturelle
+
+Maximisez l'entrée de lumière naturelle en optant pour des rideaux légers ou des stores vénitiens plutôt que des rideaux épais. Si vos fenêtres sont petites, envisagez leur agrandissement lors de travaux de rénovation. Cette intervention, bien que plus coûteuse (entre 1500 et 3000 euros par fenêtre), transforme radicalement l'ambiance d'une pièce.
+
+## Les miroirs : l'illusion parfaite
+
+Les miroirs constituent probablement la solution la plus économique et efficace pour doubler visuellement un espace. Leur pouvoir réside dans leur capacité à réfléchir la lumière et à créer une impression de continuité.
+
+Positionnez un grand miroir face à une fenêtre pour réfléchir la lumière naturelle dans toute la pièce. Les miroirs muraux de grande taille, installés sur toute la hauteur d'un mur, donnent l'impression que la pièce se prolonge indéfiniment.
+
+Dans les appartements de Sartrouville, nous installons souvent des miroirs coulissants qui peuvent dissimuler des rangements tout en agrandissant l'espace. Cette solution allie fonctionnalité et esthétique pour un budget compris entre 400 et 800 euros selon les dimensions.
+
+### Techniques de positionnement stratégique
+
+Évitez de placer des miroirs face à face, ce qui crée un effet tunnel désagréable. Préférez les disposer perpendiculairement aux fenêtres ou dans les angles pour maximiser la réflexion lumineuse sans créer de confusion visuelle.
+
+## Les cloisons verrières : transparence et caractère
+
+Les cloisons verrières représentent la solution idéale pour séparer les espaces tout en conservant la luminosité et les perspectives visuelles. Cette tendance architecturale, inspirée des ateliers d'artistes, apporte un cachet indéniable à votre intérieur.
+
+Une cloison verrière permet de délimiter une cuisine ouverte sur le salon sans perdre en luminosité. Elle peut également séparer un bureau d'un séjour ou créer une suite parentale dans une grande chambre.
+
+Le coût d'installation d'une cloison verrière varie entre 300 et 600 euros le mètre linéaire selon la complexité du projet et les finitions choisies. Pour une cloison standard de 3 mètres, comptez entre 2000 et 3500 euros pose comprise.
+
+### Variantes et personnalisations
+
+Les cloisons verrières se déclinent en plusieurs styles : industriel avec des profilés noirs, contemporain avec des cadres fins blancs, ou encore sur-mesure avec des motifs géométriques personnalisés. Chaque option s'adapte aux contraintes spécifiques des logements des Yvelines.
+
+## L'art de la continuité visuelle
+
+Pour agrandir visuellement un espace, créez une continuité entre les différentes zones. Utilisez le même revêtement de sol dans plusieurs pièces communicantes, optez pour des plinthes de couleur identique aux murs pour qu'elles se fondent dans le décor.
+
+Les portes coulissantes ou escamotables éliminent l'encombrement visuel des portes battantes traditionnelles. Quand elles sont ouvertes, elles permettent une vision dégagée entre les pièces, amplifiant la sensation d'espace.
+
+## Le mobilier : moins c'est plus
+
+Choisissez des meubles aux lignes épurées et surélevés du sol pour créer une impression de légèreté. Les pieds apparents donnent une sensation d'espace sous les meubles, contrairement aux caissons qui touchent le sol.
+
+Privilégiez les meubles multifonctions : une table basse avec rangement, un pouf coffre, ou encore une console extensible. Ces solutions optimisent l'espace tout en réduisant l'encombrement visuel.
+
+## Solutions de rangement invisibles
+
+Intégrez des rangements dans les moindres recoins : sous les escaliers, dans les combles, ou derrière des panneaux coulissants. Un espace dégagé paraît automatiquement plus grand qu'un espace encombré.
+
+Les rangements du sol au plafond, peints de la même couleur que les murs, se fondent dans le décor et maximisent le volume de stockage sans impact visuel négatif.
+
+## L'importance du désencombrement
+
+Avant toute intervention de rénovation, procédez à un désencombrement rigoureux. Chaque objet superflu réduit visuellement l'espace disponible. Adoptez une approche minimaliste où chaque élément a sa place et sa fonction.
+
+Cette étape préalable, bien que simple, transforme immédiatement la perception de vos pièces et vous permet d'évaluer plus précisément vos besoins de rénovation.
+
+Ces huit astuces, appliquées individuellement ou en combinaison, transformeront vos espaces restreints en pièces agréables et fonctionnelles. Chaque logement étant unique, une étude personnalisée permet d'identifier les solutions les plus adaptées à votre situation.
+
+Vous souhaitez agrandir visuellement vos pièces dans les Yvelines ? CHARRIERE SARL vous accompagne dans votre projet de rénovation avec un devis gratuit et personnalisé. Contactez-nous pour transformer votre intérieur et optimiser chaque mètre carré de votre logement.`,
+  },
+  {
     slug: "peinture-interieure-finition-mat-satin-brillant-guide",
     title: "Peinture Intérieure : Quelle Finition Choisir Entre Mat, Satin et Brillant ?",
     metaTitle: "Finition Peinture Intérieure Mat Satin Brillant | Guide Pro Yvelines | CHARRIERE SARL",
