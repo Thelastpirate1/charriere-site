@@ -13,6 +13,102 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "electricite-aux-normes-cout-mise-en-conformite-yvelines",
+    title: "Électricité aux Normes : Combien Coûte une Mise en Conformité dans les Yvelines ?",
+    metaTitle: "Prix Mise aux Normes Électriques NF C 15-100 Yvelines | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les tarifs réels d'une mise en conformité électrique NF C 15-100 dans les Yvelines. Devis gratuit, conseils d'expert à Gargenville et alentours.",
+    keywords: ["électricité aux normes","NF C 15-100","mise en conformité électrique","tableau électrique","prix électricien Yvelines"],
+    excerpt:
+      "La mise aux normes électriques NF C 15-100 est obligatoire pour votre sécurité. Découvrez les coûts réels et les étapes indispensables.",
+    publishedAt: "2026-03-17",
+    readTime: "6 min",
+    category: "Rénovation",
+    content: `La sécurité électrique de votre logement n'est pas un sujet à prendre à la légère. Que vous habitiez à Gargenville, Mantes-la-Jolie ou ailleurs dans les Yvelines, votre installation électrique doit respecter la norme NF C 15-100. Cette obligation légale garantit la protection de votre famille contre les risques d'incendie et d'électrocution.
+
+Chez CHARRIERE SARL, nous intervenons régulièrement pour des mises en conformité électriques dans tout le département. L'expérience nous montre que de nombreux propriétaires sous-estiment l'ampleur des travaux nécessaires et surtout leur coût réel.
+
+## Pourquoi Mettre son Électricité aux Normes NF C 15-100
+
+La norme NF C 15-100 définit les règles de conception, de réalisation et d'entretien des installations électriques basse tension en France. Cette réglementation évolue régulièrement pour intégrer les nouveaux équipements et améliorer la sécurité.
+
+Votre installation doit être mise aux normes dans plusieurs situations. Lors de la vente d'un logement de plus de 15 ans, un diagnostic électrique est obligatoire. Si des non-conformités majeures sont détectées, l'acheteur peut exiger des travaux ou négocier le prix. De même, pour une location, l'installation doit être sûre et fonctionnelle.
+
+Les installations anciennes présentent souvent des défauts récurrents : absence de dispositif différentiel, sections de câbles insuffisantes, prises de terre défaillantes ou tableaux électriques obsolètes. Ces défauts représentent un danger réel pour les occupants.
+
+## Les Éléments Principaux d'une Mise en Conformité
+
+### Le Tableau Électrique
+
+Le tableau électrique constitue le cœur de votre installation. Une mise aux normes commence souvent par son remplacement complet. Un tableau moderne doit comporter un disjoncteur général, des dispositifs différentiels 30 mA et des disjoncteurs divisionnaires adaptés à chaque circuit.
+
+Dans les Yvelines, nous constatons que 70% des habitations anciennes nécessitent un changement complet de tableau. Le coût varie selon la superficie du logement et le nombre de circuits nécessaires.
+
+### La Prise de Terre
+
+La prise de terre assure l'évacuation des courants de défaut vers le sol. Son absence ou sa défaillance représente un danger mortel. La norme impose une résistance inférieure à 100 ohms, mesurée par un professionnel qualifié.
+
+Dans certaines communes comme Poissy ou Les Mureaux, la nature du sol peut compliquer la réalisation d'une prise de terre efficace. Des solutions alternatives existent mais nécessitent une expertise technique pointue.
+
+### Les Circuits Spécialisés
+
+La norme NF C 15-100 impose des circuits dédiés pour certains équipements : lave-linge, lave-vaisselle, four, plaques de cuisson, chauffe-eau. Chaque circuit doit être protégé par un disjoncteur adapté et câblé avec la section appropriée.
+
+Nos interventions à Saint-Germain-en-Laye ou Conflans-Sainte-Honorine révèlent souvent l'absence de ces circuits spécialisés dans les logements construits avant 1990. Leur création nécessite des travaux de câblage importants.
+
+## Les Prix Réels dans les Yvelines en 2026
+
+### Coût d'un Tableau Électrique
+
+Le remplacement d'un tableau électrique représente souvent le poste le plus important. Pour un logement de 70 m², comptez entre 1 200 et 1 800 euros TTC, fournitures et pose comprises. Cette fourchette inclut un tableau 3 ou 4 rangées avec dispositifs différentiels et disjoncteurs de qualité.
+
+Pour une maison de 120 m² à Sartrouville ou Gargenville, le budget monte à 2 000 - 2 800 euros TTC. Les maisons plus importantes peuvent nécessiter des tableaux divisionnaires supplémentaires, augmentant significativement la facture.
+
+### Création de Prise de Terre
+
+L'installation d'une prise de terre neuve coûte entre 400 et 800 euros TTC selon la configuration du terrain. Cette variation s'explique par la longueur de câble nécessaire et la difficulté d'accès au tableau électrique.
+
+Dans certains cas complexes, notamment en rénovation lourde, le raccordement peut atteindre 1 200 euros TTC. Cette situation se rencontre fréquemment dans les anciennes maisons de Mantes-la-Jolie où l'accès au sous-sol est limité.
+
+### Réfection des Circuits
+
+La création d'un circuit spécialisé 32A pour plaques de cuisson revient à 180 - 250 euros TTC. Un circuit 20A pour lave-linge ou lave-vaisselle coûte 120 - 180 euros TTC. Ces prix intègrent le câblage depuis le tableau jusqu'au point d'utilisation sur une distance standard de 15 mètres.
+
+L'ajout de prises de courant supplémentaires pour respecter les minimas imposés représente 80 - 120 euros TTC par prise, selon la difficulté de passage des câbles.
+
+## Budget Global pour une Mise en Conformité Complète
+
+### Appartement 50 m²
+
+Un appartement de 50 m² nécessite généralement un budget de 2 500 à 4 000 euros TTC pour une mise aux normes complète. Ce montant comprend le tableau électrique, la vérification de la prise de terre, l'ajout de circuits spécialisés et la création de prises supplémentaires.
+
+### Maison 100 m²
+
+Pour une maison individuelle de 100 m², le budget s'échelonne de 4 500 à 7 500 euros TTC. Cette fourchette large s'explique par la variété des configurations rencontrées et l'état initial de l'installation.
+
+### Cas Particuliers
+
+Certaines situations exceptionnelles peuvent faire grimper la facture au-delà de 10 000 euros TTC. C'est le cas des maisons anciennes nécessitant une réfection complète du câblage, notamment dans le centre historique de Saint-Germain-en-Laye.
+
+## Facteurs Influençant le Coût Final
+
+Plusieurs éléments font varier le prix d'une mise aux normes électriques. L'âge du logement constitue le premier critère : plus l'installation est ancienne, plus les travaux seront importants. La surface habitable influence directement le nombre de circuits nécessaires.
+
+La configuration architecturale joue également un rôle majeur. Une maison sur plusieurs niveaux nécessite plus de câblage qu'un plain-pied. L'accessibilité des combles ou du sous-sol peut faciliter ou compliquer le passage des câbles.
+
+Le choix des équipements impacte aussi le budget. Un tableau électrique d'entrée de gamme coûte moins cher qu'un modèle haut de gamme, mais la différence de fiabilité et de durabilité justifie souvent l'investissement supplémentaire.
+
+## Conseils pour Maîtriser votre Budget
+
+Planifiez vos travaux électriques en même temps que d'autres rénovations pour optimiser les coûts. Si vous refaites votre cuisine ou votre salle de bain, c'est le moment idéal pour mettre l'électricité aux normes.
+
+Demandez plusieurs devis détaillés pour comparer non seulement les prix mais aussi les prestations incluses. Méfiez-vous des tarifs anormalement bas qui cachent souvent des prestations incomplètes ou des matériaux de qualité douteuse.
+
+Privilégiez un professionnel local qui connaît les spécificités de votre secteur. Dans les Yvelines, les contraintes ne sont pas les mêmes selon que vous habitiez en centre-ville ou en périphérie.
+
+Vous habitez Gargenville, Mantes-la-Jolie, Poissy ou une autre commune des Yvelines et souhaitez mettre votre électricité aux normes ? CHARRIERE SARL vous accompagne dans votre projet avec un diagnostic précis de votre installation existante. Contactez-nous pour un devis gratuit et personnalisé, établi après visite technique de votre logement.`,
+  },
+  {
     slug: "agrandir-visuellement-piece-astuces-renovation-yvelines",
     title: "Comment agrandir visuellement une pièce : 8 astuces de rénovation efficaces",
     metaTitle: "Agrandir visuellement une pièce — Astuces rénovation | CHARRIERE SARL",
