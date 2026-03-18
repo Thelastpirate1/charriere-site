@@ -13,6 +13,112 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "amenager-combles-yvelines-permis-isolation-budget",
+    title: "Aménager des Combles dans les Yvelines : Guide Complet 2026",
+    metaTitle: "Aménagement Combles Yvelines — Permis, Isolation, Budget | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez comment aménager vos combles dans les Yvelines : permis nécessaires, hauteur sous plafond, isolation, Velux. Budget détaillé et conseils d'artisan.",
+    keywords: ["aménagement combles Yvelines","permis combles 78","isolation combles Gargenville","Velux Yvelines"],
+    excerpt:
+      "Guide complet pour aménager vos combles dans les Yvelines avec tous les aspects techniques, administratifs et budgétaires à connaître.",
+    publishedAt: "2026-03-18",
+    readTime: "7 min",
+    category: "Aménagement",
+    content: `L'aménagement des combles représente une solution idéale pour gagner de l'espace habitable sans déménager. Dans les Yvelines, où l'immobilier reste cher, transformer ses combles perdus en pièces à vivre constitue un investissement particulièrement rentable. Que vous résidiez à Gargenville, Mantes-la-Jolie, Poissy ou Saint-Germain-en-Laye, ce guide vous accompagne dans votre projet d'aménagement.
+
+## Les formalités administratives pour aménager ses combles dans le 78
+
+### Déclaration préalable ou permis de construire ?
+
+La première question qui se pose concerne les autorisations nécessaires. Dans les Yvelines, comme partout en France, le type de déclaration dépend de la surface créée et des modifications extérieures.
+
+Pour un aménagement sans modification de la toiture, une déclaration préalable suffit si la surface créée ne dépasse pas 20 mètres carrés. Au-delà, un permis de construire devient obligatoire. Si votre commune dispose d'un Plan Local d'Urbanisme, ce seuil peut être porté à 40 mètres carrés pour les extensions.
+
+Les communes des Yvelines appliquent généralement ces règles nationales, mais certaines spécificités locales peuvent s'appliquer. À Conflans-Sainte-Honorine ou aux Mureaux, il convient de vérifier auprès du service urbanisme les éventuelles contraintes particulières liées au patrimoine architectural local.
+
+### Les démarches à suivre
+
+Le dossier de déclaration préalable doit être déposé en mairie au moins un mois avant le début des travaux. Pour un permis de construire, comptez trois mois d'instruction. Les pièces à fournir incluent les plans de situation, les plans de façades et toitures, ainsi que des photos du terrain et de son environnement.
+
+Chez CHARRIERE SARL, nous accompagnons nos clients dans ces démarches administratives pour éviter tout retard ou refus de dossier.
+
+## Hauteur sous plafond et contraintes techniques
+
+### Les exigences réglementaires
+
+Pour qu'une pièce soit considérée comme habitable, la hauteur sous plafond doit atteindre au minimum 1,80 mètre sur la moitié de la surface au sol. Cette règle s'applique dans toutes les communes des Yvelines, de Sartrouville à Gargenville.
+
+La pente de toiture influence directement la surface utilisable. Avec une pente de 30 degrés, vous obtiendrez environ 60% de surface habitable par rapport à la surface au sol des combles. Une pente de 45 degrés offre près de 90% de surface exploitable.
+
+### Évaluer la faisabilité de son projet
+
+Avant d'engager des travaux, une étude technique s'impose. Il faut vérifier la résistance de la charpente, qui devra supporter le poids de l'isolation, du plancher et de l'aménagement. La structure existante nécessite parfois des renforts, notamment dans les maisons anciennes typiques des centres-villes de Poissy ou Saint-Germain-en-Laye.
+
+L'accessibilité constitue également un point crucial. L'installation d'un escalier fixe nécessite généralement 6 à 8 mètres carrés au sol et impose des contraintes de hauteur et de largeur de passage.
+
+## L'isolation des combles aménagés : un enjeu majeur
+
+### Pourquoi bien isoler ses combles ?
+
+Dans les Yvelines, où les hivers peuvent être rigoureux, une isolation performante permet de réduire significativement les dépenses énergétiques. Les combles non isolés représentent jusqu'à 30% des déperditions thermiques d'une habitation.
+
+L'isolation des rampants sous toiture nécessite généralement 200 à 300 millimètres d'épaisseur pour atteindre une résistance thermique R=6, conforme aux exigences RT2012. Cette performance garantit le confort été comme hiver et permet de bénéficier des aides financières disponibles.
+
+### Les techniques d'isolation adaptées
+
+L'isolation peut s'effectuer entre chevrons, sous chevrons ou par l'extérieur selon la configuration. La technique entre chevrons, la plus courante, utilise de la laine de verre, de roche ou des matériaux biosourcés comme la ouate de cellulose.
+
+L'isolation par l'extérieur, plus coûteuse, présente l'avantage de conserver tout l'espace intérieur. Cette technique convient particulièrement aux charpentes apparentes que l'on souhaite valoriser.
+
+## Installation de Velux et fenêtres de toit
+
+### L'importance de l'éclairage naturel
+
+Les fenêtres de toit transforment radicalement l'ambiance des combles aménagés. Un Velux apporte trois fois plus de lumière qu'une fenêtre verticale de dimension équivalente. La réglementation impose un ratio minimum de 1/6ème entre la surface vitrée et la surface au sol.
+
+Pour une chambre de 20 mètres carrés, il faut prévoir au minimum 3,3 mètres carrés de surface vitrée. En pratique, installer deux Velux de dimensions 114x118 centimètres suffit généralement.
+
+### Choix et installation des Velux
+
+Les Velux existent en plusieurs versions : manuel, électrique ou solaire. Les modèles à rotation offrent une ouverture maximale pour l'aération, tandis que les modèles à projection conviennent mieux aux toitures à faible pente.
+
+L'installation nécessite de découper la couverture et de créer un chevêtre dans la charpente. Cette opération délicate doit être confiée à un professionnel pour garantir l'étanchéité et la résistance de l'ensemble.
+
+## Budget détaillé pour l'aménagement de combles
+
+### Coût des différents postes
+
+Le budget d'aménagement de combles varie considérablement selon la surface, la complexité et le niveau de finition souhaité. Pour une surface de 30 mètres carrés dans les Yvelines, comptez entre 25 000 et 45 000 euros selon les prestations.
+
+L'isolation représente 8 000 à 12 000 euros pour 60 mètres carrés de rampants. L'installation électrique coûte environ 3 000 à 5 000 euros selon le nombre de points lumineux et prises. Le cloisonnement et l'habillage des murs s'élèvent à 150 à 250 euros par mètre carré.
+
+Les Velux nécessitent un budget de 800 à 2 500 euros pièce selon les dimensions et options choisies, pose comprise. Un escalier fixe coûte entre 2 000 et 6 000 euros selon le matériau et la configuration.
+
+### Financement et aides disponibles
+
+Plusieurs dispositifs d'aide peuvent alléger le coût des travaux. MaPrimeRénov' finance partiellement l'isolation des combles selon les revenus du foyer. L'éco-PTZ permet d'emprunter jusqu'à 30 000 euros sans intérêts pour des travaux de rénovation énergétique.
+
+La TVA réduite à 5,5% s'applique aux travaux d'isolation et d'amélioration énergétique dans les logements de plus de deux ans. Cette réduction représente une économie substantielle sur un projet d'envergure.
+
+## Faire appel à un artisan local dans les Yvelines
+
+### Les avantages du choix local
+
+Travailler avec un artisan local présente de nombreux avantages : connaissance des spécificités architecturales régionales, respect des délais grâce à la proximité, et service après-vente de qualité. Dans les Yvelines, l'architecture varie entre les pavillons des années 70-80 et les maisons plus anciennes des centres-villes.
+
+Un professionnel expérimenté saura adapter les techniques aux contraintes spécifiques de chaque type de construction. Il connaît également les fournisseurs locaux, ce qui permet d'optimiser les délais de livraison des matériaux.
+
+### Choisir le bon professionnel
+
+Pour sélectionner votre artisan, vérifiez ses assurances professionnelles et sa certification RGE si vous souhaitez bénéficier d'aides financières. N'hésitez pas à demander des références récentes et à visiter des chantiers réalisés.
+
+Un devis détaillé doit préciser les matériaux utilisés, les techniques mises en œuvre et les délais d'exécution. Méfiez-vous des tarifs anormalement bas qui cachent souvent des prestations de qualité insuffisante.
+
+L'aménagement de combles constitue un projet complexe qui nécessite l'intervention de plusieurs corps de métier : charpentier, couvreur, électricien, plaquiste. Faire appel à une entreprise capable de coordonner tous ces intervenants simplifie considérablement la gestion du chantier.
+
+CHARRIERE SARL accompagne les propriétaires des Yvelines dans leurs projets d'aménagement de combles depuis de nombreuses années. Notre équipe maîtrise tous les aspects techniques et administratifs pour transformer vos combles perdus en espaces de vie confortables et durables. Contactez-nous pour un devis gratuit et personnalisé adapté à votre projet et à votre budget.`,
+  },
+  {
     slug: "electricite-aux-normes-cout-mise-en-conformite-yvelines",
     title: "Électricité aux Normes : Combien Coûte une Mise en Conformité dans les Yvelines ?",
     metaTitle: "Prix Mise aux Normes Électriques NF C 15-100 Yvelines | CHARRIERE SARL",
