@@ -13,6 +13,108 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renovation-appartement-neuf-livre-brut-etapes-finition",
+    title: "Rénovation d'un Appartement Neuf Livré Brut : Guide Complet des Finitions",
+    metaTitle: "Rénovation Appartement Neuf Brut : Étapes & Budget 2026 | CHARRIERE SARL",
+    metaDescription:
+      "Votre appartement neuf est livré brut ? Découvrez toutes les étapes de finition, les priorités et le budget à prévoir. Conseils d'expert en Yvelines.",
+    keywords: ["renovation appartement neuf brut","finition appartement neuf","livraison brut promoteur","travaux finition appartement"],
+    excerpt:
+      "Un appartement neuf livré brut nécessite de nombreuses finitions. Découvrez les étapes prioritaires et le budget à prévoir pour un aménagement réussi.",
+    publishedAt: "2026-03-21",
+    readTime: "8 min",
+    category: "Rénovation",
+    content: `Vous venez d'acquérir un appartement neuf dans les Yvelines et votre promoteur vous le livre en état brut ? Cette situation, de plus en plus courante dans des villes comme Gargenville, Mantes-la-Jolie ou Saint-Germain-en-Laye, peut sembler décourageante au premier abord. Pourtant, elle offre l'avantage de pouvoir personnaliser entièrement votre logement selon vos goûts et vos besoins.
+
+## Qu'est-ce qu'une livraison en état brut ?
+
+Un appartement livré brut par le promoteur présente des murs en béton brut ou en plaques de plâtre non peints, des sols en chape brute sans revêtement, des cloisons parfois inexistantes et des installations électriques et de plomberie en attente. Les menuiseries extérieures sont généralement posées, mais il manque tous les éléments de finition intérieure.
+
+Cette formule permet aux promoteurs de proposer des prix plus attractifs tout en laissant aux acquéreurs la liberté totale d'aménager leur espace. Dans des secteurs recherchés comme Poissy ou Conflans-Sainte-Honorine, cette option devient particulièrement intéressante pour maîtriser son budget global.
+
+## Les étapes prioritaires de finition
+
+### La planification et les démarches administratives
+
+Avant de commencer les travaux, établissez un plan détaillé de vos aménagements. Si vous prévoyez de modifier la distribution des pièces en abattant ou créant des cloisons, vérifiez auprès de votre mairie si ces modifications nécessitent une déclaration préalable.
+
+Pour un appartement dans une résidence récente des Mureaux ou de Sartrouville, consultez également le règlement de copropriété qui peut imposer certaines contraintes, notamment sur les horaires de travaux ou les types de revêtements autorisés.
+
+### L'électricité et la plomberie
+
+Commencez impérativement par finaliser les installations électriques et de plomberie. Dans un appartement brut, les gaines et arrivées d'eau sont généralement en attente. Il faut installer les prises électriques, les interrupteurs, les points lumineux ainsi que les équipements sanitaires.
+
+Compte entre 3 000 et 6 000 euros pour finaliser l'installation électrique d'un appartement de 70 m² et entre 2 500 et 5 000 euros pour la plomberie, selon la complexité de vos aménagements.
+
+### Les cloisons et l'isolation phonique
+
+Si votre appartement nécessite des cloisons supplémentaires pour créer des chambres ou séparer les espaces, cette étape intervient après les gros œuvres techniques. Privilégiez des cloisons avec une bonne isolation phonique, particulièrement important dans les résidences récentes où les normes acoustiques sont exigeantes.
+
+Prévoyez entre 40 et 80 euros le m² pour une cloison placo standard avec isolation, pose comprise.
+
+## Les finitions par ordre de priorité
+
+### Les sols
+
+Le choix du revêtement de sol conditionne l'ambiance générale de votre appartement. Sur une chape brute, vous devrez d'abord appliquer un ragréage si nécessaire, puis poser votre revêtement.
+
+Le carrelage reste le choix le plus durable, avec un budget de 30 à 80 euros le m² pose comprise selon la qualité. Le parquet flottant offre un bon compromis prix-esthétique entre 25 et 50 euros le m². Pour les budgets serrés, le sol vinyle LVT imite parfaitement le bois ou la pierre pour 20 à 40 euros le m².
+
+### Les murs et les peintures
+
+Les murs en plaques de plâtre brut nécessitent un traitement avant peinture. Après avoir rebouché les joints et ponçé, appliquez une sous-couche puis deux couches de peinture de qualité.
+
+Comptez entre 15 et 30 euros le m² pour une prestation complète de préparation et peinture, selon la qualité des finitions souhaitées. Dans un appartement de 70 m², le budget peinture représente généralement entre 2 000 et 4 000 euros.
+
+### La cuisine
+
+L'aménagement de la cuisine constitue souvent le poste le plus important. Dans un appartement brut, l'espace cuisine est délimité mais vide. Vous devrez installer les meubles, l'électroménager et les finitions.
+
+Pour une cuisine équipée de qualité dans un appartement à Gargenville ou dans les environs, prévoyez entre 8 000 et 15 000 euros selon vos choix d'équipements et de finitions.
+
+### Les salles de bains
+
+La salle de bains nécessite des compétences techniques particulières, notamment pour l'étanchéité. Les arrivées d'eau et évacuations sont généralement en attente dans un appartement brut.
+
+Un budget de 5 000 à 12 000 euros permet d'aménager complètement une salle de bains avec des équipements de qualité correcte, carrelage au sol et aux murs compris.
+
+## Optimiser son budget et ses priorités
+
+### Établir un budget réaliste
+
+Pour un appartement de 70 m² livré brut, comptez entre 400 et 800 euros le m² pour les finitions complètes, soit un budget global de 28 000 à 56 000 euros. Cette fourchette large dépend de vos choix de matériaux et du niveau de prestations souhaité.
+
+Répartissez votre budget ainsi : 30% pour la cuisine et les salles de bains, 25% pour les sols et revêtements, 20% pour l'électricité et la plomberie, 15% pour les peintures et 10% pour les finitions diverses.
+
+### Échelonner les travaux
+
+Si votre budget est serré, privilégiez les éléments indispensables au confort quotidien : électricité, plomberie, cuisine et au minimum une salle de bains fonctionnelle. Les autres finitions peuvent être réalisées progressivement.
+
+Cette approche permet de rendre l'appartement habitable rapidement tout en étalant les investissements sur plusieurs mois.
+
+### Faire appel à des professionnels
+
+Bien que certains travaux puissent être réalisés en auto-construction, l'intervention d'artisans qualifiés garantit la qualité et la conformité des installations. Pour les corps d'état techniques comme l'électricité ou la plomberie, le recours à des professionnels est d'ailleurs obligatoire pour bénéficier des garanties.
+
+## Les erreurs à éviter
+
+### Sous-estimer les coûts cachés
+
+Au-delà des finitions visibles, n'oubliez pas les frais annexes : les raccordements définitifs, les éventuelles modifications de plans, la gestion des déchets de chantier ou encore les frais de déménagement multiple si vous échelonnez les travaux.
+
+### Négliger la coordination des corps d'état
+
+Dans un appartement neuf des Yvelines, la coordination entre les différents artisans est cruciale pour éviter les malfaçons et respecter les délais. Un mauvais phasage peut entraîner des surcoûts importants.
+
+### Choisir uniquement sur le prix
+
+La qualité des matériaux et de la mise en œuvre conditionne la durabilité de vos aménagements. Dans l'immobilier neuf francilien, privilégiez la qualité pour préserver la valeur de votre bien.
+
+Aménager un appartement neuf livré brut représente un projet d'envergure qui nécessite une planification rigoureuse et un budget conséquent. Cette démarche offre néanmoins l'opportunité unique de créer un logement parfaitement adapté à vos besoins et vos goûts.
+
+CHARRIERE SARL vous accompagne dans tous vos projets de finition d'appartements neufs dans les Yvelines. Notre expertise nous permet de coordonner l'ensemble des corps d'état pour une réalisation dans les règles de l'art. Contactez-nous pour un devis gratuit et personnalisé de vos travaux de finition.`,
+  },
+  {
     slug: "comment-preparer-chantier-renovation-conseils-artisan",
     title: "Comment Bien Préparer Son Chantier de Rénovation : Guide de l'Artisan",
     metaTitle: "Préparer Son Chantier de Rénovation — Guide Expert | CHARRIERE SARL",
