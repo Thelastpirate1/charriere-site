@@ -13,6 +13,88 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "faience-murale-cuisine-tendances-pose-mantes-la-jolie",
+    title: "Faïence Murale Cuisine : Tendances et Techniques de Pose 2026",
+    metaTitle: "Faïence Cuisine Tendances 2026 : Pose Zellige & Métro | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les tendances faïence cuisine 2026 : zellige, métro, grand format. Prix et techniques de pose par artisan à Mantes-la-Jolie et Yvelines.",
+    keywords: ["faïence murale cuisine","carrelage cuisine Mantes","zellige cuisine","carrelage métro","pose faïence Yvelines"],
+    excerpt:
+      "Les tendances 2026 pour la faïence de cuisine privilégient le zellige artisanal, le métro revisité et les grands formats. Guide complet des techniques de pose et prix.",
+    publishedAt: "2026-03-22",
+    readTime: "7 min",
+    category: "Cuisine",
+    content: `La faïence murale transforme radicalement l'ambiance d'une cuisine. En 2026, trois tendances dominent le marché dans les Yvelines : le zellige aux reflets changeants, le carrelage métro réinterprété et les grands formats épurés. Chaque style demande une technique de pose spécifique pour un résultat optimal.
+
+CHARRIERE SARL accompagne depuis plus de 15 ans les propriétaires de Mantes-la-Jolie, Gargenville et des communes environnantes dans leurs projets de rénovation de cuisine. Nos équipes maîtrisent parfaitement ces nouvelles tendances et les contraintes techniques qu'elles imposent.
+
+## Le Zellige : L'Authenticité Artisanale en Cuisine
+
+Le zellige conquiert les cuisines contemporaines des Yvelines grâce à ses nuances naturelles et ses reflets uniques. Cette faïence artisanale marocaine apporte une dimension authentique aux intérieurs modernes de Poissy, Saint-Germain-en-Laye ou Conflans-Sainte-Honorine.
+
+Les couleurs tendance incluent le vert sauge, le bleu pétrole, le blanc cassé et les tons terre. Chaque carreau présente des variations de teinte et de relief qui créent un jeu de lumière captivant. Le format traditionnel 10x10 cm reste plébiscité, mais les formats rectangulaires 5x15 cm gagnent en popularité.
+
+### Technique de Pose du Zellige
+
+La pose du zellige exige une expertise particulière. La surface irrégulière de chaque carreau nécessite un mortier-colle flexible et une préparation minutieuse du support. L'espacement entre les carreaux varie naturellement, créant l'aspect authentique recherché.
+
+Nos artisans utilisent une colle adaptée aux supports humides, indispensable dans une cuisine. Le jointoiement s'effectue avec un mortier époxy ou ciment selon l'exposition à l'humidité. Comptez 3 à 4 jours de séchage avant utilisation normale.
+
+## Carrelage Métro : La Tendance Revisitée
+
+Le carrelage métro traverse les époques sans prendre une ride. Les cuisines de Sartrouville et Les Mureaux adoptent massivement ce format intemporel, décliné aujourd'hui en multiples variations. Le format classique 7,5x15 cm côtoie désormais des versions 10x20 cm ou 15x30 cm.
+
+Les finitions évoluent également : brillant traditionnel, mat contemporain, effet biseauté ou plat. Les couleurs s'éloignent du blanc immaculé pour explorer les gris, les verts sourds et même les noirs profonds. Cette diversité permet d'adapter le métro à tous les styles, du vintage au ultra-moderne.
+
+### Pose du Carrelage Métro : Motifs et Techniques
+
+La pose en quinconce reste la plus répandue, mais les motifs évoluent. La pose droite crée un effet plus contemporain, tandis que la pose en chevron ou en losange apporte du dynamisme. Dans les cuisines des Yvelines, nous observons une préférence pour la pose verticale qui élance visuellement l'espace.
+
+L'alignement parfait constitue la difficulté principale. Nos équipes utilisent des croisillons adaptés et contrôlent l'horizontalité à chaque rangée. Les joints de 2 à 3 mm suffisent généralement, sauf effet décoratif recherché avec des joints plus larges.
+
+## Grand Format : L'Élégance Minimaliste
+
+Les faïences grand format séduisent les propriétaires recherchant un style épuré. Les dimensions 60x120 cm, 75x150 cm ou même 100x300 cm minimisent les joints et créent des surfaces continues impressionnantes. Cette tendance s'impose particulièrement dans les cuisines ouvertes de Gargenville et Mantes-la-Jolie.
+
+Les effets matière se diversifient : imitation béton ciré, pierre naturelle, bois ou métal. L'épaisseur réduite, généralement 6 à 9 mm, facilite la découpe et réduit le poids sur les cloisons.
+
+### Défis Techniques du Grand Format
+
+La manipulation des grands carreaux demande un savoir-faire spécifique. Le transport, la découpe et la pose nécessitent un outillage adapté et une coordination parfaite. Le support doit être parfaitement plan, car toute irrégularité se répercute sur ces surfaces importantes.
+
+Nos artisans utilisent des ventouses de manutention et des supports temporaires durant la prise de la colle. La colle doit être étalée uniformément sur toute la surface pour éviter les bulles d'air. Les joints périphériques restent indispensables pour absorber les dilatations.
+
+## Prix et Budget pour la Faïence de Cuisine
+
+Les tarifs varient significativement selon le type de faïence choisi. Le zellige artisanal se situe entre 40 et 80 euros le mètre carré selon la qualité et l'origine. Le carrelage métro oscille entre 15 et 45 euros le mètre carré, tandis que les grands formats s'échelonnent de 25 à 100 euros le mètre carré.
+
+La pose représente 35 à 55 euros le mètre carré selon la complexité. Les découpes nombreuses, les motifs élaborés ou les surfaces difficiles d'accès majorent ce tarif. Pour une crédence standard de 6 mètres carrés, comptez entre 300 et 900 euros de fourniture et 210 à 330 euros de main-d'œuvre.
+
+### Facteurs Influençant le Prix
+
+Plusieurs éléments impactent le coût final. La préparation du support peut nécessiter un ragréage ou un doublage, ajoutant 15 à 25 euros par mètre carré. Les finitions particulières comme les baguettes d'angle ou les moulures augmentent également la facture.
+
+La qualité de la faïence influence directement sa durabilité. Les produits premier prix présentent souvent des défauts de planéité ou de résistance. Nos équipes privilégient les fabricants reconnus, garantissant un résultat durable malgré un investissement initial plus important.
+
+## Préparation et Entretien
+
+Une pose réussie commence par une préparation minutieuse. Le support doit être propre, sec et stable. Les anciennes peintures écaillées ou les papiers peints doivent être entièrement éliminés. Un primaire d'accrochage améliore l'adhérence sur les supports lisses.
+
+L'étanchéité constitue un point crucial, particulièrement derrière l'évier et les plaques de cuisson. Nos artisans appliquent systématiquement une membrane d'étanchéité dans ces zones sensibles.
+
+L'entretien varie selon le type de faïence. Le zellige nécessite un entretien délicat avec des produits neutres pour préserver sa patine naturelle. Les faïences modernes supportent généralement les détergents classiques, mais les joints restent sensibles aux produits acides.
+
+## Conseils de Professionnel
+
+L'éclairage influence considérablement le rendu final. Les faïences brillantes réfléchissent la lumière et agrandissent visuellement l'espace, mais révèlent aussi les traces. Les finitions mates dissimulent mieux les imperfections mais demandent un nettoyage plus fréquent.
+
+La coordination avec les autres éléments de la cuisine nécessite une planification rigoureuse. La faïence s'installe généralement après la pose des meubles hauts mais avant le plan de travail. Cette séquence optimise les découpes et les finitions.
+
+Nos équipes interviennent régulièrement à Mantes-la-Jolie, Gargenville et dans toutes les communes des Yvelines. Chaque projet fait l'objet d'une étude personnalisée tenant compte des contraintes techniques et du budget disponible.
+
+Vous envisagez de rénover votre cuisine avec une nouvelle faïence murale ? CHARRIERE SARL vous accompagne de la conception à la réalisation. Contactez-nous pour un devis gratuit et personnalisé adapté à votre projet dans les Yvelines.`,
+  },
+  {
     slug: "renovation-appartement-neuf-livre-brut-etapes-finition",
     title: "Rénovation d'un Appartement Neuf Livré Brut : Guide Complet des Finitions",
     metaTitle: "Rénovation Appartement Neuf Brut : Étapes & Budget 2026 | CHARRIERE SARL",
