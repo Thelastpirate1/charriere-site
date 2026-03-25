@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { articles, getArticleBySlug, getAllSlugs } from "@/data/articles";
 import { ArrowLeft, Calendar, Clock } from "lucide-react";
@@ -30,6 +31,14 @@ export async function generateMetadata({
       type: "article",
       publishedTime: article.publishedAt,
       authors: ["CHARRIERE SARL"],
+      ...(article.image && {
+        images: [{
+          url: `https://charriere-artisan.fr${article.image}`,
+          width: 1200,
+          height: 630,
+          alt: article.imageAlt || article.title,
+        }],
+      }),
     },
   };
 }
@@ -86,6 +95,9 @@ export default async function ArticlePage({
     headline: article.title,
     description: article.metaDescription,
     datePublished: article.publishedAt,
+    ...(article.image && {
+      image: `https://charriere-artisan.fr${article.image}`,
+    }),
     author: {
       "@type": "Organization",
       name: "CHARRIERE SARL",
@@ -141,6 +153,22 @@ export default async function ArticlePage({
             </h1>
           </div>
         </section>
+
+        {/* Hero Image */}
+        {article.image && (
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 -mt-6">
+            <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden shadow-lg">
+              <Image
+                src={article.image}
+                alt={article.imageAlt || article.title}
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 896px"
+                priority
+              />
+            </div>
+          </div>
+        )}
 
         {/* Content */}
         <article className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14">

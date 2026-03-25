@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { articles } from "@/data/articles";
 import { ArrowRight, Calendar, Clock } from "lucide-react";
 
@@ -41,6 +42,19 @@ export default function BlogPage() {
               key={article.slug}
               className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-md transition-shadow"
             >
+              {article.image && (
+                <Link href={`/blog/${article.slug}`}>
+                  <div className="relative w-full aspect-[16/9]">
+                    <Image
+                      src={article.image}
+                      alt={article.imageAlt || article.title}
+                      fill
+                      className="object-cover"
+                      sizes="(max-width: 768px) 100vw, 50vw"
+                    />
+                  </div>
+                </Link>
+              )}
               <div className="p-6 md:p-8">
                 <div className="flex items-center gap-4 text-sm text-gray-500 mb-3">
                   <span className="inline-flex items-center gap-1 px-2.5 py-0.5 bg-[#1B4F72]/10 text-[#1B4F72] rounded-full text-xs font-medium">

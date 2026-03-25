@@ -8,6 +8,8 @@ export interface Article {
   publishedAt: string;
   readTime: string;
   category: string;
+  image: string;
+  imageAlt: string;
   content: string;
 }
 
@@ -24,6 +26,8 @@ export const articles: Article[] = [
     publishedAt: "2026-03-25",
     readTime: "8 min",
     category: "Salle de bain",
+    image: "/images/blog/erreurs-plomberie-salle-de-bain-eviter-yvelines.webp",
+    imageAlt: "Rénovation de salle de bain en cours avec tuyaux et carrelage",
     content: `En vingt ans d'intervention dans les Yvelines, de Gargenville à Saint-Germain-en-Laye, j'ai vu défiler toutes les erreurs possibles en plomberie de salle de bain. Certaines semblent anodines mais peuvent transformer votre rénovation en cauchemar financier. Voici les sept erreurs les plus fréquentes que je rencontre chez mes clients et comment les éviter.
 
 ## L'erreur numéro 1 : négliger la pente d'évacuation
@@ -96,6 +100,8 @@ Votre projet de rénovation de salle de bain dans les Yvelines mérite un accomp
     publishedAt: "2026-03-24",
     readTime: "6 min",
     category: "Rénovation",
+    image: "/images/blog/importance-devis-detaille-travaux-renovation.webp",
+    imageAlt: "Documents de devis détaillé et plans sur un bureau d'artisan",
     content: `Vous envisagez des travaux de rénovation dans votre logement à Gargenville, Mantes-la-Jolie ou ailleurs dans les Yvelines ? La première étape cruciale consiste à obtenir un devis détaillé de votre artisan. Loin d'être une simple formalité, ce document constitue la base de votre projet et votre meilleure protection contre les mauvaises surprises.
 
 En tant qu'artisan expérimenté dans la rénovation intérieure, je constate régulièrement les problèmes rencontrés par les particuliers qui ont négligé cette étape fondamentale. Un devis bien conçu vous permet non seulement de budgéter précisément vos travaux, mais aussi d'éviter les conflits et les dépassements de coûts.
@@ -204,6 +210,8 @@ CHARRIERE SARL accompagne les habitants des Yvelines dans leurs projets de réno
     publishedAt: "2026-03-23",
     readTime: "6 min",
     category: "Rénovation",
+    image: "/images/blog/renover-studio-location-meuble-yvelines.webp",
+    imageAlt: "Studio rénové moderne prêt pour la location meublée",
     content: `L'investissement locatif en studio meublé représente une opportunité attractive dans les Yvelines, particulièrement à Gargenville, Mantes-la-Jolie et les communes bien desservies par les transports. La rénovation d'un studio pour la location meublée nécessite une approche spécifique : optimiser chaque mètre carré tout en créant un espace fonctionnel et attractif pour les locataires.
 
 ## Analyser le potentiel locatif dans les Yvelines
@@ -322,6 +330,8 @@ La rénovation d'un studio pour la location meublée dans les Yvelines représen
     publishedAt: "2026-03-22",
     readTime: "7 min",
     category: "Cuisine",
+    image: "/images/blog/faience-murale-cuisine-tendances-pose-mantes-la-jolie.webp",
+    imageAlt: "Pose de faïence murale dans une cuisine moderne",
     content: `La faïence murale transforme radicalement l'ambiance d'une cuisine. En 2026, trois tendances dominent le marché dans les Yvelines : le zellige aux reflets changeants, le carrelage métro réinterprété et les grands formats épurés. Chaque style demande une technique de pose spécifique pour un résultat optimal.
 
 CHARRIERE SARL accompagne depuis plus de 15 ans les propriétaires de Mantes-la-Jolie, Gargenville et des communes environnantes dans leurs projets de rénovation de cuisine. Nos équipes maîtrisent parfaitement ces nouvelles tendances et les contraintes techniques qu'elles imposent.
@@ -404,6 +414,8 @@ Vous envisagez de rénover votre cuisine avec une nouvelle faïence murale ? CHA
     publishedAt: "2026-03-21",
     readTime: "8 min",
     category: "Rénovation",
+    image: "/images/blog/renovation-appartement-neuf-livre-brut-etapes-finition.webp",
+    imageAlt: "Appartement neuf livré brut avant travaux de finition",
     content: `Vous venez d'acquérir un appartement neuf dans les Yvelines et votre promoteur vous le livre en état brut ? Cette situation, de plus en plus courante dans des villes comme Gargenville, Mantes-la-Jolie ou Saint-Germain-en-Laye, peut sembler décourageante au premier abord. Pourtant, elle offre l'avantage de pouvoir personnaliser entièrement votre logement selon vos goûts et vos besoins.
 
 ## Qu'est-ce qu'une livraison en état brut ?
@@ -506,6 +518,8 @@ CHARRIERE SARL vous accompagne dans tous vos projets de finition d'appartements 
     publishedAt: "2026-03-20",
     readTime: "8 min",
     category: "Rénovation",
+    image: "/images/blog/comment-preparer-chantier-renovation-conseils-artisan.webp",
+    imageAlt: "Chantier de rénovation bien préparé et organisé",
     content: `Préparer correctement son chantier de rénovation représente 50% de la réussite du projet. Après 15 ans d'expérience dans la rénovation intérieure à Gargenville et dans les Yvelines, je peux vous affirmer que les chantiers les mieux préparés sont ceux qui se déroulent le plus sereinement.
 
 Que vous envisagiez de rénover une cuisine à Mantes-la-Jolie, d'aménager une salle de bain à Poissy ou de transformer entièrement votre intérieur à Saint-Germain-en-Laye, une préparation minutieuse vous évitera bien des désagréments.
@@ -612,6 +626,8 @@ La réussite d'un projet de rénovation repose sur une préparation rigoureuse e
     publishedAt: "2026-03-19",
     readTime: "6 min",
     category: "Aménagement",
+    image: "/images/blog/verriere-interieure-tendance-luminosite-pavilion-yvelines.webp",
+    imageAlt: "Verrière intérieure en acier noir dans un intérieur moderne",
     content: `La verrière intérieure s'impose comme l'élément décoratif phare de 2026. Cette cloison vitrée, héritée des ateliers d'artistes parisiens, conquiert aujourd'hui les pavillons de Gargenville, Mantes-la-Jolie et de toutes les Yvelines. Mais qu'est-ce qui explique un tel engouement pour cet aménagement à la fois pratique et esthétique ?
 
 ## L'explosion de la luminosité : l'atout majeur de la verrière
@@ -692,6 +708,8 @@ Vous envisagez d'installer une verrière dans votre habitation ? CHARRIERE SARL 
     publishedAt: "2026-03-18",
     readTime: "7 min",
     category: "Aménagement",
+    image: "/images/blog/amenager-combles-yvelines-permis-isolation-budget.webp",
+    imageAlt: "Combles aménagés avec poutres apparentes et fenêtre de toit",
     content: `L'aménagement des combles représente une solution idéale pour gagner de l'espace habitable sans déménager. Dans les Yvelines, où l'immobilier reste cher, transformer ses combles perdus en pièces à vivre constitue un investissement particulièrement rentable. Que vous résidiez à Gargenville, Mantes-la-Jolie, Poissy ou Saint-Germain-en-Laye, ce guide vous accompagne dans votre projet d'aménagement.
 
 ## Les formalités administratives pour aménager ses combles dans le 78
@@ -798,6 +816,8 @@ CHARRIERE SARL accompagne les propriétaires des Yvelines dans leurs projets d'a
     publishedAt: "2026-03-17",
     readTime: "6 min",
     category: "Rénovation",
+    image: "/images/blog/electricite-aux-normes-cout-mise-en-conformite-yvelines.webp",
+    imageAlt: "Tableau électrique moderne aux normes NF C 15-100",
     content: `La sécurité électrique de votre logement n'est pas un sujet à prendre à la légère. Que vous habitiez à Gargenville, Mantes-la-Jolie ou ailleurs dans les Yvelines, votre installation électrique doit respecter la norme NF C 15-100. Cette obligation légale garantit la protection de votre famille contre les risques d'incendie et d'électrocution.
 
 Chez CHARRIERE SARL, nous intervenons régulièrement pour des mises en conformité électriques dans tout le département. L'expérience nous montre que de nombreux propriétaires sous-estiment l'ampleur des travaux nécessaires et surtout leur coût réel.
@@ -894,6 +914,8 @@ Vous habitez Gargenville, Mantes-la-Jolie, Poissy ou une autre commune des Yveli
     publishedAt: "2026-03-16",
     readTime: "6 min",
     category: "Aménagement",
+    image: "/images/blog/agrandir-visuellement-piece-astuces-renovation-yvelines.webp",
+    imageAlt: "Pièce lumineuse agrandie visuellement par des astuces déco",
     content: `Les logements en Île-de-France, particulièrement dans les Yvelines, présentent souvent des défis d'espace. Que vous habitiez un appartement à Gargenville ou une maison à Mantes-la-Jolie, il existe de nombreuses astuces pour donner une impression de grandeur à vos pièces. En tant qu'artisan spécialisé en rénovation intérieure, CHARRIERE SARL vous dévoile huit techniques éprouvées pour transformer visuellement vos espaces restreints.
 
 ## La magie des couleurs claires et neutres
@@ -980,6 +1002,8 @@ Vous souhaitez agrandir visuellement vos pièces dans les Yvelines ? CHARRIERE S
     publishedAt: "2026-03-15",
     readTime: "6 min",
     category: "Rénovation",
+    image: "/images/blog/peinture-interieure-finition-mat-satin-brillant-guide.webp",
+    imageAlt: "Échantillons de peinture mat, satin et brillant sur un mur",
     content: `Choisir la finition de sa peinture intérieure n'est pas qu'une question d'esthétique. Cette décision influence directement la durabilité, l'entretien et l'atmosphère de vos espaces. Après plus de quinze ans d'expérience dans la rénovation intérieure à Gargenville et dans toutes les Yvelines, j'ai appris que chaque finition a ses avantages selon la pièce et l'usage prévu.
 
 ## Les Trois Types de Finitions : Comprendre les Différences
@@ -1082,6 +1106,8 @@ Le choix de la finition influence directement le rendu et la durabilité de vos 
     publishedAt: "2026-03-14",
     readTime: "8 min",
     category: "Aménagement",
+    image: "/images/blog/tendances-amenagement-interieur-2026-couleurs-materiaux-styles.webp",
+    imageAlt: "Intérieur tendance 2026 avec matériaux naturels et couleurs terracotta",
     content: `L'année 2026 s'annonce riche en nouveautés pour l'aménagement intérieur. Entre retour aux sources et innovations technologiques, les tendances déco de cette année reflètent notre quête d'authenticité et de bien-être dans nos intérieurs. Que vous habitiez Gargenville, Mantes-la-Jolie ou ailleurs dans les Yvelines, voici les grandes tendances à retenir pour transformer votre habitat.
 
 ## Les Couleurs Phares de 2026
@@ -1184,6 +1210,8 @@ Les tendances d'aménagement intérieur 2026 marquent un tournant vers l'authent
     publishedAt: "2026-03-13",
     readTime: "8 min",
     category: "Salle de bain",
+    image: "/images/blog/remplacer-baignoire-par-douche-gargenville.webp",
+    imageAlt: "Douche à l'italienne moderne remplaçant une ancienne baignoire",
     content: `Le remplacement d'une baignoire par une douche représente l'un des aménagements les plus demandés dans les Yvelines, particulièrement à Gargenville et ses communes environnantes. Cette transformation s'inscrit souvent dans une démarche d'amélioration du confort quotidien, d'économie d'espace ou d'adaptation au vieillissement.
 
 ## Pourquoi remplacer sa baignoire par une douche ?
@@ -1292,6 +1320,8 @@ Vous envisagez de remplacer votre baignoire par une douche à Gargenville ou dan
     publishedAt: "2026-03-12",
     readTime: "8 min",
     category: "Rénovation",
+    image: "/images/blog/isolation-interieure-maison-ancienne-techniques-materiaux-aides-yvelines.webp",
+    imageAlt: "Isolation intérieure d'une maison ancienne en pierre",
     content: `L'isolation intérieure des maisons anciennes représente un enjeu majeur pour améliorer le confort thermique et réduire les factures énergétiques. Dans les Yvelines, où de nombreux pavillons datent des années 60 à 80, cette problématique concerne particulièrement les propriétaires de Gargenville, Mantes-la-Jolie, Poissy ou encore Saint-Germain-en-Laye.
 
 Ces habitations, construites avant les premières réglementations thermiques strictes, présentent souvent des défauts d'isolation qui génèrent inconfort et surconsommation énergétique. Comprendre les spécificités de ces constructions et les solutions adaptées devient essentiel pour mener à bien un projet de rénovation.
@@ -1418,6 +1448,8 @@ Vous envisagez des travaux d'isolation pour votre maison ancienne dans les Yveli
     publishedAt: "2026-03-11",
     readTime: "8 min",
     category: "Cuisine",
+    image: "/images/blog/renovation-cuisine-ouverte-appartement-haussmannien-mantes-la-jolie.webp",
+    imageAlt: "Cuisine ouverte dans un appartement haussmannien rénové",
     content: `Les appartements haussmanniens de Mantes-la-Jolie et des Yvelines offrent un charme indéniable avec leurs hauts plafonds et leurs moulures d'époque. Cependant, créer une cuisine ouverte dans ces espaces centenaires représente un défi technique majeur qui nécessite une approche experte et méthodique.
 
 ## Les spécificités des appartements haussmanniens dans les Yvelines
@@ -1488,6 +1520,8 @@ Vous envisagez la rénovation d'une cuisine ouverte dans votre appartement hauss
     publishedAt: "2026-03-11",
     readTime: "6 min",
     category: "Salle de bain",
+    image: "/images/blog/tendances-carrelage-salle-de-bain-2026-gargenville-poissy.webp",
+    imageAlt: "Carrelage tendance 2026 dans une salle de bain moderne",
     content: `L'année 2026 marque un tournant dans l'univers du carrelage pour salle de bain. Les propriétaires de Gargenville, Poissy et des communes environnantes des Yvelines recherchent désormais des revêtements qui allient esthétisme contemporain et durabilité. Cette évolution reflète une nouvelle approche de la rénovation, où la salle de bain devient un véritable espace de bien-être.
 
 ## Les grands formats : la tendance incontournable de 2026
@@ -1564,6 +1598,8 @@ Pour votre projet de rénovation de salle de bain à Gargenville, Poissy ou dans
     publishedAt: "2026-03-12",
     readTime: "6 min",
     category: "Cuisine",
+    image: "/images/blog/comment-choisir-sa-cuisine.webp",
+    imageAlt: "Showroom de cuisines équipées modernes",
     content: `Choisir une nouvelle cuisine est souvent l'un des investissements les plus importants dans un logement. Que vous soyez en construction neuve ou en rénovation, les décisions à prendre sont nombreuses : matériaux, agencement, électroménager, budget. Après plus de 20 ans à poser des cuisines dans les Yvelines, voici nos conseils pour faire le bon choix.
 
 ## 1. Définir vos besoins avant tout
@@ -1617,6 +1653,8 @@ Nous intervenons dans tout le département des Yvelines (78) et les département
     publishedAt: "2026-03-12",
     readTime: "5 min",
     category: "Salle de bain",
+    image: "/images/blog/budget-renovation-salle-de-bain.webp",
+    imageAlt: "Avant-après d'une rénovation de salle de bain complète",
     content: `La salle de bain est la deuxième pièce la plus rénovée après la cuisine. Mais combien faut-il réellement prévoir ? Voici un guide des prix basé sur notre expérience de plus de 20 ans de chantiers dans les Yvelines.
 
 ## Les fourchettes de prix en 2026
@@ -1664,6 +1702,8 @@ Nous gérons l'intégralité de votre rénovation de salle de bain : démolition
     publishedAt: "2026-03-12",
     readTime: "4 min",
     category: "Cuisine",
+    image: "/images/blog/pourquoi-artisan-poseur-cuisine.webp",
+    imageAlt: "Artisan poseur de cuisine ajustant une porte de meuble",
     content: `Vous venez d'acheter votre cuisine chez un cuisiniste, en grande surface ou en ligne. Maintenant se pose la question : la poser vous-même ou faire appel à un professionnel ? Voici pourquoi un artisan poseur fait toute la différence.
 
 ## La pose de cuisine, un métier à part entière
@@ -1707,6 +1747,8 @@ Nous intervenons dans tout le département des Yvelines (78) : Gargenville, Mant
     publishedAt: "2026-03-12",
     readTime: "5 min",
     category: "Rénovation",
+    image: "/images/blog/renovation-interieure-yvelines-guide.webp",
+    imageAlt: "Intérieur rénové d'une maison dans les Yvelines",
     content: `Vous venez d'acheter une maison ou un appartement dans les Yvelines et vous souhaitez le rénover ? Ou vous voulez simplement moderniser votre intérieur ? La rénovation intérieure est un projet excitant mais qui demande de la méthode. Voici notre guide pour bien démarrer.
 
 ## Étape 1 : Faire un état des lieux précis
