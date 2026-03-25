@@ -1,10 +1,40 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Manrope:wght@400;500;600;700&display=swap');
 
 @theme inline {
-  --color-primary: #1B4F72;
-  --color-primary-light: #2E86C1;
+  /* Stitch Design System — "The Artisan's Atelier" */
+  --color-primary: #003857;
+  --color-primary-container: #1b4f72;
+  --color-on-primary: #ffffff;
+  --color-on-primary-container: #92c0e9;
+
+  --color-secondary: #006d37;
+  --color-secondary-container: #7bf8a1;
+
+  --color-tertiary: #552800;
+  --color-tertiary-container: #773b00;
+  --color-tertiary-fixed-dim: #ffb783;
+
+  --color-surface: #f7f9ff;
+  --color-surface-container: #e3efff;
+  --color-surface-container-low: #edf4ff;
+  --color-surface-container-high: #d9eaff;
+  --color-surface-container-highest: #d1e4fb;
+  --color-surface-container-lowest: #ffffff;
+
+  --color-on-surface: #091d2e;
+  --color-on-surface-variant: #41474e;
+  --color-outline: #72787f;
+  --color-outline-variant: #c1c7cf;
+
   --color-accent: #E67E22;
-  --color-accent-light: #F39C12;
+  --color-accent-hover: #D35400;
+
+  --color-error: #ba1a1a;
+  --color-inverse-surface: #203243;
+  --color-inverse-on-surface: #e8f2ff;
+
+  /* Legacy compat */
   --color-dark: #2C3E50;
   --color-light: #ECF0F1;
   --color-success: #27AE60;
@@ -15,23 +45,42 @@ html {
 }
 
 body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  color: #2C3E50;
-  background: #ffffff;
+  font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+  color: var(--color-on-surface);
+  background: var(--color-surface);
 }
 
+/* Typography utilities */
+.font-headline {
+  font-family: 'Noto Serif', serif;
+}
+
+.font-body {
+  font-family: 'Manrope', sans-serif;
+}
+
+/* Hero gradient - Stitch style with Navy */
 .gradient-hero {
-  background: linear-gradient(135deg, #1B4F72 0%, #154360 50%, #2C3E50 100%);
+  background: linear-gradient(135deg, #003857 0%, #1b4f72 50%, #154b6d 100%);
 }
 
+/* Glass panel for nav */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.80);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+/* Card hover */
 .card-hover {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
 }
 .card-hover:hover {
   transform: translateY(-4px);
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 20px 50px rgba(0, 56, 87, 0.08);
 }
 
+/* Fade in */
 .animate-fade-in {
   animation: fadeIn 0.6s ease-out;
 }
@@ -39,4 +88,27 @@ body {
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
+}
+
+/* Image hover scale */
+.img-zoom {
+  transition: transform 0.7s ease;
+}
+.group:hover .img-zoom {
+  transform: scale(1.1);
+}
+
+/* Ghost border (from Stitch design system) */
+.ghost-border {
+  border: 1px solid rgba(193, 199, 207, 0.15);
+}
+
+/* Ambient shadow (tinted with primary) */
+.shadow-ambient {
+  box-shadow: 0 20px 50px rgba(0, 56, 87, 0.06);
+}
+
+/* Signature gradient for buttons */
+.btn-primary-gradient {
+  background: linear-gradient(135deg, #003857, #1b4f72);
 }

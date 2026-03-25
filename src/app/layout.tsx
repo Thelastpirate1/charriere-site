@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Noto_Serif, Manrope } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
@@ -7,34 +7,46 @@ import Footer from "@/components/Footer";
 
 const GA_MEASUREMENT_ID = "G-YGT019114S";
 
-const inter = Inter({ subsets: ["latin"] });
+const notoSerif = Noto_Serif({
+  subsets: ["latin"],
+  weight: ["400", "700"],
+  variable: "--font-headline",
+  display: "swap",
+});
+
+const manrope = Manrope({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-body",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
   verification: {
     google: "0_dwmKqardFRGLlk-nc3EF2381DpoGgJibF7tf0MeAU",
   },
   title: {
-    default: "CHARRIERE SARL — Pose de Cuisine & Artisanat | Yvelines (78)",
+    default: "CHARRIERE SARL — Artisan Rénovation Yvelines (78) | Cuisine, Salle de Bain, Aménagement",
     template: "%s | CHARRIERE SARL",
   },
   description:
-    "Artisan poseur de cuisine et tous corps de métier à Gargenville (78). 20 ans d'expérience, devis gratuit, intervention dans les Yvelines et Île-de-France Ouest.",
+    "Artisan rénovation intérieure à Gargenville (78). Pose de cuisine, salle de bain, peinture, aménagement sur-mesure. 20+ ans d'expérience dans les Yvelines. Devis gratuit.",
   keywords: [
-    "poseur cuisine Yvelines",
-    "pose cuisine 78",
-    "artisan cuisine Gargenville",
-    "installation cuisine Yvelines",
-    "rénovation cuisine Île-de-France",
+    "artisan rénovation Yvelines",
+    "poseur cuisine 78",
+    "rénovation intérieure Gargenville",
+    "salle de bain Yvelines",
     "artisan tous corps de métier 78",
+    "pose cuisine Île-de-France",
   ],
   authors: [{ name: "CHARRIERE SARL" }],
   openGraph: {
     type: "website",
     locale: "fr_FR",
     siteName: "CHARRIERE SARL",
-    title: "CHARRIERE SARL — Pose de Cuisine & Artisanat | Yvelines (78)",
+    title: "CHARRIERE SARL — Artisan Rénovation Yvelines (78)",
     description:
-      "Artisan poseur de cuisine et tous corps de métier. 20 ans d'expérience dans les Yvelines.",
+      "Artisan rénovation intérieure. Cuisine, salle de bain, peinture, aménagement. 20+ ans d'expérience dans les Yvelines.",
   },
   robots: { index: true, follow: true },
 };
@@ -45,7 +57,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="fr">
+    <html lang="fr" className={`${notoSerif.variable} ${manrope.variable}`}>
       <head>
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
@@ -67,8 +79,9 @@ export default function RootLayout({
               "@type": "LocalBusiness",
               name: "CHARRIERE SARL",
               description:
-                "Artisan poseur de cuisine et tous corps de métier à Gargenville (78). 20 ans d'expérience.",
+                "Artisan rénovation intérieure à Gargenville (78). Pose de cuisine, salle de bain, peinture, aménagement sur-mesure. 20+ ans d'expérience.",
               url: "https://charriere-artisan.fr",
+              telephone: "+33685031144",
               email: "contact@charriere-artisan.fr",
               address: {
                 "@type": "PostalAddress",
@@ -100,7 +113,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className={`${inter.className} antialiased`}>
+      <body className="font-body antialiased bg-surface text-on-surface">
         <Header />
         <main>{children}</main>
         <Footer />

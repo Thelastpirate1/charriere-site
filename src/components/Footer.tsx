@@ -1,76 +1,105 @@
 import Link from "next/link";
-import { Mail, MapPin, Clock, MessageCircle } from "lucide-react";
+import { Mail, MapPin, Clock, Phone } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#2C3E50] text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
-          {/* Company info */}
-          <div>
-            <h3 className="text-xl font-bold mb-4">CHARRIERE SARL</h3>
-            <p className="text-gray-300 text-sm leading-relaxed mb-4">
-              Artisan poseur de cuisine et tous corps de métier depuis plus de 20 ans.
-              Intervention dans les Yvelines et Île-de-France Ouest.
-            </p>
-            <p className="text-xs text-gray-400">SIRET : 444 547 905 00042</p>
-          </div>
-
-          {/* Services */}
-          <div>
-            <h4 className="font-semibold mb-4">Nos Services</h4>
-            <ul className="space-y-2 text-sm text-gray-300">
-              <li><Link href="/services#pose-cuisine" className="hover:text-[#E67E22] transition-colors">Pose de cuisine</Link></li>
-              <li><Link href="/services#renovation" className="hover:text-[#E67E22] transition-colors">Rénovation intérieure</Link></li>
-              <li><Link href="/services#salle-de-bain" className="hover:text-[#E67E22] transition-colors">Salle de bain</Link></li>
-              <li><Link href="/services#amenagement" className="hover:text-[#E67E22] transition-colors">Aménagement sur-mesure</Link></li>
-              <li><Link href="/blog" className="hover:text-[#E67E22] transition-colors">Blog & Conseils</Link></li>
-            </ul>
-          </div>
-
-          {/* Zone d'intervention */}
-          <div>
-            <h4 className="font-semibold mb-4">Zone d&apos;intervention</h4>
-            <ul className="space-y-2 text-sm text-gray-300">
-              <li><Link href="/artisan-mantes-la-jolie" className="hover:text-[#E67E22] transition-colors">Mantes-la-Jolie</Link></li>
-              <li><Link href="/artisan-les-mureaux" className="hover:text-[#E67E22] transition-colors">Les Mureaux</Link></li>
-              <li><Link href="/artisan-poissy" className="hover:text-[#E67E22] transition-colors">Poissy</Link></li>
-              <li><Link href="/artisan-saint-germain-en-laye" className="hover:text-[#E67E22] transition-colors">Saint-Germain-en-Laye</Link></li>
-              <li><Link href="/artisan-conflans-sainte-honorine" className="hover:text-[#E67E22] transition-colors">Conflans-Sainte-Honorine</Link></li>
-              <li><Link href="/artisan-sartrouville" className="hover:text-[#E67E22] transition-colors">Sartrouville</Link></li>
-            </ul>
-          </div>
-
-          {/* Contact */}
-          <div>
-            <h4 className="font-semibold mb-4">Contact</h4>
-            <ul className="space-y-3 text-sm text-gray-300">
-              <li className="flex items-start gap-2">
-                <MessageCircle className="w-4 h-4 mt-0.5 text-[#E67E22]" />
-                <Link href="/contact" className="hover:text-[#E67E22]">Demander à être rappelé</Link>
-              </li>
-              <li className="flex items-start gap-2">
-                <Mail className="w-4 h-4 mt-0.5 text-[#E67E22]" />
-                <a href="mailto:contact@charriere-artisan.fr" className="hover:text-[#E67E22]">contact@charriere-artisan.fr</a>
-              </li>
-              <li className="flex items-start gap-2">
-                <MapPin className="w-4 h-4 mt-0.5 text-[#E67E22]" />
-                <span>78440 Gargenville</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <Clock className="w-4 h-4 mt-0.5 text-[#E67E22]" />
-                <span>Lun-Ven : 8h-18h</span>
-              </li>
-            </ul>
-          </div>
+    <footer className="w-full border-t border-outline-variant/20 bg-surface-container-low">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-10 lg:gap-12 px-6 lg:px-8 py-14 max-w-7xl mx-auto">
+        {/* Company info */}
+        <div className="space-y-5">
+          <div className="text-xl font-bold text-primary font-headline">CHARRIERE SARL</div>
+          <p className="text-sm text-on-surface-variant leading-relaxed">
+            Artisan rénovateur passionné intervenant dans toutes les Yvelines depuis 2002.
+            Qualité, rigueur et respect des délais.
+          </p>
+          <p className="text-xs text-outline">SIRET : 444 547 905 00042</p>
         </div>
 
-        {/* Bottom bar */}
-        <div className="mt-12 pt-8 border-t border-gray-600 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-gray-400">
-          <p>&copy; {new Date().getFullYear()} CHARRIERE SARL — Tous droits réservés</p>
-          <div className="flex gap-4">
-            <Link href="/mentions-legales" className="hover:text-gray-200">Mentions légales</Link>
-            <Link href="/mentions-legales#rgpd" className="hover:text-gray-200">Confidentialité</Link>
+        {/* Services */}
+        <div>
+          <h4 className="font-headline text-base text-primary font-bold mb-5">Nos Services</h4>
+          <ul className="space-y-3 text-sm text-on-surface-variant">
+            <li>
+              <Link href="/services#pose-cuisine" className="hover:text-accent hover:underline decoration-accent decoration-2 underline-offset-4 transition-all">
+                Cuisine sur-mesure
+              </Link>
+            </li>
+            <li>
+              <Link href="/services#salle-de-bain" className="hover:text-accent hover:underline decoration-accent decoration-2 underline-offset-4 transition-all">
+                Salle de bain
+              </Link>
+            </li>
+            <li>
+              <Link href="/services#renovation" className="hover:text-accent hover:underline decoration-accent decoration-2 underline-offset-4 transition-all">
+                Rénovation intérieure
+              </Link>
+            </li>
+            <li>
+              <Link href="/services#amenagement" className="hover:text-accent hover:underline decoration-accent decoration-2 underline-offset-4 transition-all">
+                Aménagement sur-mesure
+              </Link>
+            </li>
+          </ul>
+        </div>
+
+        {/* Liens utiles */}
+        <div>
+          <h4 className="font-headline text-base text-primary font-bold mb-5">Liens Utiles</h4>
+          <ul className="space-y-3 text-sm text-on-surface-variant">
+            <li>
+              <Link href="/realisations" className="hover:text-accent hover:underline decoration-accent decoration-2 underline-offset-4 transition-all">
+                Nos Réalisations
+              </Link>
+            </li>
+            <li>
+              <Link href="/blog" className="hover:text-accent hover:underline decoration-accent decoration-2 underline-offset-4 transition-all">
+                Blog & Conseils
+              </Link>
+            </li>
+            <li>
+              <Link href="/mentions-legales" className="hover:text-accent hover:underline decoration-accent decoration-2 underline-offset-4 transition-all">
+                Mentions Légales
+              </Link>
+            </li>
+            <li>
+              <Link href="/contact" className="hover:text-accent hover:underline decoration-accent decoration-2 underline-offset-4 transition-all">
+                Contact
+              </Link>
+            </li>
+          </ul>
+        </div>
+
+        {/* Contact */}
+        <div>
+          <h4 className="font-headline text-base text-primary font-bold mb-5">Contact</h4>
+          <ul className="space-y-4 text-sm text-on-surface-variant">
+            <li className="flex items-start gap-3">
+              <Phone className="w-4 h-4 mt-0.5 text-accent shrink-0" />
+              <a href="tel:0685031144" className="hover:text-accent transition-colors">06 85 03 11 44</a>
+            </li>
+            <li className="flex items-start gap-3">
+              <Mail className="w-4 h-4 mt-0.5 text-accent shrink-0" />
+              <a href="mailto:contact@charriere-artisan.fr" className="hover:text-accent transition-colors">contact@charriere-artisan.fr</a>
+            </li>
+            <li className="flex items-start gap-3">
+              <MapPin className="w-4 h-4 mt-0.5 text-accent shrink-0" />
+              <span>78440 Gargenville, Yvelines</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <Clock className="w-4 h-4 mt-0.5 text-accent shrink-0" />
+              <span>Lun-Ven : 8h-18h</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      {/* Bottom bar */}
+      <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6 border-t border-outline-variant/20">
+        <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-outline">
+          <p>&copy; {new Date().getFullYear()} CHARRIERE SARL. Tous droits réservés.</p>
+          <div className="flex gap-6">
+            <Link href="/mentions-legales" className="hover:text-primary transition-colors">Mentions légales</Link>
+            <Link href="/mentions-legales#rgpd" className="hover:text-primary transition-colors">Confidentialité</Link>
           </div>
         </div>
       </div>

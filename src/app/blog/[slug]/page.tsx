@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { articles, getArticleBySlug, getAllSlugs } from "@/data/articles";
-import { ArrowLeft, Calendar, Clock } from "lucide-react";
+import { ArrowLeft, ArrowRight, Calendar, Clock } from "lucide-react";
 
 export function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
@@ -52,43 +52,34 @@ export default async function ArticlePage({
   const article = getArticleBySlug(slug);
   if (!article) notFound();
 
-  // Simple markdown to HTML for headings and paragraphs
   const renderContent = (content: string) => {
     return content.split("\n\n").map((block, i) => {
       if (block.startsWith("## ")) {
         return (
-          <h2
-            key={i}
-            className="text-2xl font-bold text-gray-900 mt-10 mb-4"
-          >
+          <h2 key={i} className="text-2xl font-bold text-on-surface font-headline mt-10 mb-4">
             {block.replace("## ", "")}
           </h2>
         );
       }
       if (block.startsWith("### ")) {
         return (
-          <h3
-            key={i}
-            className="text-xl font-semibold text-gray-900 mt-8 mb-3"
-          >
+          <h3 key={i} className="text-xl font-semibold text-on-surface font-headline mt-8 mb-3">
             {block.replace("### ", "")}
           </h3>
         );
       }
       return (
-        <p key={i} className="text-gray-700 leading-relaxed mb-4">
+        <p key={i} className="text-on-surface-variant leading-relaxed mb-4">
           {block}
         </p>
       );
     });
   };
 
-  // Related articles (same category, excluding current)
   const related = articles
     .filter((a) => a.category === article.category && a.slug !== article.slug)
     .slice(0, 2);
 
-  // JSON-LD Article schema
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -120,19 +111,19 @@ export default async function ArticlePage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <main className="min-h-screen bg-white">
+      <main className="min-h-screen bg-surface">
         {/* Hero */}
-        <section className="bg-[#1B4F72] text-white py-12 md:py-16">
-          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <section className="bg-primary text-white pt-24 pb-12 md:pt-28 md:pb-16">
+          <div className="max-w-3xl mx-auto px-6 lg:px-8">
             <Link
               href="/blog"
-              className="inline-flex items-center gap-1 text-blue-200 hover:text-white text-sm mb-6 transition-colors"
+              className="inline-flex items-center gap-1.5 text-white/60 hover:text-white text-sm mb-6 transition-colors"
             >
               <ArrowLeft className="w-4 h-4" />
               Retour au blog
             </Link>
-            <div className="flex items-center gap-4 text-sm text-blue-200 mb-4">
-              <span className="inline-flex items-center gap-1 px-2.5 py-0.5 bg-white/15 rounded-full text-xs font-medium">
+            <div className="flex items-center gap-4 text-sm text-white/60 mb-4 flex-wrap">
+              <span className="inline-flex items-center gap-1 px-2.5 py-1 bg-white/15 rounded-full text-xs font-semibold">
                 {article.category}
               </span>
               <span className="flex items-center gap-1">
@@ -148,7 +139,7 @@ export default async function ArticlePage({
                 })}
               </span>
             </div>
-            <h1 className="text-3xl md:text-4xl font-bold leading-tight">
+            <h1 className="text-3xl md:text-4xl font-bold leading-tight font-headline">
               {article.title}
             </h1>
           </div>
@@ -156,8 +147,8 @@ export default async function ArticlePage({
 
         {/* Hero Image */}
         {article.image && (
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 -mt-6">
-            <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden shadow-lg">
+          <div className="max-w-4xl mx-auto px-6 lg:px-8 -mt-6">
+            <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden shadow-ambient">
               <Image
                 src={article.image}
                 alt={article.imageAlt || article.title}
@@ -171,32 +162,33 @@ export default async function ArticlePage({
         )}
 
         {/* Content */}
-        <article className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14">
-          <div className="prose-custom">{renderContent(article.content)}</div>
+        <article className="max-w-3xl mx-auto px-6 lg:px-8 py-10 md:py-14">
+          <div>{renderContent(article.content)}</div>
 
           {/* CTA in article */}
-          <div className="mt-12 p-6 md:p-8 bg-gray-50 rounded-xl border border-gray-100">
-            <h3 className="text-xl font-bold text-gray-900 mb-2">
+          <div className="mt-12 p-6 md:p-8 bg-surface-container-low rounded-xl ghost-border">
+            <h3 className="text-xl font-bold text-on-surface font-headline mb-2">
               Besoin d&apos;un devis ?
             </h3>
-            <p className="text-gray-600 mb-4">
-              CHARRIERE SARL intervient dans tout le département des Yvelines
-              (78). Devis gratuit et sans engagement sous 48h.
+            <p className="text-on-surface-variant mb-4">
+              CHARRIERE SARL intervient dans tout le département des Yvelines (78).
+              Devis gratuit et sans engagement sous 48h.
             </p>
             <Link
               href="/contact"
-              className="inline-flex px-6 py-3 bg-[#E67E22] text-white font-semibold rounded-lg hover:bg-[#D35400] transition-colors"
+              className="inline-flex items-center gap-2 px-6 py-3 bg-accent text-white font-semibold rounded-lg hover:bg-accent-hover transition-colors"
             >
               Demander un devis gratuit
+              <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
         </article>
 
         {/* Related Articles */}
         {related.length > 0 && (
-          <section className="bg-gray-50 py-12">
-            <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+          <section className="bg-surface-container-low py-12">
+            <div className="max-w-3xl mx-auto px-6 lg:px-8">
+              <h2 className="text-2xl font-bold text-on-surface font-headline mb-6">
                 Articles similaires
               </h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
@@ -204,15 +196,15 @@ export default async function ArticlePage({
                   <Link
                     key={rel.slug}
                     href={`/blog/${rel.slug}`}
-                    className="bg-white p-5 rounded-lg shadow-sm border border-gray-100 hover:shadow-md transition-shadow"
+                    className="bg-surface-container-lowest p-5 rounded-xl ghost-border hover:shadow-ambient transition-all duration-300"
                   >
-                    <span className="text-xs text-[#1B4F72] font-medium">
+                    <span className="text-xs text-primary font-semibold">
                       {rel.category}
                     </span>
-                    <h3 className="text-base font-semibold text-gray-900 mt-1 leading-snug">
+                    <h3 className="text-base font-semibold text-on-surface mt-1 leading-snug font-headline">
                       {rel.title}
                     </h3>
-                    <p className="text-sm text-gray-500 mt-2">{rel.readTime}</p>
+                    <p className="text-sm text-on-surface-variant mt-2">{rel.readTime}</p>
                   </Link>
                 ))}
               </div>

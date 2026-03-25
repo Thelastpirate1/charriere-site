@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import {
   ChefHat, Wrench, Bath, Ruler, PaintBucket, Plug, Droplets, LayoutGrid,
-  ArrowRight, CheckCircle
+  ArrowRight, CheckCircle, Phone
 } from "lucide-react";
 
 export const metadata: Metadata = {
@@ -96,88 +96,95 @@ const additionalServices = [
 export default function ServicesPage() {
   return (
     <>
-      {/* Header */}
-      <section className="gradient-hero pt-32 pb-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Nos Services</h1>
-          <p className="text-lg text-white/80 max-w-2xl mx-auto">
-            Pose de cuisine, rénovation, salle de bain, aménagement. Un artisan qualifié
-            pour tous vos projets dans les Yvelines.
+      {/* Hero */}
+      <section className="bg-primary relative overflow-hidden pt-28 pb-16 md:pt-32 md:pb-20">
+        <div className="absolute right-0 top-0 w-1/3 h-full bg-secondary/5 skew-x-12 translate-x-1/2" />
+        <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center relative z-10">
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white font-headline mb-5">
+            Nos Services
+          </h1>
+          <p className="text-lg text-white/80 max-w-2xl mx-auto leading-relaxed">
+            Pose de cuisine, rénovation, salle de bain, aménagement.
+            Un artisan qualifié pour tous vos projets dans les Yvelines.
           </p>
         </div>
       </section>
 
       {/* Services détaillés */}
-      <section className="py-16 md:py-24">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
+      <section className="py-16 md:py-24 bg-surface">
+        <div className="max-w-6xl mx-auto px-6 lg:px-8 space-y-20">
           {allServices.map((s, i) => (
             <div key={s.id} id={s.id} className="scroll-mt-24">
-              <div className={`grid grid-cols-1 lg:grid-cols-5 gap-8 items-start ${i % 2 === 1 ? "lg:flex-row-reverse" : ""}`}>
-                {/* Image placeholder */}
-                <div className="lg:col-span-2">
-                  <div className="aspect-[4/3] rounded-2xl overflow-hidden relative">
+              <div className={`grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-14 items-center ${i % 2 === 1 ? "lg:direction-rtl" : ""}`}>
+                {/* Image */}
+                <div className={`${i % 2 === 1 ? "lg:order-2" : ""}`}>
+                  <div className="group aspect-[4/3] rounded-xl overflow-hidden relative shadow-ambient">
                     <Image
                       src={s.image}
                       alt={s.title}
                       fill
-                      className="object-cover rounded-2xl"
-                      sizes="(max-width: 1024px) 100vw, 40vw"
+                      className="object-cover img-zoom"
+                      sizes="(max-width: 1024px) 100vw, 50vw"
                     />
+                    <div className="absolute inset-0 bg-gradient-to-t from-primary/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   </div>
                 </div>
 
                 {/* Content */}
-                <div className="lg:col-span-3">
-                  <div className="inline-flex items-center gap-2 px-3 py-1 bg-[#E67E22]/10 rounded-full mb-3">
-                    <s.icon className="w-4 h-4 text-[#E67E22]" />
-                    <span className="text-xs font-semibold text-[#E67E22]">{s.subtitle}</span>
+                <div className={`${i % 2 === 1 ? "lg:order-1" : ""}`}>
+                  <div className="inline-flex items-center gap-2 px-3 py-1.5 bg-accent/10 rounded-full mb-4">
+                    <s.icon className="w-4 h-4 text-accent" />
+                    <span className="text-xs font-bold text-accent uppercase tracking-wider">{s.subtitle}</span>
                   </div>
-                  <h2 className="text-2xl md:text-3xl font-bold text-[#1B4F72] mb-3">{s.title}</h2>
-                  <p className="text-gray-600 leading-relaxed mb-6">{s.desc}</p>
+                  <h2 className="text-2xl md:text-3xl font-bold text-primary font-headline mb-4">{s.title}</h2>
+                  <p className="text-on-surface-variant leading-relaxed mb-6">{s.desc}</p>
 
-                  <h3 className="font-semibold text-[#2C3E50] mb-3">Ce que nous faisons :</h3>
-                  <ul className="space-y-2 mb-6">
-                    {s.includes.map((item, j) => (
-                      <li key={j} className="flex items-start gap-2 text-sm text-gray-600">
-                        <CheckCircle className="w-4 h-4 text-[#27AE60] mt-0.5 shrink-0" />
-                        {item}
-                      </li>
-                    ))}
-                  </ul>
+                  <div className="bg-surface-container-low rounded-xl p-6 mb-6">
+                    <h3 className="font-semibold text-on-surface mb-4 text-sm uppercase tracking-wider">Ce que nous faisons</h3>
+                    <ul className="space-y-3">
+                      {s.includes.map((item, j) => (
+                        <li key={j} className="flex items-start gap-3 text-sm text-on-surface-variant">
+                          <CheckCircle className="w-4 h-4 text-secondary mt-0.5 shrink-0" />
+                          {item}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
 
                   {s.brands && (
-                    <p className="text-sm text-gray-500 mb-4">
-                      <span className="font-semibold text-[#2C3E50]">Marques partenaires : </span>
+                    <p className="text-sm text-on-surface-variant mb-5">
+                      <span className="font-semibold text-on-surface">Marques partenaires : </span>
                       {s.brands}
                     </p>
                   )}
 
-                  <div className="flex items-center gap-4">
-                    <span className="text-lg font-bold text-[#E67E22]">{s.price}</span>
+                  <div className="flex items-center gap-5 flex-wrap">
+                    <span className="text-xl font-bold text-accent font-headline">{s.price}</span>
                     <Link
                       href="/contact"
-                      className="inline-flex items-center gap-2 px-5 py-2.5 bg-[#1B4F72] text-white text-sm font-semibold rounded-lg hover:bg-[#154360] transition-colors"
+                      className="inline-flex items-center gap-2 px-6 py-3 btn-primary-gradient text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-all"
                     >
                       Demander un devis <ArrowRight className="w-4 h-4" />
                     </Link>
                   </div>
                 </div>
               </div>
-              {i < allServices.length - 1 && <hr className="mt-16 border-gray-200" />}
             </div>
           ))}
         </div>
       </section>
 
-      {/* Petits travaux */}
-      <section className="py-16 bg-gray-50">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-2xl font-bold text-[#1B4F72] mb-8">Également à votre service</h2>
+      {/* Services complémentaires */}
+      <section className="py-16 bg-surface-container-low">
+        <div className="max-w-5xl mx-auto px-6 lg:px-8 text-center">
+          <h2 className="text-2xl md:text-3xl font-bold text-primary font-headline mb-8">
+            Également à votre service
+          </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {additionalServices.map((s, i) => (
-              <div key={i} className="bg-white rounded-xl p-5 shadow-sm border border-gray-100">
-                <s.icon className="w-8 h-8 mx-auto mb-2 text-[#1B4F72]" />
-                <span className="text-sm font-semibold text-[#2C3E50]">{s.name}</span>
+              <div key={i} className="bg-surface-container-lowest rounded-xl p-6 ghost-border hover:shadow-ambient transition-all duration-300">
+                <s.icon className="w-8 h-8 mx-auto mb-3 text-primary" />
+                <span className="text-sm font-semibold text-on-surface">{s.name}</span>
               </div>
             ))}
           </div>
@@ -185,17 +192,25 @@ export default function ServicesPage() {
       </section>
 
       {/* CTA */}
-      <section className="gradient-hero py-16">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-bold text-white mb-4">Prêt à lancer votre projet ?</h2>
-          <p className="text-white/80 mb-8">Devis gratuit et sans engagement. Réponse sous 48h.</p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-[#E67E22] text-white font-semibold rounded-xl hover:bg-[#D35400] transition-colors">
-              Demander un devis <ArrowRight className="w-5 h-5" />
-            </Link>
-            <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 text-white font-semibold rounded-xl border border-white/20 hover:bg-white/20 transition-colors">
-              Être rappelé gratuitement
-            </Link>
+      <section className="py-14 md:py-16 bg-primary overflow-hidden relative">
+        <div className="absolute right-0 top-0 w-1/3 h-full bg-secondary/10 skew-x-12 translate-x-1/2" />
+        <div className="max-w-7xl mx-auto px-6 lg:px-8 relative z-10">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-10">
+            <div className="text-center md:text-left">
+              <h2 className="text-3xl md:text-4xl font-bold font-headline text-white mb-4">
+                Prêt à lancer votre projet ?
+              </h2>
+              <p className="text-white/80 text-lg">Devis gratuit et sans engagement. Réponse sous 48h.</p>
+            </div>
+            <div className="flex flex-col sm:flex-row items-center gap-5">
+              <a href="tel:0685031144" className="text-xl font-bold text-white flex items-center gap-3">
+                <Phone className="w-5 h-5 text-secondary" />
+                06 85 03 11 44
+              </a>
+              <Link href="/contact" className="bg-accent text-white px-10 py-4 rounded-xl font-bold hover:bg-accent-hover transition-colors shadow-lg">
+                Demander un devis
+              </Link>
+            </div>
           </div>
         </div>
       </section>
