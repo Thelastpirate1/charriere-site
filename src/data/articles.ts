@@ -13,6 +13,78 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "erreurs-plomberie-salle-de-bain-eviter-yvelines",
+    title: "Plomberie salle de bain : 7 erreurs à éviter absolument",
+    metaTitle: "Erreurs Plomberie Salle de Bain — Guide Expert | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les 7 erreurs de plomberie en salle de bain à éviter. Conseils d'expert sur l'étanchéité, les pentes et les normes. Devis gratuit dans les Yvelines.",
+    keywords: ["erreurs plomberie salle de bain","étanchéité salle de bain","pente évacuation douche","normes plomberie","plombier Gargenville"],
+    excerpt:
+      "20 ans d'expérience nous ont appris qu'en plomberie de salle de bain, certaines erreurs reviennent systématiquement et coûtent cher aux propriétaires.",
+    publishedAt: "2026-03-25",
+    readTime: "8 min",
+    category: "Salle de bain",
+    content: `En vingt ans d'intervention dans les Yvelines, de Gargenville à Saint-Germain-en-Laye, j'ai vu défiler toutes les erreurs possibles en plomberie de salle de bain. Certaines semblent anodines mais peuvent transformer votre rénovation en cauchemar financier. Voici les sept erreurs les plus fréquentes que je rencontre chez mes clients et comment les éviter.
+
+## L'erreur numéro 1 : négliger la pente d'évacuation
+
+La pente d'évacuation est sans doute l'aspect le plus sous-estimé d'une installation de plomberie. Pourtant, une pente mal calculée est la source de 60% des problèmes d'évacuation que je traite à Mantes-la-Jolie et dans les communes environnantes.
+
+La norme impose une pente minimum de 1% pour les évacuations, soit 1 centimètre de dénivelé par mètre linéaire. Pour les douches à l'italienne, cette pente doit être parfaitement maîtrisée car elle conditionne l'évacuation de l'eau. J'ai vu trop de douches où l'eau stagne parce que l'artisan a négligé ce point fondamental.
+
+L'année dernière, j'ai dû reprendre entièrement une douche à Poissy où la pente était inversée. L'eau remontait vers le mur au lieu de s'évacuer vers le siphon. Le coût de la reprise : 3 500 euros, alors qu'un travail bien fait dès le départ n'aurait coûté que 1 800 euros.
+
+## L'étanchéité : la base de tout projet réussi
+
+L'étanchéité représente 30% du budget d'une rénovation de salle de bain, mais elle conditionne la durabilité de l'ensemble. Les particuliers dans les Mureaux me demandent souvent s'ils peuvent faire l'impasse sur certaines étapes pour économiser. Ma réponse est toujours la même : l'étanchéité n'est pas négociable.
+
+La membrane d'étanchéité doit être posée avant le carrelage, sur toute la surface de la douche et remonter sur 20 centimètres minimum sur les murs. Les angles nécessitent une attention particulière avec des bandes d'étanchéité spécifiques. J'utilise systématiquement des membranes liquides ou en rouleau certifiées pour les locaux humides.
+
+Il y a deux ans, j'ai intervenu chez un client de Conflans-Sainte-Honorine où l'étanchéité avait été bâclée. L'eau s'infiltrait dans la structure du plancher depuis des mois. La facture finale : 8 000 euros de reprise complète, plus les dégâts chez le voisin du dessous.
+
+## Erreur récurrente : mal dimensionner les évacuations
+
+Le dimensionnement des canalisations suit des règles précises que beaucoup ignorent. Un lavabo nécessite une évacuation de 32 mm de diamètre, une douche de 40 mm minimum, et une baignoire de 40 mm également. Ces diamètres ne sont pas négociables.
+
+J'ai récemment repris une installation à Sartrouville où toutes les évacuations étaient en 32 mm. Résultat : la douche se vidait lentement et la baignoire encore plus. Le remplacement des canalisations dans les cloisons a nécessité la dépose partielle du carrelage, pour un surcoût de 2 200 euros.
+
+La ventilation des chutes est tout aussi importante. Chaque appareil doit être ventilé pour éviter les phénomènes de siphonnage qui vident les siphons et laissent remonter les odeurs. C'est une norme souvent oubliée qui peut rendre l'usage de la salle de bain particulièrement désagréable.
+
+## Les raccordements : attention aux détails qui coûtent cher
+
+Les raccordements représentent les points faibles de toute installation. Chaque jonction doit être réalisée selon les règles de l'art, avec les bons matériaux et les bonnes techniques. Les raccords rapides en plastique, séduisants par leur facilité de pose, ne conviennent pas aux installations sous pression.
+
+J'insiste toujours auprès de mes clients des Yvelines sur l'importance d'utiliser des raccords laiton pour les alimentations eau chaude et eau froide. Ils coûtent certes 40% plus cher que le plastique, mais leur durabilité justifie largement cet investissement. Un raccord plastique qui lâche peut provoquer un dégât des eaux de plusieurs milliers d'euros.
+
+Le mois dernier, j'ai dû intervenir en urgence chez un particulier de Gargenville où un raccord plastique avait cédé derrière une cloison. L'appartement du dessous était inondé, et l'assurance a chiffré les dégâts à 12 000 euros.
+
+## L'électricité en milieu humide : respecter les volumes de sécurité
+
+L'installation électrique en salle de bain obéit à des règles strictes définies par la norme NF C 15-100. Les volumes de sécurité déterminent ce qui peut être installé et où. Dans le volume 0 (fond de baignoire ou receveur de douche), seuls les éléments fonctionnant en très basse tension sont autorisés.
+
+Le volume 1 s'étend jusqu'à 2,25 mètres de hauteur au-dessus du volume 0. Seuls les chauffe-eau instantanés et les luminaires de classe II peuvent y être installés. Le volume 2 s'étend à 60 centimètres autour du volume 1, et autorise les prises rasoir et l'éclairage de classe I.
+
+J'ai vu trop d'installations non conformes dans les Yvelines, avec des prises classiques installées près de la douche ou des interrupteurs dans le volume 1. Ces installations présentent un danger mortel et ne passeront jamais le contrôle du Consuel si vous faites refaire l'électricité.
+
+## Choisir les bons matériaux selon l'usage
+
+Le choix des matériaux conditionne la durabilité de l'installation. Pour les canalisations d'évacuation, le PVC reste le matériau de référence. Il résiste à tous les produits chimiques domestiques et ne se corrode pas. Pour les alimentations, le multicouche ou le cuivre sont préférables au PER dans les zones accessibles.
+
+Les siphons en laiton chromé valent l'investissement par rapport aux modèles plastique. Ils résistent mieux aux produits d'entretien et se démontent plus facilement en cas de bouchon. Comptez 45 euros pour un siphon de qualité contre 12 euros pour un modèle bas de gamme.
+
+Pour l'étanchéité, j'utilise exclusivement des produits certifiés par le CSTB. Les membranes d'étanchéité premier prix peuvent sembler économiques, mais leur durabilité limitée vous coûtera bien plus cher à long terme.
+
+## Planification et coordination : la clé du succès
+
+La dernière erreur, et pas la moindre, concerne la planification des travaux. Une salle de bain se rénove dans un ordre précis : démolition, plomberie, électricité, étanchéité, faïence, finitions. Inverser ces étapes ou vouloir gagner du temps en sautant des étapes se paie toujours cash.
+
+J'ai appris à mes dépens, en début de carrière, qu'une salle de bain bâclée revient toujours. Le bouche-à-oreille dans une commune comme Gargenville fonctionne vite, et une malfaçon peut ruiner une réputation d'artisan. C'est pourquoi chez CHARRIERE SARL, nous ne transigeons jamais sur la qualité, même si cela rallonge un peu les délais.
+
+La coordination entre les différents corps de métier est essentielle. L'électricien doit intervenir après le plombier mais avant le carreleur. Chacun doit connaître le travail des autres pour éviter les malfaçons. Une bonne communication évite 80% des problèmes de chantier.
+
+Votre projet de rénovation de salle de bain dans les Yvelines mérite un accompagnement professionnel. Chez CHARRIERE SARL, nos vingt années d'expérience nous permettent d'anticiper tous ces écueils et de vous garantir une installation durable. Contactez-nous pour un devis gratuit et des conseils personnalisés adaptés à votre projet et votre budget.`,
+  },
+  {
     slug: "importance-devis-detaille-travaux-renovation",
     title: "Pourquoi faire un devis détaillé avant ses travaux de rénovation ?",
     metaTitle: "Devis Détaillé Travaux Rénovation — Guide Complet | CHARRIERE SARL",
