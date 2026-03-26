@@ -15,6 +15,100 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "menuiserie-interieure-portes-placards-sur-mesure-gargenville",
+    title: "Menuiserie Intérieure : Portes et Placards Sur Mesure dans les Yvelines",
+    metaTitle: "Portes et Placards Sur Mesure — Menuiserie Intérieure | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez nos solutions de menuiserie intérieure sur mesure : portes, placards, dressings. Artisan menuisier à Gargenville, intervention dans tout le 78.",
+    keywords: ["menuiserie intérieure","portes sur mesure","placards sur mesure","menuisier Gargenville","dressing sur mesure Yvelines"],
+    excerpt:
+      "La menuiserie intérieure sur mesure transforme votre habitat avec des solutions parfaitement adaptées à vos besoins et contraintes d'espace.",
+    publishedAt: "2026-03-26",
+    readTime: "7 min",
+    category: "Aménagement",
+    image: "/images/blog/menuiserie-interieure-portes-placards-sur-mesure-gargenville.webp",
+    imageAlt: "Menuiserie Intérieure : Portes et Placards Sur Mesure dans les Yvelines",
+    content: `La menuiserie intérieure sur mesure représente l'art de créer des éléments parfaitement adaptés à votre espace de vie. Que ce soit pour des portes, des placards ou des dressings, cette approche personnalisée offre des avantages incomparables par rapport aux solutions standardisées du commerce.
+
+Chez CHARRIERE SARL, nous accompagnons depuis de nombreuses années les habitants de Gargenville, Mantes-la-Jolie, Poissy et de toutes les communes des Yvelines dans leurs projets de menuiserie intérieure. Notre expertise nous permet de réaliser des ouvrages qui s'intègrent parfaitement dans votre décoration tout en optimisant chaque centimètre disponible.
+
+## Les Avantages Incontournables du Sur Mesure
+
+### Optimisation Parfaite de l'Espace
+
+Le principal atout de la menuiserie sur mesure réside dans sa capacité à exploiter chaque recoin de votre habitation. Contrairement aux meubles standards, nos réalisations s'adaptent aux contraintes architecturales spécifiques de votre logement : angles particuliers, hauteurs sous plafond variables, présence de poutres ou de canalisations.
+
+Dans les maisons anciennes de Saint-Germain-en-Laye ou de Conflans-Sainte-Honorine, cette adaptation devient cruciale. Les murs rarement droits et les dimensions atypiques nécessitent une approche sur mesure pour obtenir un résultat esthétique et fonctionnel optimal.
+
+### Personnalisation Totale du Design
+
+La menuiserie sur mesure vous offre une liberté créative totale. Vous choisissez les essences de bois, les finitions, les couleurs, les poignées et tous les détails esthétiques. Cette personnalisation permet de créer des éléments qui s'harmonisent parfaitement avec votre style décoratif, qu'il soit contemporain, classique ou rustique.
+
+Nos clients de Sartrouville apprécient particulièrement cette possibilité de créer des ambiances uniques, en accord avec leur personnalité et leurs goûts. Chaque réalisation devient ainsi une pièce unique qui valorise votre intérieur.
+
+### Qualité et Durabilité Exceptionnelles
+
+La fabrication artisanale garantit une qualité supérieure aux produits industriels. Nous sélectionnons des matériaux de premier choix et appliquons des techniques éprouvées transmises par des générations d'artisans. Cette approche assure une durabilité remarquable à vos installations.
+
+Contrairement aux meubles en kit, nos réalisations sont conçues pour traverser les décennies sans perdre leur fonctionnalité ni leur esthétique. C'est un investissement à long terme qui apporte une véritable valeur ajoutée à votre patrimoine immobilier.
+
+## Les Matériaux de Choix pour Votre Menuiserie Intérieure
+
+### Bois Massif : L'Excellence Naturelle
+
+Le bois massif reste le matériau de référence en menuiserie intérieure. Le chêne, essence noble par excellence, offre une résistance exceptionnelle et un veinage unique qui apporte caractère et chaleur à vos aménagements. Son prix varie entre 800 et 1200 euros par mètre carré selon les finitions choisies.
+
+Le hêtre constitue une alternative plus accessible, avec un prix situé entre 600 et 900 euros par mètre carré. Sa teinte claire et homogène convient parfaitement aux intérieurs modernes. Pour les budgets plus serrés, le pin maritime ou le sapin offrent de bonnes performances à partir de 400 euros par mètre carré.
+
+### Panneaux Stratifiés : Modernité et Praticité
+
+Les panneaux stratifiés haute pression représentent une solution moderne alliant esthétique et facilité d'entretien. Disponibles dans une gamme infinie de décors, ils imitent parfaitement l'aspect du bois, de la pierre ou du métal. Leur prix oscille entre 300 et 600 euros par mètre carré selon la qualité et les finitions.
+
+Cette solution convient particulièrement aux cuisines et salles de bains où la résistance à l'humidité est primordiale. Les habitants des Mureaux choisissent souvent cette option pour ses qualités pratiques.
+
+### Médium et Contreplaqué : Le Compromis Idéal
+
+Le médium laqué offre un excellent rapport qualité-prix pour les portes et façades de placards. Sa surface parfaitement lisse permet des finitions impeccables, particulièrement pour les couleurs unies. Comptez entre 250 et 500 euros par mètre carré selon l'épaisseur et la qualité de la laque.
+
+Le contreplaqué de qualité marine garantit une stabilité exceptionnelle, idéale pour les grandes surfaces comme les portes coulissantes de dressings. Son prix varie de 200 à 400 euros par mètre carré.
+
+## Évaluation des Coûts : Investir Intelligemment
+
+### Portes Intérieures Sur Mesure
+
+Une porte intérieure sur mesure en bois massif représente un investissement compris entre 800 et 1500 euros, pose incluse. Ce prix varie selon l'essence choisie, les dimensions et la complexité des finitions. Les portes en médium laqué démarrent à 400 euros, tandis que les modèles haut de gamme en chêne massif peuvent atteindre 2000 euros.
+
+Ces tarifs incluent la prise de mesures, la fabrication en atelier, la fourniture de la quincaillerie de qualité et la pose par nos équipes. Pour les habitants de Poissy souhaitant harmoniser plusieurs portes, nous proposons des tarifs dégressifs intéressants.
+
+### Placards et Dressings
+
+Un placard sur mesure coûte en moyenne entre 600 et 1200 euros par mètre linéaire, selon les matériaux et les aménagements intérieurs choisis. Un dressing complet avec penderies, étagères et tiroirs représente un investissement de 2000 à 5000 euros selon la superficie et les options retenues.
+
+Ces prix englobent la conception personnalisée, la fabrication artisanale et l'installation complète. Les solutions d'angle ou les configurations complexes peuvent majorer le devis de 15 à 25 pour cent.
+
+### Facteurs Influençant le Prix
+
+Plusieurs éléments impactent le coût final de votre projet. Les dimensions hors standard nécessitent une attention particulière et peuvent augmenter le prix de 10 à 20 pour cent. Les finitions spéciales comme les moulures sculptées ou les vernis à effets ajoutent une plus-value artisanale.
+
+L'accessibilité du chantier influence également le tarif. Les interventions dans des appartements en étage sans ascenseur ou dans des espaces exigus demandent des précautions supplémentaires qui se répercutent sur le devis.
+
+## L'Expertise CHARRIERE SARL au Service de Vos Projets
+
+### Un Savoir-Faire Reconnu dans les Yvelines
+
+Depuis notre implantation à Gargenville, nous avons développé une expertise reconnue en menuiserie intérieure sur mesure. Notre équipe maîtrise toutes les techniques traditionnelles et modernes pour créer des ouvrages d'exception. Nous intervenons régulièrement à Mantes-la-Jolie, Saint-Germain-en-Laye et dans toute la région pour des projets variés.
+
+Notre atelier est équipé de machines professionnelles qui nous permettent de réaliser des découpes précises et des assemblages parfaits. Cette technicité, alliée à notre sens artistique, garantit des résultats à la hauteur de vos attentes.
+
+### Accompagnement Personnalisé
+
+Chaque projet débute par une visite gratuite à votre domicile pour évaluer vos besoins et contraintes. Nous élaborons ensuite des propositions détaillées avec plans et perspectives 3D pour vous aider à visualiser le résultat final. Cette approche collaborative assure votre entière satisfaction.
+
+Nos conseils s'étendent au-delà de la simple réalisation technique. Nous vous guidons dans le choix des matériaux, des couleurs et des aménagements pour créer des espaces fonctionnels et esthétiques parfaitement adaptés à votre mode de vie.
+
+La menuiserie intérieure sur mesure transforme votre habitat en créant des solutions parfaitement adaptées à vos besoins. Cet investissement valorise durablement votre patrimoine tout en améliorant votre confort quotidien. Pour découvrir nos réalisations et obtenir un devis gratuit personnalisé, contactez CHARRIERE SARL. Notre équipe se déplace dans tout le département des Yvelines pour étudier votre projet et vous proposer des solutions sur mesure parfaitement adaptées à vos attentes et votre budget.`,
+  },
+  {
     slug: "erreurs-plomberie-salle-de-bain-eviter-yvelines",
     title: "Plomberie salle de bain : 7 erreurs à éviter absolument",
     metaTitle: "Erreurs Plomberie Salle de Bain — Guide Expert | CHARRIERE SARL",
