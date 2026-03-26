@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Manrope:wght@400;500;600;700&display=swap');
 
 @theme inline {
   /* Stitch Design System — "The Artisan's Atelier" */
@@ -45,18 +44,18 @@ html {
 }
 
 body {
-  font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+  font-family: var(--font-body), 'Manrope', system-ui, -apple-system, sans-serif;
   color: var(--color-on-surface);
   background: var(--color-surface);
 }
 
 /* Typography utilities */
 .font-headline {
-  font-family: 'Noto Serif', serif;
+  font-family: var(--font-headline), 'Noto Serif', serif;
 }
 
 .font-body {
-  font-family: 'Manrope', sans-serif;
+  font-family: var(--font-body), 'Manrope', sans-serif;
 }
 
 /* Hero gradient - Stitch style with Navy */
