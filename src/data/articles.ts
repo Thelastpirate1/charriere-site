@@ -15,6 +15,102 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renovation-energetique-2026-nouvelles-reglementations-aides-yvelines",
+    title: "Rénovation énergétique 2026 : nouvelles réglementations et aides dans les Yvelines",
+    metaTitle: "Rénovation Énergétique 2026 : Nouvelles Aides et DPE | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les nouvelles réglementations 2026 en rénovation énergétique, les aides mises à jour et l'impact du DPE dans les Yvelines. Conseils d'expert.",
+    keywords: ["renovation-energetique-2026","aides-renovation-yvelines","DPE-2026","reglementation-thermique-gargenville"],
+    excerpt:
+      "L'année 2026 apporte son lot de nouveautés en matière de rénovation énergétique. Découvrez les nouvelles réglementations, les aides actualisées et leur impact dans les Yvelines.",
+    publishedAt: "2026-03-27",
+    readTime: "6 min",
+    category: "Rénovation",
+    image: "/images/blog/renovation-energetique-2026-nouvelles-reglementations-aides-yvelines.webp",
+    imageAlt: "Rénovation énergétique 2026 : nouvelles réglementations et aides dans les Yvelines",
+    content: `L'année 2026 marque un tournant décisif dans le secteur de la rénovation énergétique en France. Entre nouvelles réglementations, évolution des aides publiques et renforcement du diagnostic de performance énergétique, les propriétaires des Yvelines doivent s'adapter à un cadre législatif en constante évolution. Dans cet article, nous passons en revue tous les changements qui impactent directement les projets de rénovation à Gargenville, Mantes-la-Jolie, Poissy et dans l'ensemble du département.
+
+## Les nouvelles réglementations thermiques en vigueur
+
+### Renforcement de la RE2020 pour les rénovations
+
+La réglementation environnementale 2020, initialement conçue pour les constructions neuves, s'étend progressivement aux rénovations lourdes. Dès 2026, tout projet de rénovation touchant plus de 30% de la surface habitable doit respecter des seuils de performance énergétique renforcés. Cette mesure concerne particulièrement les maisons anciennes typiques de Saint-Germain-en-Laye ou de Conflans-Sainte-Honorine.
+
+Les exigences portent sur trois indicateurs principaux : la consommation d'énergie primaire, l'impact carbone des matériaux utilisés et le confort d'été. Les propriétaires doivent désormais justifier d'un gain énergétique minimum de 35% après travaux, contre 25% précédemment.
+
+### Nouvelles obligations pour les passoires thermiques
+
+Le calendrier d'interdiction de location des logements énergivores se précise. À partir de janvier 2026, les logements classés F au DPE ne pourront plus être mis en location dans les Yvelines. Cette mesure fait suite à l'interdiction des logements G en 2025 et préfigure celle des logements E prévue pour 2028.
+
+Les propriétaires bailleurs de Sartrouville, Les Mureaux ou Gargenville disposent donc d'un délai limité pour engager les travaux nécessaires. L'absence de mise en conformité expose à des sanctions financières pouvant atteindre 5000 euros d'amende.
+
+## Évolution des aides à la rénovation énergétique
+
+### MaPrimeRénov' : nouveaux barèmes et conditions
+
+MaPrimeRénov' évolue significativement en 2026 avec une revalorisation des montants pour certains équipements. Les pompes à chaleur air-eau bénéficient d'une aide majorée de 1000 euros pour les ménages aux revenus intermédiaires. Le plafond d'aide passe de 11000 à 12000 euros pour cette catégorie.
+
+Les conditions d'éligibilité se durcissent également. L'obligation de réaliser un audit énergétique préalable s'étend à tous les logements de plus de 15 ans, contre 20 ans actuellement. Cette mesure vise à mieux cibler les travaux et optimiser les gains énergétiques.
+
+### Certificats d'économies d'énergie renforcés
+
+Le dispositif des certificats d'économies d'énergie (CEE) connaît sa cinquième période avec des objectifs d'économies relevés de 25%. Les fournisseurs d'énergie proposent des primes bonifiées pour l'isolation des combles, des murs et le remplacement des systèmes de chauffage obsolètes.
+
+Cette évolution profite particulièrement aux habitants des Yvelines, où le parc immobilier ancien nécessite souvent des interventions sur l'enveloppe thermique. Les primes CEE peuvent atteindre 3000 euros pour l'isolation complète d'une maison de 100 m².
+
+### Éco-prêt à taux zéro : nouvelles modalités
+
+L'éco-PTZ se simplifie avec la suppression de l'obligation de bouquet de travaux pour les montants inférieurs à 15000 euros. Cette mesure facilite l'accès au financement pour les propriétaires souhaitant entreprendre des travaux par étapes.
+
+Le plafond du prêt augmente à 50000 euros pour les rénovations globales permettant un gain énergétique d'au moins 35%. La durée de remboursement s'étend à 20 ans pour ces projets ambitieux.
+
+## Réforme du diagnostic de performance énergétique
+
+### Nouvelles méthodes de calcul
+
+Le DPE 2026 intègre de nouveaux paramètres de calcul pour affiner l'évaluation des performances énergétiques. La prise en compte des équipements connectés, de la qualité de l'air intérieur et des îlots de chaleur urbains modifie sensiblement les classements.
+
+Cette évolution impacte particulièrement les logements récents des zones denses comme Poissy ou Mantes-la-Jolie, où les phénomènes d'îlots de chaleur sont prononcés. Certains logements classés D pourraient basculer en E, nécessitant des travaux d'amélioration.
+
+### Durée de validité réduite
+
+La durée de validité du DPE passe de 10 à 7 ans pour encourager le suivi régulier des performances énergétiques. Cette mesure vise à tenir compte de l'évolution des équipements et des usages dans le temps.
+
+Les propriétaires doivent donc anticiper le renouvellement de leur diagnostic, particulièrement en cas de projet de vente ou de location. Le coût moyen d'un DPE dans les Yvelines se situe entre 120 et 180 euros selon la complexité du logement.
+
+## Impact spécifique dans les Yvelines
+
+### Enjeux du parc immobilier yvelinois
+
+Les Yvelines comptent un parc immobilier ancien important, avec 40% des logements construits avant 1975. Cette caractéristique rend le département particulièrement concerné par les nouvelles obligations de performance énergétique.
+
+Les communes de Saint-Germain-en-Laye, Conflans-Sainte-Honorine et Sartrouville concentrent de nombreuses maisons individuelles nécessitant des travaux d'isolation et de modernisation des systèmes de chauffage. L'enjeu financier est considérable pour les propriétaires.
+
+### Accompagnement renforcé des collectivités
+
+Le Conseil départemental des Yvelines développe son service d'accompagnement à la rénovation énergétique avec l'ouverture de nouveaux points conseil. Ces structures proposent un accompagnement gratuit pour identifier les travaux prioritaires et optimiser les aides disponibles.
+
+La plateforme de rénovation énergétique des Yvelines facilite également les démarches en centralisant les demandes d'aides et en proposant un réseau d'artisans qualifiés RGE. CHARRIERE SARL fait partie de ce réseau et accompagne les propriétaires dans leurs projets de rénovation énergétique.
+
+## Calendrier et conseils pratiques
+
+### Échéances à retenir
+
+Pour 2026, plusieurs dates sont cruciales : l'interdiction de location des logements F au 1er janvier, l'entrée en vigueur des nouvelles modalités de MaPrimeRénov' au 1er avril, et le déploiement du nouveau DPE au 1er juillet.
+
+Les propriétaires concernés par ces échéances doivent engager leurs démarches dès maintenant pour respecter les délais. La planification des travaux sur plusieurs mois permet d'optimiser les coûts et de bénéficier des meilleures conditions d'intervention.
+
+### Stratégie de rénovation optimale
+
+L'approche par étapes reste pertinente malgré les nouvelles réglementations. Commencer par l'isolation des combles et des murs permet d'obtenir des gains rapides avant d'envisager le remplacement du système de chauffage.
+
+Cette stratégie échelonnée facilite le financement des travaux et permet de bénéficier des différentes aides disponibles. Le coût moyen d'une rénovation énergétique complète varie de 15000 à 25000 euros pour une maison de 100 m² dans les Yvelines.
+
+Les évolutions réglementaires de 2026 transforment le paysage de la rénovation énergétique dans les Yvelines. Entre nouvelles obligations et aides renforcées, les propriétaires disposent d'un cadre incitatif pour améliorer les performances de leur logement. L'accompagnement d'un professionnel qualifié reste essentiel pour naviguer dans cette complexité réglementaire et optimiser les investissements.
+
+Vous envisagez des travaux de rénovation énergétique dans votre logement de Gargenville ou des environs ? CHARRIERE SARL vous accompagne dans votre projet avec un devis gratuit personnalisé et des conseils adaptés aux nouvelles réglementations 2026. Contactez-nous dès aujourd'hui pour faire de votre projet une réussite.`,
+  },
+  {
     slug: "menuiserie-interieure-portes-placards-sur-mesure-gargenville",
     title: "Menuiserie Intérieure : Portes et Placards Sur Mesure dans les Yvelines",
     metaTitle: "Portes et Placards Sur Mesure — Menuiserie Intérieure | CHARRIERE SARL",
