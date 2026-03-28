@@ -15,6 +15,114 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "comment-choisir-hotte-cuisine-evacuation-recyclage-debit",
+    title: "Comment Choisir sa Hotte de Cuisine : Guide Complet 2026",
+    metaTitle: "Comment Choisir sa Hotte de Cuisine — Évacuation, Débit, Pose | CHARRIERE SARL",
+    metaDescription:
+      "Guide complet pour choisir votre hotte de cuisine : évacuation vs recyclage, calcul du débit, dimensions. Conseils d'artisan dans les Yvelines (78).",
+    keywords: ["hotte de cuisine","évacuation hotte","recyclage hotte","débit hotte","pose hotte cuisine"],
+    excerpt:
+      "Découvrez tous nos conseils d'artisan pour bien choisir votre hotte de cuisine selon votre configuration et vos besoins.",
+    publishedAt: "2026-03-28",
+    readTime: "6 min",
+    category: "Cuisine",
+    image: "/images/blog/comment-choisir-hotte-cuisine-evacuation-recyclage-debit.webp",
+    imageAlt: "Comment Choisir sa Hotte de Cuisine : Guide Complet 2026",
+    content: `Choisir une hotte de cuisine adaptée à son intérieur représente un enjeu majeur lors d'une rénovation ou d'un aménagement. Cet équipement, souvent négligé dans les premières réflexions, joue pourtant un rôle essentiel dans le confort quotidien et la préservation de votre logement.
+
+Que vous habitiez à Gargenville, Mantes-la-Jolie ou dans toute autre commune des Yvelines, les contraintes techniques et réglementaires restent identiques. Une hotte mal choisie ou mal installée peut générer des nuisances sonores, une évacuation inefficace des fumées et même des problèmes d'humidité.
+
+## Les Deux Systèmes Principaux : Évacuation ou Recyclage
+
+### La Hotte à Évacuation Extérieure
+
+Le système d'évacuation extérieure constitue la solution la plus efficace pour éliminer définitivement les odeurs, la vapeur d'eau et les graisses de votre cuisine. Ce dispositif aspire l'air vicié et l'expulse directement à l'extérieur de votre habitation via un conduit dédié.
+
+L'installation nécessite obligatoirement un passage vers l'extérieur, que ce soit par le mur ou par le toit. Cette contrainte technique impose souvent des travaux de perçage et la mise en place d'un conduit d'évacuation respectant les normes en vigueur. Dans les maisons individuelles de Poissy ou Les Mureaux, cette solution s'avère généralement réalisable sans difficulté majeure.
+
+L'efficacité de ce système reste inégalée avec un renouvellement constant de l'air. Les odeurs disparaissent rapidement et l'humidité ne s'accumule pas dans la pièce. Le coût d'installation varie entre 200 et 600 euros selon la complexité du passage du conduit.
+
+### La Hotte à Recyclage par Filtration
+
+Le système de recyclage fonctionne différemment en aspirant l'air, le filtrant puis le rejetant dans la cuisine après épuration. Cette solution convient particulièrement aux appartements ou aux configurations où l'évacuation extérieure s'avère impossible ou trop complexe à réaliser.
+
+Deux types de filtres assurent cette fonction : les filtres à graisse métalliques, lavables et réutilisables, capturent les particules grasses tandis que les filtres à charbon actif neutralisent les odeurs. Ces derniers nécessitent un remplacement régulier tous les 3 à 6 mois selon l'utilisation.
+
+Bien que moins performante qu'une évacuation directe, cette solution reste acceptable pour une utilisation modérée. L'installation s'avère plus simple et moins coûteuse, entre 80 et 250 euros, mais les coûts d'entretien sont plus élevés à long terme.
+
+## Calculer le Débit Nécessaire de sa Hotte
+
+### La Formule de Base
+
+Le débit d'une hotte s'exprime en mètres cubes par heure et détermine sa capacité d'aspiration. Pour calculer vos besoins, multipliez le volume de votre cuisine par un coefficient compris entre 10 et 15 selon vos habitudes culinaires.
+
+Une cuisine de 20 mètres carrés avec une hauteur sous plafond de 2,5 mètres représente un volume de 50 mètres cubes. Pour une utilisation standard, un débit de 500 à 750 mètres cubes par heure convient parfaitement. Les gros cuisiniers ou les amateurs de cuisine asiatique opteront pour le coefficient maximal.
+
+### Les Facteurs à Prendre en Compte
+
+Plusieurs éléments influencent le choix du débit optimal. Une cuisine ouverte sur le séjour nécessite un débit supérieur pour éviter la propagation des odeurs dans l'espace de vie. À Saint-Germain-en-Laye ou Conflans-Sainte-Honorine, de nombreuses rénovations créent ce type de configuration.
+
+Le type de cuisson impacte également les besoins. Une plaque à induction génère moins de vapeurs qu'une cuisinière au gaz. Les amateurs de wok ou de fritures auront besoin d'une puissance d'aspiration plus importante.
+
+La longueur et le nombre de coudes du conduit d'évacuation réduisent l'efficacité de la hotte. Chaque mètre de conduit fait perdre environ 10% de débit, et chaque coude diminue les performances de 15 à 20%.
+
+## Dimensions et Positionnement de la Hotte
+
+### Largeur et Correspondance avec la Table de Cuisson
+
+La largeur de la hotte doit au minimum correspondre à celle de votre table de cuisson. Pour une efficacité optimale, privilégiez une hotte légèrement plus large que vos plaques. Une table de cuisson de 60 cm s'accommodera parfaitement d'une hotte de 60 ou 70 cm.
+
+Les îlots centraux nécessitent des hottes spécifiques, souvent plus larges et plus puissantes pour compenser l'absence de mur. Ces modèles suspendus au plafond constituent de véritables éléments décoratifs mais requièrent une installation technique plus complexe.
+
+### Hauteur d'Installation
+
+La distance entre la table de cuisson et la hotte influence directement l'efficacité d'aspiration. Pour une table électrique ou à induction, respectez une hauteur de 65 à 75 cm. Les plaques au gaz nécessitent une distance minimale de 75 cm pour des raisons de sécurité.
+
+Une hotte installée trop haut perd en efficacité, tandis qu'une position trop basse gêne les mouvements et peut présenter des risques. Dans nos interventions à Sartrouville ou dans l'ensemble des Yvelines, nous constatons régulièrement des installations inadaptées qui nécessitent une correction.
+
+## Les Différents Types de Hottes
+
+### Hottes Visières et Casquettes
+
+Ces modèles compacts s'intègrent sous un meuble haut et conviennent aux petites cuisines. Leur largeur varie de 50 à 90 cm et leur prix débute autour de 150 euros. Malgré leur discrétion, leur efficacité reste limitée et elles fonctionnent généralement en recyclage.
+
+### Hottes Décoratives
+
+Plus imposantes, ces hottes constituent un véritable élément de design dans la cuisine. Disponibles en version murale, d'angle ou îlot, elles offrent de meilleures performances d'aspiration. Leur prix varie de 300 à 2000 euros selon les finitions et les options.
+
+### Hottes Intégrées
+
+Totalement dissimulées dans un meuble, ces hottes préservent l'esthétique d'une cuisine épurée. Leur installation nécessite une conception sur mesure et l'intervention d'un professionnel expérimenté. Le coût global, incluant le meuble adapté, oscille entre 800 et 1500 euros.
+
+## Conseils de Pose par un Artisan
+
+### Préparation et Vérifications
+
+Avant toute installation, un diagnostic complet s'impose. Il faut vérifier la solidité du support, particulièrement pour les hottes lourdes ou les modèles îlot. Les cloisons creuses nécessitent un renforcement spécifique pour supporter le poids et les vibrations.
+
+L'alimentation électrique doit respecter les normes en vigueur avec une ligne dédiée et une prise de terre. Dans les rénovations anciennes, une mise aux normes du tableau électrique peut s'avérer nécessaire.
+
+### Raccordement et Étanchéité
+
+Le raccordement du conduit d'évacuation demande un soin particulier. Chaque jonction doit être parfaitement étanche pour éviter les reflux d'air et maintenir l'efficacité du système. L'utilisation de conduits rigides améliore les performances par rapport aux gaines souples.
+
+La sortie extérieure nécessite une grille de protection contre les intempéries et un clapet anti-retour pour éviter les courants d'air froid. Cette intervention peut nécessiter l'intervention d'un couvreur selon la configuration.
+
+### Tests et Réglages
+
+Après installation, plusieurs tests valident le bon fonctionnement de l'équipement. La vérification du débit réel, souvent inférieur au débit théorique, permet d'ajuster les réglages. Le niveau sonore doit rester acceptable, particulièrement en position maximale.
+
+Chez CHARRIERE SARL, nous accompagnons nos clients dans toutes ces étapes techniques. Notre expérience dans les Yvelines nous permet de proposer des solutions adaptées à chaque configuration, qu'il s'agisse d'une rénovation complète ou d'un simple remplacement.
+
+## Entretien et Durée de Vie
+
+Une hotte bien entretenue conserve ses performances pendant de nombreuses années. Le nettoyage régulier des filtres à graisse, idéalement après chaque utilisation intensive, préserve l'efficacité d'aspiration. Les filtres à charbon des hottes recyclage nécessitent un remplacement périodique.
+
+Le moteur et les conduits méritent également une attention particulière. Un nettoyage annuel par un professionnel prolonge la durée de vie de l'équipement et maintient ses performances optimales.
+
+Pour votre projet de rénovation de cuisine dans les Yvelines, n'hésitez pas à nous contacter pour un devis gratuit. Notre équipe vous conseillera sur le choix de votre hotte et assurera une installation dans les règles de l'art, adaptée à votre configuration et à vos besoins spécifiques.`,
+  },
+  {
     slug: "renovation-energetique-2026-nouvelles-reglementations-aides-yvelines",
     title: "Rénovation énergétique 2026 : nouvelles réglementations et aides dans les Yvelines",
     metaTitle: "Rénovation Énergétique 2026 : Nouvelles Aides et DPE | CHARRIERE SARL",
