@@ -15,6 +15,104 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "prix-douche-italienne-2026-gargenville-mantes",
+    title: "Prix d'une Douche à l'Italienne en 2026 : Tarifs Détaillés par Poste",
+    metaTitle: "Prix Douche à l'Italienne 2026 — Tarifs Détaillés | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les prix détaillés d'une douche à l'italienne en 2026. Tarifs par poste, aides MaPrimeAdapt pour PMR. Devis gratuit à Gargenville et Mantes.",
+    keywords: ["prix douche italienne","tarif douche plain-pied","cout salle de bain Gargenville","MaPrimeAdapt Yvelines"],
+    excerpt:
+      "Guide complet des prix d'une douche à l'italienne en 2026 avec détail par poste et informations sur les aides MaPrimeAdapt.",
+    publishedAt: "2026-04-02",
+    readTime: "7 min",
+    category: "Salle de bain",
+    image: "/images/blog/prix-douche-italienne-2026-gargenville-mantes.webp",
+    imageAlt: "Prix d'une Douche à l'Italienne en 2026 : Tarifs Détaillés par Poste",
+    content: `La douche à l'italienne représente aujourd'hui l'un des aménagements les plus demandés lors de rénovations de salles de bains. Entre modernité, praticité et accessibilité, cette solution séduit de nombreux propriétaires dans les Yvelines. Mais combien coûte réellement l'installation d'une douche à l'italienne en 2026 ?
+
+Chez CHARRIERE SARL, nous accompagnons régulièrement nos clients de Gargenville, Mantes-la-Jolie et des communes environnantes dans ce type de projet. Voici un guide détaillé des tarifs actuels pour vous aider à budgétiser votre projet.
+
+## Les facteurs qui influencent le prix d'une douche à l'italienne
+
+Le coût d'une douche à l'italienne varie considérablement selon plusieurs critères. La surface de la douche constitue le premier élément déterminant : une douche de 90x90 cm ne nécessitera pas le même budget qu'un espace de 120x160 cm.
+
+La complexité des travaux joue également un rôle majeur. Si votre salle de bains nécessite une modification complète de la plomberie ou des travaux d'étanchéité importants, le budget sera naturellement plus élevé. Dans les maisons anciennes de Poissy ou Saint-Germain-en-Laye, nous rencontrons souvent des configurations nécessitant des adaptations particulières.
+
+Le choix des matériaux influence directement le prix final. Un carrelage en grès cérame standard n'aura pas le même coût qu'un revêtement en pierre naturelle ou qu'un carrelage grand format de marque premium.
+
+## Détail des prix par poste de travail
+
+### Démolition et préparation du support
+
+La première étape consiste à démolir l'ancienne installation. Pour une baignoire standard, comptez entre 200 et 400 euros selon la complexité. Cette phase inclut la dépose de l'ancien sanitaire, l'évacuation des gravats et la préparation des murs et du sol.
+
+La création de la pente nécessaire à l'évacuation des eaux représente un poste important. Selon la configuration existante, ce travail peut coûter entre 300 et 800 euros. Dans certains cas, notamment en rénovation, il faut créer une chape spécifique pour obtenir la pente idéale de 1 à 2 centimètres par mètre.
+
+### Travaux de plomberie
+
+L'installation ou la modification des évacuations constitue un poste technique crucial. Le raccordement au réseau existant coûte généralement entre 150 et 300 euros si les canalisations sont facilement accessibles.
+
+Pour une évacuation linéaire, moderne et esthétique, prévoyez un budget de 200 à 500 euros pour le système d'évacuation lui-même, auquel s'ajoute la main-d'œuvre d'installation.
+
+L'alimentation en eau chaude et froide nécessite parfois des modifications. Dans nos interventions à Les Mureaux ou Conflans-Sainte-Honorine, nous adaptons souvent la robinetterie existante, ce qui représente un coût de 100 à 250 euros selon la configuration.
+
+### Étanchéité
+
+L'étanchéité représente l'élément le plus critique d'une douche à l'italienne. Une membrane d'étanchéité liquide de qualité coûte entre 15 et 25 euros par mètre carré. Pour une douche standard de 4 mètres carrés (sol et remontées murales), comptez entre 200 et 400 euros de matériaux.
+
+La pose professionnelle de cette étanchéité nécessite un savoir-faire spécifique. La main-d'œuvre représente généralement entre 300 et 600 euros selon la surface et la complexité des angles.
+
+### Carrelage et revêtements
+
+Le choix du carrelage offre une large gamme de prix. Un carrelage en grès cérame standard coûte entre 20 et 40 euros par mètre carré. Pour des carreaux grand format ou des matériaux premium, les prix peuvent atteindre 80 à 150 euros par mètre carré.
+
+La pose du carrelage, incluant la préparation du support et les finitions, représente entre 35 et 60 euros par mètre carré selon la complexité du motif et la taille des carreaux.
+
+### Robinetterie et accessoires
+
+Une colonne de douche de qualité correcte coûte entre 200 et 600 euros. Les modèles haut de gamme avec fonctions hydromassantes ou thermostatiques peuvent dépasser 1000 euros.
+
+Les parois de douche varient énormément selon le type choisi. Un rideau de douche coûte moins de 50 euros, tandis qu'une paroi en verre sur mesure peut atteindre 800 à 1500 euros selon les dimensions et les finitions.
+
+## Tarifs globaux selon la gamme choisie
+
+### Gamme économique
+
+Pour une douche à l'italienne basique de 90x90 cm avec des matériaux standards, le budget total se situe entre 2500 et 3500 euros. Cette fourchette inclut une démolition simple, une étanchéité standard, un carrelage économique et une robinetterie basique.
+
+### Gamme intermédiaire
+
+Une installation de gamme moyenne, avec de meilleurs matériaux et des finitions soignées, coûte entre 3500 et 5500 euros. Cette catégorie permet d'accéder à des carrelages plus esthétiques et à une robinetterie de meilleure qualité.
+
+### Gamme premium
+
+Les douches à l'italienne haut de gamme, avec des matériaux nobles et des équipements de luxe, peuvent atteindre 7000 à 10000 euros ou plus. Ces projets incluent souvent des pierres naturelles, des parois sur mesure et des systèmes de douche sophistiqués.
+
+## Les aides disponibles avec MaPrimeAdapt
+
+Depuis 2024, le dispositif MaPrimeAdapt' remplace les anciennes aides pour l'adaptation des logements. Cette prime concerne spécifiquement les personnes âgées de plus de 70 ans ou en situation de handicap.
+
+Pour l'installation d'une douche à l'italienne adaptée aux personnes à mobilité réduite, MaPrimeAdapt peut couvrir jusqu'à 70 % du montant des travaux, dans la limite de 22000 euros sur 10 ans. Cette aide substantielle rend accessible l'installation de douches sécurisées pour nos clients des Yvelines.
+
+Les critères d'éligibilité incluent des conditions de ressources et la nécessité de faire appel à un artisan certifié. CHARRIERE SARL dispose des qualifications requises pour vous accompagner dans ces démarches.
+
+## Conseils pour optimiser votre budget
+
+Pour maîtriser le coût de votre projet, privilégiez une approche globale plutôt que des interventions séparées. Regrouper les travaux permet souvent de réaliser des économies sur la main-d'œuvre.
+
+Le choix du moment peut également influencer les tarifs. Les périodes de forte activité, comme le printemps, peuvent entraîner des délais plus longs et des prix légèrement supérieurs.
+
+N'hésitez pas à investir dans l'étanchéité et la structure, éléments invisibles mais cruciaux pour la durabilité de votre installation. Un problème d'étanchéité peut générer des coûts de réparation bien supérieurs à l'économie initiale.
+
+## Spécificités locales dans les Yvelines
+
+Dans les communes comme Sartrouville ou Gargenville, nous rencontrons souvent des configurations particulières liées au type d'habitat. Les pavillons des années 70-80 nécessitent parfois des adaptations spécifiques de la plomberie.
+
+Les appartements anciens de Mantes-la-Jolie peuvent présenter des contraintes d'évacuation nécessitant des solutions techniques adaptées. Ces spécificités locales influencent le budget final et doivent être anticipées lors de l'établissement du devis.
+
+Vous envisagez l'installation d'une douche à l'italienne dans votre salle de bains ? CHARRIERE SARL vous accompagne de la conception à la réalisation de votre projet. Contactez-nous pour obtenir un devis gratuit et personnalisé, adapté à votre configuration et à votre budget. Notre expertise locale dans les Yvelines nous permet de vous proposer les meilleures solutions pour votre rénovation.`,
+  },
+  {
     slug: "renovation-cuisine-ouverte-salon-avantages-inconvenients-yvelines",
     title: "Rénovation Cuisine Ouverte sur Salon : Avantages et Inconvénients",
     metaTitle: "Rénovation Cuisine Ouverte sur Salon — Guide Complet 2026 | CHARRIERE SARL",
