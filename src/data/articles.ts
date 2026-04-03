@@ -15,6 +15,106 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "etapes-renovation-salle-bain-guide-complet",
+    title: "Les 7 Étapes d'une Rénovation de Salle de Bain : Guide Complet 2026",
+    metaTitle: "Étapes Rénovation Salle de Bain — Guide Complet Yvelines | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les 7 étapes essentielles d'une rénovation de salle de bain réussie. Guide complet avec planning, budget et conseils d'expert en Yvelines.",
+    keywords: ["rénovation salle de bain","étapes rénovation","artisan salle de bain Yvelines","rénovation Gargenville"],
+    excerpt:
+      "Un guide chronologique complet des 7 étapes clés pour réussir votre rénovation de salle de bain, de la conception à la finition.",
+    publishedAt: "2026-04-03",
+    readTime: "8 min",
+    category: "Salle de bain",
+    image: "/images/blog/etapes-renovation-salle-bain-guide-complet.webp",
+    imageAlt: "Les 7 Étapes d'une Rénovation de Salle de Bain : Guide Complet 2026",
+    content: `Rénover une salle de bain représente l'un des projets les plus complexes en rénovation intérieure. Entre la plomberie, l'électricité, l'étanchéité et les finitions, chaque étape doit être parfaitement orchestrée pour obtenir un résultat durable et esthétique. Dans les Yvelines, de Gargenville à Saint-Germain-en-Laye, nous accompagnons nos clients dans cette transformation majeure de leur habitat.
+
+## Étape 1 : Conception et Planning (Semaine 1-2)
+
+La réussite de votre projet commence par une phase de conception minutieuse. Cette première étape consiste à définir vos besoins, vos envies et votre budget. Un plan détaillé permettra d'éviter les mauvaises surprises et les dépassements de coûts.
+
+L'analyse de l'existant constitue un préalable indispensable. Il faut évaluer l'état de la plomberie, de l'électricité, de l'isolation et de l'étanchéité. Dans les maisons anciennes des Yvelines, notamment à Mantes-la-Jolie ou Poissy, cette analyse révèle souvent des travaux complémentaires nécessaires.
+
+Le choix des matériaux et équipements doit être fait dès cette étape. Carrelage, sanitaires, robinetterie, éclairage : chaque élément influence le planning et le budget. Pour une salle de bain standard de 5 m², comptez entre 8 000 et 15 000 euros selon le niveau de finition souhaité.
+
+## Étape 2 : Démolition et Préparation (Semaine 3)
+
+La phase de démolition demande une expertise technique pour préserver les éléments à conserver et préparer les supports. Cette étape génère beaucoup de poussière et de gravats, nécessitant une protection minutieuse du reste de l'habitation.
+
+La dépose des anciens équipements doit respecter un ordre précis : robinetterie, sanitaires, carrelage, puis éventuellement cloisons. Attention aux canalisations cachées et aux câbles électriques qui peuvent surprendre lors de cette phase.
+
+L'évacuation des gravats représente un coût non négligeable, généralement entre 300 et 500 euros selon la superficie. Dans les villes comme Les Mureaux ou Conflans-Sainte-Honorine, certaines déchetteries acceptent les gravats des particuliers, mais les volumes importants nécessitent souvent un service professionnel.
+
+## Étape 3 : Gros Œuvre et Structure (Semaine 4-5)
+
+Cette phase technique comprend les modifications de cloisons, la création d'ouvertures ou la pose de nouvelles structures. Si votre projet nécessite des travaux porteurs, une étude structure s'impose avant toute intervention.
+
+L'isolation des murs et du sol améliore le confort thermique et phonique de votre nouvelle salle de bain. Dans les constructions anciennes, cette étape permet aussi de traiter les problèmes d'humidité récurrents.
+
+Les renforts pour les équipements lourds comme les baignoires d'angle ou les receveurs de douche XXL doivent être prévus dès cette étape. Un mauvais support compromettrait la durabilité de votre installation.
+
+## Étape 4 : Plomberie et Électricité (Semaine 6-7)
+
+Les réseaux plomberie et électricité constituent le cœur technique de votre salle de bain. Cette phase exige une coordination parfaite entre les différents corps de métier pour éviter les interférences et optimiser les passages.
+
+La plomberie comprend l'arrivée d'eau froide et chaude, l'évacuation des eaux usées et la ventilation. Les nouvelles normes imposent des diamètres spécifiques et des pentes précises pour les évacuations. Le coût de cette étape varie entre 1 500 et 3 000 euros selon la complexité.
+
+L'électricité suit la norme NF C 15-100 avec des zones de sécurité strictes autour des points d'eau. L'éclairage, la ventilation mécanique et les prises spécialisées nécessitent des circuits dédiés. Prévoyez 800 à 1 500 euros pour une installation électrique complète.
+
+## Étape 5 : Étanchéité et Isolation (Semaine 8)
+
+L'étanchéité représente l'étape la plus critique de votre rénovation. Une défaillance à ce niveau entraînerait des dégâts considérables et coûteux dans les pièces adjacentes.
+
+Le traitement des sols nécessite une membrane d'étanchéité continue remontant sur les murs. Les angles et les passages de canalisations demandent une attention particulière avec des renforts spécifiques.
+
+L'étanchéité des murs en contact avec l'eau utilise différentes techniques selon le support : enduits hydrofuges, membranes liquides ou complexes d'étanchéité sous carrelage. Cette étape représente un investissement de 15 à 25 euros par mètre carré mais garantit la pérennité de votre installation.
+
+## Étape 6 : Revêtements et Finitions (Semaine 9-11)
+
+La pose des revêtements transforme votre salle de bain et lui donne son caractère définitif. Le carrelage reste le choix privilégié pour sa résistance à l'humidité et sa facilité d'entretien.
+
+La faïence murale se pose généralement du bas vers le haut, en commençant par une ligne de référence parfaitement horizontale. Les découpes autour des équipements sanitaires demandent précision et savoir-faire pour un résultat professionnel.
+
+Le sol se carrelage après les murs, avec une attention particulière aux évacuations et aux seuils. Les joints d'étanchéité périphériques assurent la liaison avec les plinthes et garantissent l'imperméabilité de l'ensemble. Comptez 40 à 80 euros par mètre carré posé selon le type de carrelage choisi.
+
+## Étape 7 : Installation et Raccordement (Semaine 12)
+
+L'installation des équipements sanitaires marque l'aboutissement de votre projet. Chaque élément doit être positionné avec précision et raccordé dans les règles de l'art.
+
+La pose de la baignoire ou du receveur de douche nécessite un réglage minutieux du niveau et de l'aplomb. Les raccordements étanches évitent les fuites ultérieures qui pourraient compromettre votre installation.
+
+La robinetterie, les accessoires et l'éclairage apportent la touche finale à votre nouvelle salle de bain. Cette dernière étape révèle la qualité du travail accompli et votre satisfaction du projet réalisé.
+
+## L'Importance d'un Artisan Unique pour Votre Projet
+
+Faire appel à un seul interlocuteur pour l'ensemble de votre rénovation présente des avantages considérables. La coordination entre les différents corps de métier s'effectue naturellement, évitant les retards et les malfaçons.
+
+CHARRIERE SARL maîtrise tous les aspects de votre projet, de la conception à la réalisation finale. Cette approche globale garantit la cohérence technique et esthétique de votre nouvelle salle de bain.
+
+L'expertise pluridisciplinaire permet d'anticiper les interactions entre les différents lots et d'optimiser le planning général. Dans les Yvelines, de Gargenville à Sartrouville, cette méthode de travail a fait ses preuves sur de nombreux projets.
+
+La responsabilité unique simplifie aussi les relations contractuelles et les garanties. En cas de problème, vous disposez d'un interlocuteur unique qui prend en charge la résolution complète de la difficulté rencontrée.
+
+## Planning Type et Budget Prévisionnel
+
+Une rénovation complète de salle de bain s'étale généralement sur 10 à 12 semaines selon la complexité du projet. Ce délai inclut les temps de séchage nécessaires entre certaines étapes techniques.
+
+Le budget global varie selon la superficie, les équipements choisis et les contraintes techniques. Pour une salle de bain de 5 m² avec des finitions de qualité, prévoyez entre 12 000 et 20 000 euros toutes prestations comprises.
+
+Ces montants incluent la fourniture, la main-d'œuvre et les frais annexes comme l'évacuation des gravats ou la protection du logement. Des équipements haut de gamme ou des contraintes particulières peuvent majorer ce budget de 20 à 30 %.
+
+## Conseils pour Réussir Votre Projet
+
+Anticipez les délais d'approvisionnement, particulièrement pour les équipements spéciaux ou sur mesure. Certains sanitaires design nécessitent 6 à 8 semaines de fabrication.
+
+Préparez une solution de remplacement temporaire pendant les travaux. La durée d'indisponibilité de votre salle de bain peut atteindre 8 à 10 semaines selon la complexité des interventions.
+
+Validez chaque étape avant de passer à la suivante. Les modifications en cours de chantier génèrent toujours des surcoûts et des retards qu'il vaut mieux éviter.
+
+Vous envisagez une rénovation de salle de bain dans les Yvelines ? CHARRIERE SARL vous accompagne de la conception à la réalisation de votre projet. Contactez-nous dès maintenant pour obtenir votre devis gratuit et personnalisé. Notre expertise pluridisciplinaire garantit la réussite de votre rénovation dans les délais et le budget convenus.`,
+  },
+  {
     slug: "prix-douche-italienne-2026-gargenville-mantes",
     title: "Prix d'une Douche à l'Italienne en 2026 : Tarifs Détaillés par Poste",
     metaTitle: "Prix Douche à l'Italienne 2026 — Tarifs Détaillés | CHARRIERE SARL",
