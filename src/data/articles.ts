@@ -15,6 +15,106 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renover-maison-ancienne-yvelines-specificites-bati-78",
+    title: "Rénover une maison ancienne dans les Yvelines : spécificités du bâti ancien",
+    metaTitle: "Rénovation Maison Ancienne Yvelines 78 — Bâti Ancien | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les spécificités du bâti ancien des Yvelines. Conseils d'expert pour rénover votre maison ancienne en respectant normes et charme authentique.",
+    keywords: ["rénovation maison ancienne yvelines","bâti ancien 78","rénovation patrimoine yvelines","isolation maison ancienne"],
+    excerpt:
+      "Rénover une maison ancienne dans les Yvelines demande une expertise particulière pour respecter les spécificités du bâti traditionnel tout en intégrant les normes modernes.",
+    publishedAt: "2026-04-06",
+    readTime: "7 min",
+    category: "Rénovation",
+    image: "/images/blog/renover-maison-ancienne-yvelines-specificites-bati-78.webp",
+    imageAlt: "Rénover une maison ancienne dans les Yvelines : spécificités du bâti ancien",
+    content: `Les Yvelines regorgent de maisons anciennes pleines de charme, témoins d'un riche patrimoine architectural. De Gargenville aux Mureaux, en passant par Meulan, ces demeures du 18ème et 19ème siècle présentent des caractéristiques uniques qui nécessitent une approche spécialisée lors des travaux de rénovation.
+
+Rénover une maison ancienne dans le département 78 ne s'improvise pas. Entre respect du patrimoine, mise aux normes actuelles et préservation de l'authenticité, les défis sont nombreux. CHARRIERE SARL, fort de son expérience dans la rénovation du bâti ancien yvelinois, vous guide dans cette aventure passionnante.
+
+## Les spécificités du bâti ancien dans les Yvelines
+
+### Matériaux traditionnels de la région
+
+Les maisons anciennes des Yvelines se caractérisent par l'utilisation de matériaux locaux authentiques. La pierre de taille, extraite des carrières de la région, compose souvent les façades des demeures bourgeoises de Mantes-la-Jolie ou Saint-Germain-en-Laye. Le grès, particulièrement présent dans les constructions des Mureaux et de Conflans-Sainte-Honorine, offre cette teinte ocre si caractéristique.
+
+Les murs en moellons de calcaire, enduits à la chaux, constituent la majorité des constructions rurales autour de Gargenville et Meulan. Ces murs épais, souvent de 50 à 80 centimètres, assurent une excellente inertie thermique mais présentent des défis particuliers pour l'isolation.
+
+Les charpentes en chêne, essence abondante dans les forêts yvelinoises, témoignent du savoir-faire des charpentiers d'autrefois. Ces structures, parfois vieilles de plusieurs siècles, nécessitent un diagnostic précis avant toute intervention.
+
+### Caractéristiques architecturales typiques
+
+Les maisons de maître des Yvelines arborent souvent de hautes fenêtres à petits carreaux, des volets en bois massif et des toitures en tuiles plates ou en ardoise selon les secteurs. Les demeures de Poissy ou des Mureaux présentent fréquemment des éléments décoratifs en pierre sculptée qu'il convient de préserver.
+
+Les planchers anciens, constitués de solives en chêne et de parquet massif, représentent un patrimoine précieux. Cependant, leur mise aux normes acoustiques et thermiques actuelles demande une expertise particulière pour éviter les désordres structurels.
+
+## Contraintes réglementaires et patrimoniales
+
+### Zones protégées et ABF
+
+Dans les Yvelines, de nombreuses communes possèdent des secteurs sauvegardés ou des périmètres de protection. À Meulan, par exemple, les abords de la collégiale Notre-Dame sont soumis à l'avis des Architectes des Bâtiments de France. Ces contraintes, loin d'être punitives, garantissent la préservation du caractère architectural local.
+
+Tout projet de rénovation en zone protégée nécessite une déclaration préalable ou un permis de construire, accompagné d'un volet paysager détaillé. Les matériaux, couleurs et techniques doivent respecter les prescriptions architecturales locales.
+
+### Normes thermiques et patrimoine
+
+Concilier performance énergétique et préservation du patrimoine constitue l'un des principaux défis de la rénovation ancienne. La RT existant impose des seuils de performance lors de rénovations importantes, mais des dérogations existent pour le bâti patrimonial.
+
+L'isolation par l'extérieur, souvent préconisée, peut s'avérer impossible sur une façade classée. Il faut alors privilégier l'isolation par l'intérieur en préservant les points singuliers et en utilisant des matériaux perspirants comme la fibre de bois ou la ouate de cellulose.
+
+## Défis techniques de l'isolation en bâti ancien
+
+### Gestion de l'humidité
+
+Les murs anciens fonctionnent selon un principe de respiration naturelle. L'utilisation de matériaux modernes étanches peut créer des désordres importants : condensation, moisissures, dégradation des enduits anciens. Dans une maison de Gargenville datant du 19ème siècle, il est essentiel de maintenir cette perméabilité à la vapeur d'eau.
+
+L'isolation doit donc privilégier des matériaux biosourcés : chanvre, lin, fibre de bois, liège expansé. Ces isolants, plus coûteux que les solutions synthétiques, garantissent la pérennité de l'intervention. Comptez entre 25 et 45 euros le mètre carré selon l'épaisseur et le matériau choisi.
+
+### Traitement des ponts thermiques
+
+Les liaisons entre planchers et murs, particulièrement délicates en bâti ancien, nécessitent des solutions sur mesure. Les planchers sur solives, fréquents dans les maisons des Mureaux ou de Sartrouville, créent des ponts thermiques importants qu'il faut traiter sans compromettre la structure.
+
+L'isolation des combles perdus reste souvent la solution la plus efficace et la moins invasive. Avec un budget de 20 à 35 euros le mètre carré, cette intervention offre un excellent rapport qualité-prix et peut bénéficier d'aides financières substantielles.
+
+## Préservation du charme authentique
+
+### Restauration des éléments d'origine
+
+La valeur d'une maison ancienne réside largement dans ses éléments d'époque préservés. Les parquets en chêne massif, tomettes anciennes, poutres apparentes ou cheminées en pierre constituent autant d'atouts à restaurer plutôt qu'à remplacer.
+
+La restauration d'un parquet ancien représente un investissement de 40 à 80 euros le mètre carré selon l'état initial, mais le résultat n'a pas d'équivalent moderne. Ces interventions nécessitent des artisans spécialisés maîtrisant les techniques traditionnelles.
+
+### Équilibre entre confort moderne et authenticité
+
+Intégrer les équipements modernes sans dénaturer le caractère de la maison demande subtilité et créativité. L'installation d'un système de chauffage performant, la mise aux normes électriques ou la création de salles d'eau contemporaines doivent se faire dans le respect de l'architecture existante.
+
+À Meulan, CHARRIERE SARL a récemment rénové une maison de 1880 en intégrant discrètement une pompe à chaleur air-eau et un système de ventilation double flux, tout en préservant les volumes généreux et les éléments décoratifs d'origine.
+
+## Budget et planning d'une rénovation complète
+
+### Estimation des coûts par poste
+
+La rénovation complète d'une maison ancienne de 150 m² dans les Yvelines représente un investissement conséquent. L'isolation et l'étanchéité représentent 25 000 à 40 000 euros, la mise aux normes électriques et plomberie 15 000 à 25 000 euros, la réfection des sols et cloisons 20 000 à 35 000 euros.
+
+Les postes spécifiques au bâti ancien, comme la restauration de la charpente ou le rejointoiement des façades, peuvent ajouter 15 000 à 30 000 euros au budget global. Au total, comptez entre 1 200 et 2 000 euros le mètre carré pour une rénovation complète respectueuse du patrimoine.
+
+### Phasage des travaux
+
+Une rénovation de maison ancienne s'étale généralement sur 8 à 12 mois selon l'ampleur des travaux. La phase de diagnostic et d'études préalables, cruciale en bâti ancien, occupe les deux premiers mois. Viennent ensuite le gros œuvre, l'isolation, puis les seconds œuvres et finitions.
+
+Cette durée peut paraître longue, mais elle garantit un résultat durable et respectueux de l'existant. Précipiter les interventions sur du bâti ancien conduit souvent à des désordres coûteux à corriger.
+
+## Aides financières spécifiques
+
+La rénovation de maisons anciennes peut bénéficier d'aides spécifiques. MaPrimeRénov', l'éco-PTZ et les certificats d'économie d'énergie s'appliquent aux travaux d'isolation et de chauffage. Certaines communes des Yvelines proposent également des subventions pour la préservation du patrimoine bâti.
+
+La Fondation du Patrimoine peut accompagner financièrement les propriétaires de maisons remarquables non protégées. Ces dispositifs, cumulables sous certaines conditions, peuvent couvrir jusqu'à 40% du montant des travaux éligibles.
+
+Rénover une maison ancienne dans les Yvelines représente un projet passionnant mais complexe, nécessitant expertise technique et sensibilité patrimoniale. De Gargenville aux Mureaux, chaque intervention demande une approche sur mesure respectant les spécificités locales.
+
+CHARRIERE SARL vous accompagne dans votre projet de rénovation de maison ancienne avec l'expertise du bâti traditionnel yvelinois. Nos équipes maîtrisent les techniques spécifiques au patrimoine local et vous proposent des solutions durables alliant respect de l'authenticité et confort moderne. Contactez-nous pour un devis gratuit et personnalisé de votre projet de rénovation.`,
+  },
+  {
     slug: "amenager-petit-appartement-astuces-rangement-studio-t2",
     title: "Aménager un petit appartement : astuces rangement pour optimiser l'espace",
     metaTitle: "Aménager petit appartement studio T2 — Astuces rangement | CHARRIERE SARL",
