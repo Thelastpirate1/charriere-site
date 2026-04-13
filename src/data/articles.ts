@@ -15,6 +15,98 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "tendances-amenagement-interieur-2026-yvelines",
+    title: "Tendances Aménagement Intérieur 2026 : Couleurs, Matériaux et Styles à Adopter",
+    metaTitle: "Tendances Aménagement Intérieur 2026 — Couleurs & Matériaux | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les tendances aménagement intérieur 2026 : couleurs naturelles, matériaux durables, styles contemporains. Conseils d'artisan dans les Yvelines.",
+    keywords: ["tendances aménagement intérieur 2026","couleurs tendance 2026","matériaux aménagement","rénovation intérieure Yvelines","artisan aménagement Gargenville"],
+    excerpt:
+      "Les tendances 2026 privilégient les matériaux naturels, les couleurs apaisantes et les aménagements fonctionnels. Découvrez comment les intégrer chez vous.",
+    publishedAt: "2026-04-13",
+    readTime: "6 min",
+    category: "Aménagement",
+    image: "/images/blog/tendances-amenagement-interieur-2026-yvelines.webp",
+    imageAlt: "Tendances Aménagement Intérieur 2026 : Couleurs, Matériaux et Styles à Adopter",
+    content: `L'année 2026 s'annonce riche en innovations pour l'aménagement intérieur. Entre retour aux sources et technologies intégrées, les nouvelles tendances transforment nos espaces de vie. Que vous habitiez Gargenville, Mantes-la-Jolie ou Saint-Germain-en-Laye, ces évolutions redéfinissent notre façon de concevoir nos intérieurs.
+
+En tant qu'artisan spécialisé en rénovation intérieure dans les Yvelines, CHARRIERE SARL observe quotidiennement l'évolution des attentes de nos clients. Les projets d'aménagement actuels reflètent une quête d'authenticité, de durabilité et de bien-être.
+
+## Les Couleurs Tendance 2026 : Vers Plus de Sérénité
+
+Les palettes chromatiques de 2026 s'orientent résolument vers l'apaisement et la connexion à la nature. Les tons terreux dominent cette nouvelle esthétique.
+
+Les beiges chauds et les ocres doux remplacent progressivement les gris froids des années précédentes. Ces nuances créent une atmosphère enveloppante, particulièrement appréciée dans les salons et chambres. À Poissy comme aux Mureaux, nos clients privilégient ces teintes pour leurs propriétés relaxantes.
+
+Le vert sauge s'impose comme la couleur phare de 2026. Cette nuance subtile apporte fraîcheur et sophistication, parfaite pour une cuisine moderne ou un bureau à domicile. Elle se marie harmonieusement avec les matériaux naturels et les finitions dorées.
+
+Les bleus profonds, inspirés des nuits étoilées, gagnent également en popularité. Utilisés en touches ou sur un mur d'accent, ils créent une profondeur visuelle remarquable. Ces tons conviennent particulièrement aux chambres parentales et aux espaces de détente.
+
+L'approche monochromatique se développe aussi. Jouer sur différentes intensités d'une même couleur crée une harmonie sophistiquée tout en conservant du dynamisme visuel.
+
+## Matériaux Naturels : Le Retour aux Essentiels
+
+L'année 2026 consacre le retour des matériaux authentiques. Cette tendance répond à une aspiration profonde de reconnexion avec la nature.
+
+Le bois massif retrouve ses lettres de noblesse. Chêne, noyer, frêne : ces essences apportent chaleur et caractère aux aménagements. Les finitions brutes ou légèrement patinées sont privilégiées pour préserver l'authenticité du matériau. Dans nos réalisations à Conflans-Sainte-Honorine, le parquet en chêne massif reste l'un des choix les plus plébiscités.
+
+La pierre naturelle connaît également un renouveau. Travertin, marbre veiné, ardoise : chaque matériau apporte sa texture unique. En crédence de cuisine ou habillage de cheminée, la pierre crée des points focaux saisissants.
+
+Le rotin et l'osier s'invitent dans nos intérieurs. Ces matériaux tressés apportent légèreté et exotisme discret. Mobilier, luminaires ou éléments décoratifs en rotin s'intègrent naturellement dans les ambiances contemporaines.
+
+Les métaux patinés complètent cette palette naturelle. Le laiton brossé, le cuivre oxydé et l'acier bruni remplacent les finitions chromées. Ces matériaux développent une patine unique avec le temps, renforçant leur caractère authentique.
+
+## Styles Émergents : Entre Minimalisme et Caractère
+
+Les styles d'aménagement 2026 conjuguent épurement et personnalité. Plusieurs tendances se dessinent clairement.
+
+Le style organique s'impose progressivement. Formes arrondies, lignes fluides et matériaux naturels créent des espaces apaisants. Cette esthétique privilégie les courbes aux angles droits, humanisant l'architecture contemporaine.
+
+L'esprit craft contemporain mélange savoir-faire artisanal et design moderne. Meubles sur-mesure, finitions travaillées à la main, détails uniques : chaque élément raconte une histoire. Dans les projets que nous réalisons à Sartrouville, cette approche séduit une clientèle exigeante.
+
+Le maximalisme réfléchi fait son apparition. Contrairement au minimalisme strict, cette tendance assume l'accumulation d'objets choisis avec soin. Chaque pièce a sa place et son importance dans l'équilibre général.
+
+L'intégration technologique discrète caractérise également 2026. Domotique invisible, éclairage intelligent et solutions connectées s'effacent derrière l'esthétique. La technologie sert le confort sans parasiter l'atmosphère.
+
+## Comment Concrétiser Ces Tendances Chez Vous
+
+Adapter ces tendances à votre intérieur nécessite une approche réfléchie. L'expertise d'un artisan expérimenté s'avère précieuse pour harmoniser innovation et contraintes techniques.
+
+Commencez par définir l'ambiance souhaitée. Souhaitez-vous une atmosphère cocooning avec des tons chauds, ou préférez-vous la fraîcheur du vert sauge ? Cette première étape oriente tous les choix suivants.
+
+Intégrez progressivement les nouveaux matériaux. Remplacer entièrement un revêtement représente un investissement conséquent. Commencer par des touches de bois naturel ou de pierre permet de tester l'effet visuel.
+
+Considérez l'architecture existante. Certaines tendances s'adaptent mieux aux volumes généreux, d'autres subliment les espaces compacts. L'analyse de votre logement guide les choix pertinents.
+
+Budgétisez selon vos priorités. Un parquet en chêne massif coûte entre 80 et 150 euros par mètre carré posé, tandis qu'une crédence en pierre naturelle varie de 120 à 300 euros par mètre carré. Échelonner les travaux permet de respecter votre budget.
+
+## L'Expertise Artisanale au Service des Tendances
+
+Réaliser un aménagement tendance demande des compétences techniques précises. Chaque matériau impose ses contraintes de mise en œuvre.
+
+La pose de pierre naturelle requiert une parfaite maîtrise de l'étanchéité et des techniques de scellement. Un mauvais calfeutrement compromet la durabilité de l'installation.
+
+L'intégration de l'éclairage intelligent nécessite une coordination entre électricien et décorateur. Les circuits doivent anticiper les futurs besoins tout en préservant l'esthétique.
+
+Le travail du bois massif demande un savoir-faire spécifique. Gestion de l'humidité, techniques d'assemblage, finitions : chaque étape influence le résultat final.
+
+CHARRIERE SARL accompagne ses clients dans cette démarche. Notre connaissance des matériaux et des techniques garantit une réalisation durable. Nous adaptons chaque projet aux spécificités du logement et aux attentes personnelles.
+
+## Anticiper l'Évolution de Vos Espaces
+
+Aménager selon les tendances 2026, c'est aussi penser à long terme. Les choix actuels doivent s'adapter aux évolutions futures de vos besoins.
+
+Privilégiez les solutions modulables. Cloisons amovibles, mobilier évolutif, éclairage adaptable : ces éléments permettent de transformer l'espace sans gros œuvre.
+
+Investissez dans la qualité des matériaux de base. Un parquet en chêne massif traversera plusieurs décennies, justifiant son coût initial. Les finitions peuvent évoluer, la structure demeure.
+
+Considérez l'impact environnemental de vos choix. Matériaux locaux, techniques durables, solutions économes en énergie : l'aménagement responsable s'impose progressivement.
+
+Les tendances 2026 marquent un tournant vers plus d'authenticité et de bien-être. Couleurs apaisantes, matériaux naturels et styles réfléchis transforment nos intérieurs en havres de sérénité. Réussir cette transformation demande expertise technique et vision esthétique.
+
+Vous souhaitez intégrer ces tendances dans votre projet d'aménagement ? CHARRIERE SARL vous accompagne de la conception à la réalisation. Contactez-nous pour un devis personnalisé et découvrez comment transformer votre intérieur selon les codes de 2026.`,
+  },
+  {
     slug: "renover-maison-ancienne-yvelines-specificites-bati-78",
     title: "Rénover une maison ancienne dans les Yvelines : spécificités du bâti ancien",
     metaTitle: "Rénovation Maison Ancienne Yvelines 78 — Bâti Ancien | CHARRIERE SARL",
