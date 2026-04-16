@@ -15,6 +15,86 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "electricite-aux-normes-cout-mise-conformite-yvelines",
+    title: "Électricité aux normes : combien coûte une mise en conformité dans les Yvelines ?",
+    metaTitle: "Mise aux normes électriques NF C 15-100 : prix Yvelines | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez le coût d'une mise aux normes électriques NF C 15-100 dans les Yvelines. Prix tableau électrique, rénovation complète. Devis gratuit CHARRIERE SARL.",
+    keywords: ["mise aux normes électriques","NF C 15-100","tableau électrique","électricité Yvelines"],
+    excerpt:
+      "Tout savoir sur les coûts d'une mise aux normes électriques selon la norme NF C 15-100 dans les Yvelines, du simple remplacement de tableau aux rénovations complètes.",
+    publishedAt: "2026-04-16",
+    readTime: "8 min",
+    category: "Rénovation",
+    image: "/images/blog/electricite-aux-normes-cout-mise-conformite-yvelines.webp",
+    imageAlt: "Électricité aux normes : combien coûte une mise en conformité dans les Yvelines ?",
+    content: `La sécurité électrique de votre logement n'est pas négociable. Que vous habitiez à Gargenville, Mantes-la-Jolie ou Saint-Germain-en-Laye, votre installation électrique doit respecter la norme NF C 15-100 pour garantir votre sécurité et celle de votre famille. Mais combien coûte réellement une mise aux normes électriques dans les Yvelines ?
+
+## Qu'est-ce que la norme NF C 15-100 ?
+
+La norme NF C 15-100 est la référence française qui encadre les installations électriques dans l'habitat. Cette réglementation, régulièrement mise à jour, définit les règles de conception, de réalisation et d'entretien des installations électriques basse tension.
+
+Cette norme impose notamment un nombre minimal de prises de courant par pièce, l'installation d'un différentiel 30mA, la mise à la terre obligatoire et l'utilisation de matériaux certifiés. Pour les logements anciens de Poissy ou des Mureaux, une mise en conformité s'avère souvent nécessaire.
+
+Le respect de cette norme n'est pas qu'une obligation légale. Elle garantit votre sécurité face aux risques d'électrocution, d'incendie et de surtension. De plus, une installation aux normes est exigée pour la vente d'un bien immobilier et peut être demandée par votre assurance habitation.
+
+## Les signes qui indiquent une mise aux normes nécessaire
+
+Plusieurs éléments peuvent vous alerter sur la nécessité de remettre aux normes votre installation électrique. Un tableau électrique avec des fusibles à vis plutôt que des disjoncteurs différentiels constitue le premier signal d'alarme.
+
+L'absence de prises de terre, des prises de courant en nombre insuffisant ou des fils électriques apparents dans les pièces d'eau sont autant d'indices d'une installation vétuste. Si votre logement à Conflans-Sainte-Honorine ou Sartrouville date d'avant 1991, il y a de fortes chances que l'électricité ne soit plus aux normes.
+
+Les disjonctions fréquentes, l'échauffement anormal des prises ou des odeurs de brûlé doivent vous inciter à faire appel rapidement à un électricien qualifié. Ces symptômes peuvent révéler des défauts dangereux nécessitant une intervention urgente.
+
+## Coût du remplacement d'un tableau électrique dans les Yvelines
+
+Le tableau électrique constitue souvent le cœur de la mise aux normes. Son remplacement représente généralement l'investissement principal de votre projet de rénovation électrique.
+
+Pour un logement de 60 à 80 m² typique des Yvelines, comptez entre 1200 et 2000 euros pour un nouveau tableau électrique avec disjoncteurs différentiels et parafoudre. Ce prix inclut la fourniture du matériel certifié et la main-d'œuvre d'un professionnel qualifié.
+
+Dans une maison plus grande de 100 à 150 m², le coût grimpe entre 1800 et 3200 euros selon la complexité de l'installation et le nombre de circuits à prévoir. Ces tarifs correspondent aux pratiques observées à Gargenville et dans l'ensemble du département des Yvelines.
+
+Il faut ajouter à ces montants les éventuels travaux de mise en conformité des circuits existants, qui peuvent représenter 50 à 150 euros par point lumineux ou prise de courant à modifier.
+
+## Prix d'une rénovation électrique complète
+
+Quand l'installation est trop vétuste, une rénovation électrique complète s'impose. Cette intervention lourde nécessite de reprendre l'ensemble du réseau électrique de votre logement.
+
+Pour un appartement de 70 m² à Mantes-la-Jolie, prévoyez un budget entre 4500 et 8000 euros pour une réfection totale incluant nouveau tableau, circuits, prises, interrupteurs et mise à la terre. Dans une maison individuelle de 120 m², l'investissement se situe plutôt entre 8000 et 15000 euros.
+
+Ces montants peuvent paraître conséquents, mais ils garantissent votre sécurité pour de nombreuses années. De plus, une installation électrique neuve valorise significativement votre bien immobilier et réduit vos consommations grâce à des équipements plus performants.
+
+## Facteurs influençant le coût de la mise aux normes
+
+Plusieurs éléments font varier le prix de votre mise aux normes électriques. L'état de l'installation existante constitue le premier critère : une maison des années 1960 à Poissy nécessitera plus de travaux qu'un logement des années 1990.
+
+La surface et la configuration du logement impactent directement le nombre de circuits à prévoir et donc le coût final. Un appartement en étage sera généralement moins cher à rénover qu'une maison sur plusieurs niveaux avec garage et dépendances.
+
+Le choix des équipements influence aussi la facture. Un tableau électrique haut de gamme avec domotique coûtera plus cher qu'un modèle standard, mais offrira plus de fonctionnalités et de confort d'usage.
+
+Enfin, l'accessibilité des circuits existants peut compliquer l'intervention. Si les câbles passent dans des cloisons ou des combles difficilement accessibles, la main-d'œuvre sera plus importante.
+
+## Aides financières disponibles
+
+La mise aux normes électriques peut bénéficier de certaines aides financières, notamment si elle s'inscrit dans un projet de rénovation énergétique global. L'ANAH propose des subventions pour les propriétaires aux revenus modestes souhaitant rénover leur logement.
+
+Certaines communes des Yvelines offrent des aides locales pour l'amélioration de l'habitat. Renseignez-vous auprès de votre mairie pour connaître les dispositifs disponibles dans votre secteur.
+
+La TVA réduite à 10% s'applique aux travaux d'amélioration dans les logements de plus de 2 ans, ce qui représente une économie non négligeable sur le coût total de votre mise aux normes.
+
+## Choisir son électricien dans les Yvelines
+
+La qualité de l'intervention dépend largement du choix de votre électricien. Privilégiez un professionnel qualifié, disposant des certifications nécessaires et d'une bonne connaissance de la norme NF C 15-100.
+
+Demandez systématiquement plusieurs devis détaillés pour comparer les prestations proposées. Méfiez-vous des tarifs anormalement bas qui cachent souvent des prestations de qualité douteuse ou des suppléments non annoncés.
+
+Vérifiez que l'électricien est bien assuré pour ses interventions et qu'il pourra vous fournir une attestation de conformité en fin de travaux. Ce document est indispensable pour votre assurance et en cas de revente.
+
+Chez CHARRIERE SARL, nous intervenons dans tout le secteur de Gargenville et des communes environnantes pour vos projets de mise aux normes électriques. Notre équipe qualifiée vous accompagne de l'établissement du diagnostic jusqu'à la remise de l'attestation de conformité.
+
+Ne compromettez pas votre sécurité avec une installation électrique défaillante. Contactez-nous dès aujourd'hui pour un devis gratuit et personnalisé de votre mise aux normes électriques dans les Yvelines.`,
+  },
+  {
     slug: "agrandir-visuellement-piece-astuces-renovation-yvelines",
     title: "Comment Agrandir Visuellement une Pièce : 8 Astuces de Rénovation qui Fonctionnent",
     metaTitle: "Agrandir Visuellement une Pièce — Astuces Rénovation Yvelines | CHARRIERE SARL",
