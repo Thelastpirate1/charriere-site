@@ -15,6 +15,110 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "amenager-combles-yvelines-permis-isolation-budget",
+    title: "Aménager ses combles dans les Yvelines : guide complet 2026",
+    metaTitle: "Aménagement combles Yvelines — Permis, isolation, budget | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez comment aménager vos combles dans les Yvelines : permis, hauteur sous plafond, isolation, Velux. Budget détaillé et conseils d'artisan local.",
+    keywords: ["aménagement combles yvelines","permis combles 78","isolation combles gargenville","velux yvelines"],
+    excerpt:
+      "Guide complet pour aménager vos combles dans les Yvelines avec les démarches administratives, contraintes techniques et budgets 2026.",
+    publishedAt: "2026-04-17",
+    readTime: "8 min",
+    category: "Aménagement",
+    image: "/images/blog/amenager-combles-yvelines-permis-isolation-budget.webp",
+    imageAlt: "Aménager ses combles dans les Yvelines : guide complet 2026",
+    content: `L'aménagement de combles représente une solution idéale pour gagner de l'espace habitable sans déménager. Dans les Yvelines, où l'immobilier reste cher, cette option séduit de nombreux propriétaires de Gargenville, Mantes-la-Jolie, Poissy ou encore Saint-Germain-en-Laye. Cependant, ce projet nécessite de respecter certaines règles et contraintes techniques spécifiques.
+
+## Les démarches administratives pour aménager ses combles dans les Yvelines
+
+### Déclaration préalable ou permis de construire ?
+
+La nature des démarches dépend de l'ampleur de votre projet. Si vous aménagez des combles existants sans modification de la charpente ni création d'ouvertures, une simple déclaration préalable suffit généralement. Cette procédure concerne les projets créant entre 5 et 20 m² de surface de plancher.
+
+En revanche, si votre aménagement crée plus de 20 m² de surface habitable ou nécessite une surélévation de toiture, un permis de construire devient obligatoire. Cette règle s'applique dans toutes les communes des Yvelines, que vous habitiez Les Mureaux, Conflans-Sainte-Honorine ou Sartrouville.
+
+### Contraintes spécifiques aux Yvelines
+
+Les communes du département appliquent souvent des règles strictes concernant l'aspect extérieur des habitations. À Saint-Germain-en-Laye par exemple, les contraintes architecturales peuvent limiter le type de Velux autorisé. Il convient de consulter le Plan Local d'Urbanisme de votre commune avant de débuter les travaux.
+
+Certaines zones protégées ou classées imposent des matériaux spécifiques pour la couverture ou les ouvertures. Ces contraintes influencent directement le budget et les délais de votre projet d'aménagement.
+
+## Hauteur sous plafond : la contrainte technique majeure
+
+### Respecter les normes d'habitabilité
+
+Pour qu'un comble soit considéré comme habitable, la hauteur sous plafond doit atteindre au minimum 1,80 mètre sur au moins la moitié de la surface. Cette règle détermine la faisabilité technique de votre projet.
+
+Dans les maisons traditionnelles des Yvelines, construites pour la plupart au XXe siècle, cette condition est généralement remplie. Cependant, une étude précise s'impose pour optimiser l'aménagement et éviter les mauvaises surprises.
+
+### Solutions pour gagner en hauteur
+
+Si la hauteur sous plafond s'avère insuffisante, plusieurs solutions existent. La surélévation partielle de toiture permet de gagner quelques centimètres précieux. Cette technique, couramment utilisée à Gargenville et dans les communes limitrophes, nécessite l'intervention d'un charpentier expérimenté.
+
+L'abaissement du plancher constitue une autre option, plus complexe mais parfois nécessaire. Cette intervention modifie la structure du bâtiment et requiert une étude approfondie de la faisabilité.
+
+## L'isolation des combles : enjeu énergétique et confort
+
+### Choisir les bons matériaux
+
+L'isolation représente un poste crucial dans l'aménagement de combles. Dans les Yvelines, où les hivers peuvent être rigoureux, une isolation performante garantit le confort thermique et limite les dépenses énergétiques.
+
+La laine de verre reste le matériau le plus utilisé, offrant un bon rapport qualité-prix. Pour une isolation de 200 mm d'épaisseur, comptez environ 15 à 20 euros par mètre carré. La laine de roche, légèrement plus chère, présente de meilleures performances acoustiques.
+
+Les isolants naturels comme la ouate de cellulose ou la fibre de bois séduisent de plus en plus de propriétaires soucieux d'écologie. Leur prix, entre 25 et 35 euros le mètre carré, reste acceptable compte tenu de leurs performances.
+
+### Traiter les ponts thermiques
+
+L'isolation des combles nécessite une attention particulière aux ponts thermiques. Ces zones de déperdition se situent généralement au niveau des rampants, des murs pignons et des liaisons plancher-mur.
+
+Une isolation continue, sans rupture, garantit l'efficacité énergétique de l'aménagement. Cette exigence technique justifie le recours à un professionnel expérimenté, capable d'identifier et de traiter ces points sensibles.
+
+## L'installation de Velux : apporter lumière et aération
+
+### Dimensionner correctement les ouvertures
+
+Les fenêtres de toit Velux transforment l'ambiance des combles aménagés. La surface vitrée doit représenter au minimum 10 % de la surface au sol pour garantir un éclairage naturel suffisant.
+
+Pour un comble de 30 m², prévoyez donc au moins 3 m² de surface vitrée, soit deux Velux de dimensions standard. Cette règle assure un confort visuel optimal dans votre nouvel espace de vie.
+
+### Budget Velux dans les Yvelines
+
+Le prix d'un Velux varie selon ses dimensions et ses performances. Un modèle standard de 78x98 cm coûte entre 300 et 500 euros, pose comprise. Les versions motorisées ou à triple vitrage atteignent 800 à 1200 euros.
+
+L'installation nécessite une découpe précise de la couverture et une étanchéité parfaite. Cette intervention technique justifie le recours à un couvreur qualifié, familier des contraintes locales des Yvelines.
+
+## Budget détaillé pour aménager ses combles
+
+### Fourchette de prix au mètre carré
+
+L'aménagement de combles dans les Yvelines coûte généralement entre 500 et 1500 euros par mètre carré, selon le niveau de finition souhaité. Cette fourchette inclut l'isolation, le cloisonnement, l'électricité et les finitions de base.
+
+Pour un aménagement haut de gamme avec parquet massif, salle de bain complète et dressing sur mesure, le budget peut atteindre 2000 euros le mètre carré. Ces tarifs reflètent le coût de la main-d'œuvre qualifiée dans le département.
+
+### Détail des postes de dépenses
+
+L'isolation représente environ 20 % du budget total, soit 100 à 300 euros par mètre carré selon les matériaux choisis. Le cloisonnement et l'habillage des rampants comptent pour 25 % des coûts, entre 125 et 375 euros le mètre carré.
+
+L'électricité et la plomberie pèsent lourd dans le budget, surtout si vous créez une salle de bain. Comptez 80 à 150 euros par mètre carré pour l'électricité, et 200 à 400 euros pour la plomberie d'une salle d'eau.
+
+## Choisir son artisan dans les Yvelines
+
+### L'importance du savoir-faire local
+
+L'aménagement de combles nécessite une expertise technique pointue et une connaissance des spécificités locales. Un artisan des Yvelines maîtrise les contraintes climatiques, les règles d'urbanisme et les techniques de construction traditionnelles du département.
+
+Cette connaissance locale se révèle précieuse lors des démarches administratives ou pour respecter les contraintes architecturales des communes comme Poissy ou Mantes-la-Jolie.
+
+### Vérifier les qualifications
+
+Privilégiez un artisan certifié RGE (Reconnu Garant de l'Environnement) pour bénéficier des aides financières disponibles. Cette qualification garantit également la qualité des travaux d'isolation, essentiels pour le confort de vos combles aménagés.
+
+N'hésitez pas à demander des références de chantiers similaires dans les Yvelines. Un professionnel sérieux dispose d'un portfolio de réalisations dans le secteur de Gargenville, Conflans-Sainte-Honorine ou Saint-Germain-en-Laye.
+
+L'aménagement de combles transforme votre habitation en créant un espace de vie supplémentaire. Ce projet, technique et réglementé, mérite l'accompagnement d'un professionnel expérimenté. CHARRIERE SARL, fort de son expérience dans les Yvelines, vous accompagne de la conception à la réalisation de votre projet d'aménagement. Contactez-nous dès aujourd'hui pour obtenir votre devis gratuit et personnalisé.`,
+  },
+  {
     slug: "electricite-aux-normes-cout-mise-conformite-yvelines",
     title: "Électricité aux normes : combien coûte une mise en conformité dans les Yvelines ?",
     metaTitle: "Mise aux normes électriques NF C 15-100 : prix Yvelines | CHARRIERE SARL",
