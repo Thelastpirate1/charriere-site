@@ -15,6 +15,84 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "verriere-interieure-tendance-luminosite-prix-pose-yvelines",
+    title: "Verrière intérieure : pourquoi c'est LA tendance déco 2026 dans les Yvelines",
+    metaTitle: "Verrière intérieure tendance 2026 — Prix pose artisan Yvelines | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez pourquoi la verrière intérieure cartonne en 2026. Avantages luminosité, prix pose, style atelier pour pavillons Gargenville, Mantes-la-Jolie.",
+    keywords: ["verrière intérieure","pose verrière Yvelines","style atelier pavillon","luminosité maison","prix verrière artisan"],
+    excerpt:
+      "La verrière intérieure s'impose comme l'élément déco incontournable de 2026. Découvrez ses avantages et le prix d'une pose par un artisan dans les Yvelines.",
+    publishedAt: "2026-04-18",
+    readTime: "6 min",
+    category: "Aménagement",
+    image: "/images/blog/verriere-interieure-tendance-luminosite-prix-pose-yvelines.webp",
+    imageAlt: "Verrière intérieure : pourquoi c'est LA tendance déco 2026 dans les Yvelines",
+    content: `La verrière intérieure connaît un succès fulgurant en 2026, particulièrement dans les pavillons des Yvelines. À Gargenville, Mantes-la-Jolie ou encore Poissy, de nombreux propriétaires adoptent cette solution design pour transformer leur intérieur. Mais qu'est-ce qui explique cet engouement pour cette cloison transparente au style industriel ?
+
+Ce phénomène s'explique par la recherche constante de luminosité et d'espace dans nos maisons. La verrière intérieure répond parfaitement à ces besoins tout en apportant une esthétique moderne et élégante. Elle permet de créer des espaces distincts sans cloisonner complètement, une solution idéale pour les pavillons des années 70-80 typiques de Conflans-Sainte-Honorine ou Les Mureaux.
+
+## La révolution lumineuse de la verrière intérieure
+
+Le principal atout de la verrière intérieure réside dans sa capacité à faire circuler la lumière naturelle dans toute la maison. Dans les pavillons des Yvelines, souvent organisés autour d'un couloir central sombre, l'installation d'une verrière entre la cuisine et le salon transforme complètement l'ambiance.
+
+La lumière qui pénètre par les fenêtres du salon peut désormais éclairer la cuisine, créant une sensation d'espace et de bien-être. Cette circulation lumineuse est particulièrement appréciée dans les maisons orientées nord-sud, courantes à Sartrouville ou Saint-Germain-en-Laye, où certaines pièces manquent naturellement de clarté.
+
+L'effet psychologique de cette luminosité supplémentaire ne doit pas être sous-estimé. Les espaces paraissent plus grands, plus aérés et plus accueillants. C'est exactement ce que recherchent les propriétaires qui souhaitent moderniser leur pavillon sans entreprendre de lourds travaux de restructuration.
+
+## L'esprit atelier s'invite dans les pavillons yvelinois
+
+Le style industriel et l'esprit atelier séduisent particulièrement les habitants des Yvelines en 2026. La verrière intérieure apporte cette touche d'authenticité et de caractère qui manque parfois aux constructions standardisées des décennies passées.
+
+Cette tendance s'adapte parfaitement aux pavillons des années 80-90 de Gargenville ou Mantes-la-Jolie. La structure métallique noire de la verrière contraste élégamment avec les murs blancs et crée un point focal architectural fort. Elle permet de personnaliser un intérieur tout en conservant les volumes existants.
+
+L'aspect pratique n'est pas en reste. La verrière offre une séparation visuelle entre les espaces tout en maintenant une continuité acoustique et olfactive. Idéal pour surveiller les enfants qui jouent dans le salon depuis la cuisine ou pour rester en contact avec ses invités pendant la préparation des repas.
+
+Dans les maisons ouvertes sur jardin typiques de Poissy ou Les Mureaux, la verrière intérieure fait écho aux baies vitrées extérieures et crée une harmonie architecturale très recherchée.
+
+## Prix et budget pour une verrière sur mesure
+
+Le coût d'une verrière intérieure varie considérablement selon les dimensions, les matériaux et la complexité de la pose. En 2026, dans les Yvelines, comptez entre 400 et 800 euros le mètre carré pour une verrière de qualité, pose comprise.
+
+Pour une verrière standard de 3 mètres sur 2,5 mètres séparant cuisine et salon, le budget se situe généralement entre 3000 et 6000 euros. Cette fourchette inclut la fourniture d'une structure en acier thermolaqué avec verres sécurit, ainsi que la pose par un artisan qualifié.
+
+Les facteurs qui influencent le prix incluent le type d'ouverture souhaité. Une verrière fixe coûte moins cher qu'un modèle avec porte ou ouvrants. La qualité du vitrage joue également un rôle important. Un double vitrage phonique, recommandé entre cuisine et chambre, représente un surcoût de 20 à 30 pour cent.
+
+Les finitions personnalisées comme une peinture couleur spécifique ou des détails décoratifs supplémentaires peuvent augmenter la facture de 500 à 1000 euros. Cependant, cet investissement se justifie par la plus-value apportée à votre bien immobilier, particulièrement appréciée sur le marché immobilier des Yvelines.
+
+## L'importance cruciale d'un artisan qualifié
+
+La pose d'une verrière intérieure nécessite des compétences techniques précises que seul un artisan expérimenté maîtrise parfaitement. Les enjeux de sécurité, d'étanchéité et d'esthétique ne tolèrent aucun approximation.
+
+Un professionnel qualifié commence par analyser la structure existante de votre pavillon. Dans les constructions des années 70-80 fréquentes à Conflans-Sainte-Honorine, certaines cloisons peuvent être porteuses. L'artisan détermine alors les renforts nécessaires et adapte la pose en conséquence.
+
+La prise de mesures constitue une étape critique. Un millimètre d'erreur peut compromettre l'étanchéité ou l'esthétique finale. L'artisan expérimenté anticipe les déformations du bâti et ajuste ses mesures pour garantir un résultat parfait.
+
+La pose elle-même requiert un outillage spécialisé et une parfaite connaissance des techniques d'assemblage. La fixation de la structure métallique doit répartir les charges correctement, tandis que l'installation du vitrage demande une précision millimétrique.
+
+## Choisir l'emplacement idéal dans votre pavillon
+
+L'emplacement de votre verrière détermine son efficacité et son impact décoratif. Dans les pavillons typiques des Yvelines, plusieurs configurations se révèlent particulièrement réussies.
+
+La séparation cuisine-salon reste la plus populaire à Gargenville et Mantes-la-Jolie. Elle crée un espace de vie ouvert tout en délimitant visuellement les zones. Cette configuration fonctionne parfaitement dans les maisons des années 80 où la cuisine était initialement fermée.
+
+L'installation d'une verrière entre l'entrée et le salon apporte également d'excellents résultats. Elle permet de créer un sas d'entrée élégant tout en conservant la luminosité du salon principal. Cette solution séduit particulièrement les propriétaires de Poissy ou Saint-Germain-en-Laye soucieux de préserver l'intimité de leur espace de vie.
+
+Pour les maisons à étage, la verrière sur demi-cloison au niveau de l'escalier offre une solution originale. Elle apporte de la lumière aux étages tout en créant un élément architectural remarquable visible depuis le rez-de-chaussée.
+
+## Entretien et durabilité de votre verrière
+
+Une verrière intérieure bien conçue et correctement posée traverse les années sans difficultés majeures. La structure métallique thermolaquée résiste parfaitement à l'humidité et aux variations de température des maisons des Yvelines.
+
+L'entretien se limite principalement au nettoyage des vitres, opération simple avec les bons produits. Un nettoyage mensuel avec un produit adapté au vitrage suffit pour conserver la transparence optimale et l'effet lumineux recherché.
+
+La longévité exceptionnelle de cet aménagement en fait un investissement particulièrement rentable. Contrairement aux cloisons traditionnelles qui peuvent nécessiter des rénovations régulières, la verrière conserve son aspect neuf pendant des décennies.
+
+Cette durabilité explique en partie l'engouement des propriétaires de Sartrouville ou Les Mureaux pour cette solution d'aménagement. Elle représente un choix économique et écologique pour moderniser son intérieur durablement.
+
+La verrière intérieure s'impose donc comme l'aménagement tendance de 2026 dans les Yvelines. Elle répond parfaitement aux besoins de luminosité, d'espace et de modernité des propriétaires de pavillons. CHARRIERE SARL, fort de son expérience dans la rénovation intérieure à Gargenville et dans les Yvelines, vous accompagne dans la réalisation de votre projet de verrière sur mesure. N'hésitez pas à nous contacter pour un devis gratuit et des conseils personnalisés adaptés à votre habitation.`,
+  },
+  {
     slug: "amenager-combles-yvelines-permis-isolation-budget",
     title: "Aménager ses combles dans les Yvelines : guide complet 2026",
     metaTitle: "Aménagement combles Yvelines — Permis, isolation, budget | CHARRIERE SARL",
