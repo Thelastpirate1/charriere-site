@@ -15,6 +15,94 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renovation-appartement-neuf-livre-brut-etapes-finitions",
+    title: "Rénovation d'un appartement neuf livré brut : que faire en priorité ?",
+    metaTitle: "Appartement Neuf Brut : Étapes de Finition après Promoteur | CHARRIERE SARL",
+    metaDescription:
+      "Votre appartement neuf est livré brut ? Découvrez les étapes essentielles de finition, les priorités et le budget à prévoir dans les Yvelines.",
+    keywords: ["appartement neuf brut","finition appartement neuf","rénovation appartement livré brut","travaux finition Yvelines"],
+    excerpt:
+      "Un appartement neuf livré brut nécessite de nombreuses finitions avant d'être habitable. Voici les étapes prioritaires et le budget à prévoir.",
+    publishedAt: "2026-04-20",
+    readTime: "6 min",
+    category: "Rénovation",
+    image: "/images/blog/renovation-appartement-neuf-livre-brut-etapes-finitions.webp",
+    imageAlt: "Rénovation d'un appartement neuf livré brut : que faire en priorité ?",
+    content: `L'achat d'un appartement neuf livré brut dans les Yvelines représente souvent un excellent investissement, particulièrement dans des communes comme Gargenville, Mantes-la-Jolie ou Saint-Germain-en-Laye. Cependant, ce type de bien nécessite des travaux de finition conséquents avant de pouvoir y emménager. CHARRIERE SARL vous guide à travers les étapes essentielles pour transformer votre logement brut en un véritable cocon.
+
+## Qu'est-ce qu'un appartement livré brut ?
+
+Un appartement livré brut signifie que le promoteur a réalisé uniquement le gros œuvre et les équipements de base. Concrètement, vous disposez des murs, de la plomberie et de l'électricité aux normes, mais sans aucune finition. Les sols sont en béton brut, les murs en parpaings ou plaques de plâtre non peints, et les équipements sanitaires ne sont pas installés.
+
+Cette formule, courante dans le neuf, permet aux acquéreurs de personnaliser entièrement leur logement tout en bénéficiant de prix d'achat plus attractifs. Dans les Yvelines, notamment à Poissy ou aux Mureaux, de nombreux programmes neufs proposent cette option.
+
+## Les étapes prioritaires de finition
+
+### 1. L'électricité et la plomberie complémentaire
+
+Bien que les réseaux principaux soient installés, il faut souvent compléter l'installation électrique selon vos besoins spécifiques. Prévoyez l'ajout de prises supplémentaires, l'installation de l'éclairage et des équipements spécialisés comme la VMC.
+
+Pour la plomberie, il s'agit principalement d'installer les équipements sanitaires : lavabos, WC, douche ou baignoire. Cette étape nécessite l'intervention d'un professionnel qualifié pour garantir la conformité aux normes.
+
+Budget moyen : 3 000 à 6 000 euros selon la superficie et les équipements choisis.
+
+### 2. Les revêtements de sol
+
+Le choix des revêtements de sol constitue une étape cruciale qui impactera l'esthétique et le confort de votre appartement. Parquet, carrelage, sol PVC, les options sont nombreuses et doivent être adaptées à chaque pièce.
+
+Pour un appartement de 70 m² dans les Yvelines, comptez entre 2 500 et 8 000 euros selon les matériaux choisis. Le carrelage reste l'option la plus économique pour les pièces humides, while le parquet apporte une touche chaleureuse aux pièces de vie.
+
+### 3. Les revêtements muraux et peinture
+
+Les murs bruts nécessitent une préparation soignée avant l'application de la peinture ou du papier peint. Cette étape comprend l'enduit de lissage, le ponçage et l'application d'une sous-couche.
+
+La peinture représente souvent le poste budgétaire le plus accessible pour transformer radicalement l'aspect de votre logement. Pour un appartement de taille moyenne, prévoyez entre 1 500 et 3 500 euros pour une peinture de qualité professionnelle.
+
+## Budget global et planification financière
+
+### Estimation des coûts par pièce
+
+Pour une cuisine de 12 m², les travaux de finition oscillent entre 5 000 et 15 000 euros selon le niveau d'équipement souhaité. Cette fourchette inclut les revêtements, l'électroménager de base et les finitions.
+
+Une salle de bain de 6 m² nécessite un investissement de 3 000 à 8 000 euros, comprenant la faïence, les sanitaires et les équipements de base comme la ventilation.
+
+Pour les pièces de vie, comptez environ 150 à 400 euros par m² selon le niveau de finition désiré.
+
+### Échelonnement des travaux
+
+L'ordre des travaux revêt une importance capitale pour optimiser les coûts et éviter les malfaçons. CHARRIERE SARL recommande de commencer par les travaux techniques (électricité, plomberie), puis les revêtements de sol, et enfin la peinture et les finitions décoratives.
+
+Cette approche permet également d'échelonner les dépenses sur plusieurs mois, facilitant la gestion budgétaire. À Conflans-Sainte-Honorine comme à Sartrouville, nos clients apprécient cette flexibilité dans la planification des travaux.
+
+## Les pièges à éviter
+
+### Négliger les normes et réglementations
+
+Même dans un appartement neuf, certaines modifications peuvent nécessiter des déclarations préalables. Il est essentiel de vérifier auprès de la mairie de votre commune des Yvelines les éventuelles contraintes réglementaires.
+
+Les normes électriques et de plomberie doivent être scrupuleusement respectées pour garantir la sécurité et la conformité de votre installation.
+
+### Sous-estimer les délais
+
+Les travaux de finition dans un appartement brut nécessitent généralement 2 à 4 mois selon l'ampleur des aménagements. Il convient d'anticiper ces délais, particulièrement si vous avez prévu une date d'emménagement précise.
+
+### Faire l'impasse sur l'isolation phonique
+
+Bien que l'isolation soit généralement conforme dans le neuf, l'ajout d'une isolation phonique complémentaire peut considérablement améliorer votre confort de vie, surtout dans les zones urbaines denses des Yvelines.
+
+## L'accompagnement professionnel : un investissement rentable
+
+Faire appel à un artisan expérimenté comme CHARRIERE SARL présente de nombreux avantages. Notre connaissance du marché local des Yvelines nous permet de vous orienter vers les meilleures solutions techniques et esthétiques pour votre budget.
+
+Nous coordonnons l'ensemble des corps de métier nécessaires à la finition de votre appartement, vous faisant gagner un temps précieux et vous évitant les complications liées à la gestion de multiples intervenants.
+
+Notre expertise nous permet également de vous conseiller sur les priorités d'aménagement selon votre mode de vie et votre budget, optimisant ainsi votre investissement.
+
+La rénovation d'un appartement neuf livré brut représente une opportunité unique de créer un logement parfaitement adapté à vos besoins. Avec une planification rigoureuse et l'accompagnement de professionnels qualifiés, votre projet de finition se déroulera dans les meilleures conditions.
+
+Vous venez d'acquérir un appartement neuf brut dans les Yvelines ? CHARRIERE SARL vous accompagne dans toutes les étapes de finition de votre logement. Contactez-nous dès aujourd'hui pour un devis gratuit et personnalisé, et transformons ensemble votre appartement brut en un véritable chez-vous.`,
+  },
+  {
     slug: "preparer-chantier-renovation-conseils-artisan",
     title: "Comment bien préparer son chantier de rénovation : les conseils de l'artisan",
     metaTitle: "Préparer son Chantier de Rénovation — Guide Complet | CHARRIERE SARL",
