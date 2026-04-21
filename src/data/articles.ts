@@ -15,6 +15,94 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "faience-murale-cuisine-tendances-pose-mantes-la-jolie",
+    title: "Faïence Murale Cuisine : Tendances 2026 et Techniques de Pose",
+    metaTitle: "Faïence Murale Cuisine — Tendances & Pose Zellige Métro | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les tendances faïence cuisine 2026 : zellige, métro, grand format. Prix, techniques de pose par nos artisans à Mantes-la-Jolie et Yvelines.",
+    keywords: ["faience-murale-cuisine","pose-carrelage-mural-cuisine","zellige-cuisine","carrelage-metro-cuisine","faience-grand-format","artisan-carreleur-mantes"],
+    excerpt:
+      "Guide complet des tendances faïence murale cuisine 2026 avec prix et techniques de pose professionnelles dans les Yvelines.",
+    publishedAt: "2026-04-21",
+    readTime: "6 min",
+    category: "Cuisine",
+    image: "/images/blog/faience-murale-cuisine-tendances-pose-mantes-la-jolie.webp",
+    imageAlt: "Faïence Murale Cuisine : Tendances 2026 et Techniques de Pose",
+    content: `La faïence murale transforme radicalement l'ambiance d'une cuisine. En 2026, trois tendances dominent le marché de la rénovation dans les Yvelines : le zellige artisanal, le carrelage métro revisité et les formats XXL. Chacune de ces options présente des spécificités techniques et esthétiques qui méritent une approche professionnelle.
+
+## Le Zellige : L'Élégance Artisanale en Cuisine
+
+Le zellige fait sensation dans les cuisines de Mantes-la-Jolie et des communes environnantes. Cette faïence marocaine artisanale séduit par ses irrégularités naturelles et ses reflets changeants selon la lumière.
+
+### Caractéristiques du Zellige
+
+Le zellige authentique présente une surface légèrement bombée avec des variations de teintes subtiles. Chaque carreau, façonné à la main, mesure généralement 5x5 cm ou 10x10 cm. Sa pose nécessite une expertise particulière car les épaisseurs peuvent varier légèrement d'un carreau à l'autre.
+
+Les couleurs traditionnelles incluent le blanc pur, le vert bouteille, le bleu cobalt et les tons terre. Pour une cuisine moderne à Poissy ou Saint-Germain-en-Laye, les nuances neutres comme le beige rosé ou le gris perle créent une atmosphère chaleureuse sans surcharger l'espace.
+
+### Prix et Pose du Zellige
+
+Le coût du zellige varie entre 45 et 85 euros le mètre carré fourni posé, selon la qualité et la provenance. La pose représente 40% du prix total car elle demande une grande précision. Le support doit être parfaitement plan, et l'utilisation d'une colle spéciale carrelage mural est indispensable.
+
+La technique de pose CHARRIERE SARL privilégie un joint fin de 2 à 3 mm maximum pour respecter l'esthétique traditionnelle. Le temps de séchage prolongé du zellige impose un planning de chantier adapté, généralement étalé sur trois jours pour une crédence standard.
+
+## Le Carrelage Métro : Un Classique Réinventé
+
+Le carrelage métro traverse les époques en se réinventant constamment. Dans les cuisines des Mureaux ou de Conflans-Sainte-Honorine, il apporte une touche vintage-chic particulièrement appréciée.
+
+### Évolutions Contemporaines du Métro
+
+Le format traditionnel 7,5x15 cm évolue vers des dimensions plus généreuses : 10x20 cm ou 15x30 cm. Ces nouveaux formats allongent visuellement l'espace et facilitent l'entretien quotidien. Les finitions se diversifient également : brillant classique, mat contemporain, ou relief subtil.
+
+La pose en quinconce reste la plus populaire, mais les poses verticales ou en chevron gagnent du terrain. À Sartrouville, nous observons une préférence marquée pour la pose verticale qui élance les petites cuisines.
+
+### Techniques de Pose Spécifiques
+
+La pose du métro demande une attention particulière à l'alignement. L'utilisation de croisillons adaptés garantit la régularité des joints. Pour un rendu professionnel, le démarrage doit s'effectuer par une ligne de niveau parfaitement tracée.
+
+Le coût moyen s'établit entre 25 et 45 euros le mètre carré posé, selon la qualité du carreau et la complexité de la pose. Les angles et découpes autour des prises électriques nécessitent un outillage professionnel pour éviter les éclats.
+
+## Faïence Grand Format : La Modernité Épurée
+
+Les carreaux grand format révolutionnent l'esthétique des cuisines modernes. Formats 30x90 cm, 40x120 cm ou même 60x120 cm créent des surfaces continues spectaculaires.
+
+### Avantages du Grand Format
+
+Moins de joints signifie moins d'entretien et une esthétique plus épurée. Dans une cuisine ouverte à Gargenville, un grand format imitation marbre ou béton ciré peut unifier visuellement l'espace avec le séjour.
+
+La pose grand format exige une planéité parfaite du support. Toute irrégularité se répercute sur l'alignement général. L'utilisation de plots de nivellement devient indispensable pour garantir un résultat impeccable.
+
+### Prix et Contraintes Techniques
+
+Le prix oscille entre 35 et 75 euros le mètre carré posé. La manipulation de carreaux lourds nécessite deux personnes et un équipement adapté. Les découpes se réalisent uniquement avec un matériel professionnel pour éviter les casses coûteuses.
+
+Le temps de pose s'allonge comparé aux formats traditionnels, mais le résultat final justifie cet investissement temporel supplémentaire.
+
+## Préparation du Support : Étape Cruciale
+
+Quelle que soit la faïence choisie, la préparation du support conditionne la durabilité de l'installation. Dans les maisons anciennes des Yvelines, cette étape prend une importance particulière.
+
+### Diagnostic et Préparation
+
+L'évaluation de l'ancien revêtement détermine la stratégie d'intervention. Peinture écaillée, ancien carrelage décollé ou mur humide nécessitent des traitements spécifiques avant la pose.
+
+L'application d'un primaire d'accrochage améliore considérablement l'adhérence de la colle. Cette étape, souvent négligée par les bricoleurs, représente pourtant 20% du succès de l'installation.
+
+### Étanchéité et Points Sensibles
+
+Les zones autour de l'évier et de la plaque de cuisson demandent une attention renforcée. L'utilisation de joints silicone alimentaire aux angles garantit une étanchéité durable.
+
+Les passages de gaines électriques nécessitent des découpes précises et une étanchéité parfaite pour éviter les infiltrations d'eau ou de graisse.
+
+## Entretien et Durabilité
+
+Chaque type de faïence demande un entretien adapté pour conserver son aspect d'origine. Le zellige nécessite des produits doux non acides, tandis que la faïence brillante supporte les nettoyants classiques.
+
+Les joints, points faibles de tout carrelage mural, bénéficient d'un traitement hydrofuge annuel pour préserver leur couleur et leur étanchéité.
+
+CHARRIERE SARL intervient dans tout le secteur de Mantes-la-Jolie pour la pose de faïence murale de cuisine. Notre expertise technique garantit un résultat durable et esthétique, adapté à votre budget et à vos goûts. Contactez-nous pour un devis gratuit et personnalisé de votre projet de rénovation.`,
+  },
+  {
     slug: "renovation-appartement-neuf-livre-brut-etapes-finitions",
     title: "Rénovation d'un appartement neuf livré brut : que faire en priorité ?",
     metaTitle: "Appartement Neuf Brut : Étapes de Finition après Promoteur | CHARRIERE SARL",
