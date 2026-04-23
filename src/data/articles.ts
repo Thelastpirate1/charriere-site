@@ -15,6 +15,116 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "devis-detaille-travaux-renovation-conseils-artisan",
+    title: "Pourquoi faire un devis détaillé avant vos travaux de rénovation ?",
+    metaTitle: "Devis Détaillé Travaux — Conseils Artisan Yvelines | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez pourquoi un devis détaillé est essentiel avant vos travaux. Conseils d'artisan pour éviter les arnaques et bien préparer votre projet dans les Yvelines.",
+    keywords: ["devis détaillé travaux","devis rénovation Yvelines","conseils artisan Gargenville","devis travaux Mantes-la-Jolie"],
+    excerpt:
+      "Un devis détaillé est la clé d'un projet de rénovation réussi. Découvrez nos conseils d'artisan pour bien préparer vos travaux et éviter les mauvaises surprises.",
+    publishedAt: "2026-04-23",
+    readTime: "6 min",
+    category: "Rénovation",
+    image: "/images/blog/devis-detaille-travaux-renovation-conseils-artisan.webp",
+    imageAlt: "Pourquoi faire un devis détaillé avant vos travaux de rénovation ?",
+    content: `En tant qu'artisan expérimenté dans les Yvelines, je rencontre régulièrement des clients qui ont vécu de mauvaises expériences avec des travaux mal préparés. La plupart du temps, ces déconvenues auraient pu être évitées avec un devis détaillé et bien étudié en amont.
+
+Le devis détaillé n'est pas qu'une simple formalité administrative. C'est le fondement de votre projet de rénovation, que vous habitiez à Gargenville, Mantes-la-Jolie ou dans toute autre commune des Yvelines. Il vous protège, vous informe et vous permet de faire les bons choix pour votre budget.
+
+## L'importance capitale du devis détaillé
+
+### Une protection juridique indispensable
+
+Le devis détaillé constitue avant tout un document contractuel qui vous protège légalement. Pour tous travaux dépassant 150 euros, l'artisan a l'obligation légale de vous fournir un devis écrit. Ce document doit être signé par les deux parties avant le début des travaux.
+
+Chez CHARRIERE SARL, nous établissons systématiquement des devis détaillés pour nos clients de Poissy, Les Mureaux et de toute la région. Cette démarche nous permet d'instaurer une relation de confiance dès le départ et d'éviter tout malentendu.
+
+### Une vision claire de votre investissement
+
+Un devis bien rédigé vous permet de comprendre exactement où va votre argent. Chaque poste de dépense doit être clairement identifié : matériaux, main d'œuvre, déplacements, évacuation des gravats. Cette transparence vous aide à comparer les offres et à négocier si nécessaire.
+
+Pour une rénovation de cuisine complète dans les Yvelines, par exemple, le devis doit détailler le coût des meubles (entre 3000 et 15000 euros selon la gamme), de l'électroménager (2000 à 8000 euros), de la plomberie (800 à 2000 euros) et de la main d'œuvre (40 à 60 euros de l'heure).
+
+### Un planning réaliste des interventions
+
+Le devis détaillé doit mentionner les délais d'exécution de chaque étape. Cette information est cruciale pour organiser votre quotidien, surtout si vous restez dans le logement pendant les travaux. Les délais doivent être réalistes : une salle de bain complète nécessite généralement 10 à 15 jours ouvrés, une cuisine entre 15 et 25 jours selon la complexité.
+
+## Les éléments indispensables à vérifier
+
+### Les informations légales obligatoires
+
+Tout devis sérieux doit comporter certaines mentions obligatoires. Vérifiez la présence du numéro SIRET de l'entreprise, son adresse complète, et la mention de son assurance responsabilité civile professionnelle. Pour les artisans du bâtiment, la garantie décennale est également obligatoire.
+
+Assurez-vous que l'entreprise est bien domiciliée dans votre région. Un artisan basé à Saint-Germain-en-Laye ou Conflans-Sainte-Honorine sera plus facilement joignable qu'une entreprise située à l'autre bout de la France.
+
+### Le détail des matériaux et fournitures
+
+Chaque matériau doit être précisément décrit : marque, référence, quantité, qualité. Un devis qui mentionne simplement "carrelage" sans autre précision doit vous alerter. Exigez des références précises comme "Carrelage grès cérame Porcelanosa série Bottega 60x60 cm antidérapant R10".
+
+Les prix unitaires doivent également apparaître. Cela vous permet de vérifier la cohérence des tarifs et de détecter d'éventuelles erreurs de calcul.
+
+### La main d'œuvre détaillée
+
+Le coût de la main d'œuvre doit être clairement séparé de celui des matériaux. Dans la région de Sartrouville et des Yvelines, comptez entre 35 et 65 euros de l'heure selon la spécialité de l'artisan. Un plombier-chauffagiste sera généralement plus cher qu'un peintre.
+
+Le nombre d'heures prévu pour chaque tâche doit être indiqué. Cette information vous permet de comprendre la répartition du coût total et d'évaluer le sérieux de l'artisan.
+
+## Les pièges et arnaques à éviter absolument
+
+### La démarchage à domicile agressif
+
+Méfiez-vous des démarcheurs qui sonnent à votre porte en prétendant faire des travaux dans le quartier. Cette pratique, malheureusement courante dans les Yvelines, cache souvent des arnaques. Un artisan sérieux ne démarche pas de cette manière.
+
+Si quelqu'un vous propose de "finir les matériaux d'un chantier voisin" ou prétend avoir remarqué des défauts sur votre toiture depuis la rue, raccrochez immédiatement.
+
+### Les devis anormalement bas ou élevés
+
+Un devis très inférieur aux autres doit vous interroger. Comment l'artisan peut-il proposer des tarifs si attractifs ? Souvent, cela cache une malfaçon annoncée, l'utilisation de matériaux de mauvaise qualité, ou des suppléments qui apparaîtront en cours de chantier.
+
+À l'inverse, un devis excessivement élevé peut indiquer une tentative d'arnaque, surtout s'il est assorti de "remises exceptionnelles" valables uniquement le jour même.
+
+### Les demandes d'acompte excessives
+
+La loi autorise un acompte maximum de 30% du montant total des travaux, et seulement après signature du devis. Tout artisan qui vous demande 50% ou plus d'acompte, ou qui exige un paiement avant signature, doit éveiller vos soupçons.
+
+Chez CHARRIERE SARL, nous ne demandons jamais d'acompte dépassant 20% du montant total, et uniquement après validation définitive du projet avec notre client.
+
+## Nos conseils d'artisan pour bien s'y prendre
+
+### Demandez plusieurs devis
+
+Ne vous contentez jamais d'un seul devis. Demandez au minimum trois propositions pour pouvoir comparer. Cette démarche vous permet non seulement de négocier les prix, mais aussi de repérer les incohérences ou les prestations manquantes.
+
+Prenez le temps de recevoir chaque artisan chez vous. Un professionnel sérieux doit impérativement visiter les lieux avant d'établir son devis. Méfiez-vous des devis établis par téléphone ou sur photos.
+
+### Vérifiez les références de l'entreprise
+
+Recherchez l'entreprise sur internet, consultez les avis clients, et n'hésitez pas à demander des références de chantiers récents. Un bon artisan sera fier de vous présenter ses réalisations.
+
+Vérifiez également que l'entreprise est bien inscrite au registre des métiers ou au registre du commerce et des sociétés. Ces informations sont consultables gratuitement sur le site infogreffe.fr.
+
+### Prenez votre temps pour décider
+
+Ne signez jamais un devis dans la précipitation. La loi vous accorde un délai de réflexion de 7 jours pour les contrats signés à domicile. Profitez de ce délai pour relire attentivement le document et poser toutes vos questions.
+
+Dans notre entreprise, nous encourageons toujours nos clients à prendre le temps de la réflexion. Un projet de rénovation bien préparé est un projet réussi.
+
+### Négociez intelligemment
+
+La négociation ne doit pas porter uniquement sur le prix global. Vous pouvez aussi négocier les délais, la qualité des matériaux, ou les prestations incluses. Parfois, demander une prestation supplémentaire (comme l'évacuation des gravats) peut être plus judicieux qu'une simple remise.
+
+## Les spécificités locales dans les Yvelines
+
+Dans le département des Yvelines, certaines spécificités peuvent influencer votre devis. Les maisons anciennes de Mantes-la-Jolie ou de Saint-Germain-en-Laye nécessitent parfois des précautions particulières, notamment en cas de présence d'amiante ou de plomb.
+
+Les réglementations locales d'urbanisme peuvent également impacter votre projet. Certaines communes ont des exigences spécifiques en matière de ravalement de façade ou de modification de toiture. Votre artisan doit connaître ces contraintes et les intégrer dans son devis.
+
+Un devis détaillé et bien préparé est la garantie d'un projet de rénovation réussi. Il vous protège juridiquement, vous éclaire sur vos choix et vous évite les mauvaises surprises. N'hésitez pas à poser toutes vos questions et à prendre le temps nécessaire pour faire le bon choix.
+
+Vous envisagez des travaux de rénovation dans les Yvelines ? CHARRIERE SARL vous accompagne avec un devis détaillé et transparent. Contactez-nous dès aujourd'hui pour un devis gratuit et personnalisé, établi après visite de votre domicile.`,
+  },
+  {
     slug: "renover-studio-location-meuble-yvelines-rentabilite",
     title: "Rénover un Studio pour le Louer en Meublé : Guide Complet pour les Yvelines",
     metaTitle: "Rénovation Studio Meublé Yvelines — Rentabilité Locative | CHARRIERE SARL",
