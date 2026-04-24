@@ -15,6 +15,86 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "plomberie-salle-de-bain-erreurs-eviter-yvelines",
+    title: "Plomberie de Salle de Bain : 7 Erreurs Fatales à Éviter Absolument",
+    metaTitle: "Plomberie Salle de Bain : Erreurs à Éviter | CHARRIERE SARL Yvelines",
+    metaDescription:
+      "Découvrez les 7 erreurs de plomberie les plus courantes en salle de bain selon un artisan expert. Conseils pratiques pour éviter pentes, étanchéité et normes.",
+    keywords: ["plomberie salle de bain","erreurs plomberie","étanchéité salle de bain","pente évacuation","normes plomberie"],
+    excerpt:
+      "Un artisan de 20 ans d'expérience révèle les erreurs de plomberie les plus coûteuses en salle de bain et comment les éviter.",
+    publishedAt: "2026-04-24",
+    readTime: "8 min",
+    category: "Salle de bain",
+    image: "/images/blog/plomberie-salle-de-bain-erreurs-eviter-yvelines.webp",
+    imageAlt: "Plomberie de Salle de Bain : 7 Erreurs Fatales à Éviter Absolument",
+    content: `Après 20 années passées à réparer les erreurs de plomberie dans les salles de bain de Gargenville, Mantes-la-Jolie et de toutes les Yvelines, je peux vous assurer que certaines erreurs reviennent constamment. Ces maladresses, souvent invisibles au premier regard, peuvent vous coûter plusieurs milliers d'euros en réparations et causer des dégâts considérables dans votre logement.
+
+Aujourd'hui, je partage avec vous mon retour d'expérience pour vous éviter ces pièges coûteux qui transforment un projet de rénovation en cauchemar.
+
+## L'Erreur Numéro 1 : Négliger la Pente d'Évacuation
+
+La pente d'évacuation représente sans doute l'erreur la plus fréquente que je rencontre lors de mes interventions à Poissy ou Saint-Germain-en-Laye. Beaucoup de particuliers pensent qu'une simple inclinaison suffit, mais la réalité est bien plus technique.
+
+Une évacuation de douche nécessite une pente comprise entre 1 et 2% vers le siphon. Concrètement, cela représente 1 à 2 centimètres de dénivelé par mètre linéaire. Une pente insuffisante provoque des stagnations d'eau, des odeurs nauséabondes et favorise le développement de bactéries. À l'inverse, une pente excessive crée des turbulences qui laissent les déchets solides sur place.
+
+Je me souviens d'une intervention récente aux Mureaux où le propriétaire avait réalisé lui-même sa douche italienne. La pente était de 5%, soit deux fois trop importante. Résultat : l'eau s'évacuait trop rapidement en laissant tous les résidus de savon et cheveux dans le receveur. Il a fallu reprendre entièrement le carrelage.
+
+## L'Étanchéité : La Base Fondamentale Souvent Bâclée
+
+L'étanchéité constitue le cœur de toute installation de salle de bain réussie. Pourtant, c'est là que je constate le plus d'approximations, particulièrement dans les maisons anciennes de Conflans-Sainte-Honorine ou Sartrouville.
+
+La première erreur consiste à appliquer l'étanchéité directement sur un support non préparé. Le support doit être parfaitement propre, sec et dégraissé. J'utilise toujours un primaire d'accrochage avant l'application de la membrane d'étanchéité liquide ou des bandes préformées.
+
+La seconde erreur concerne les angles et les raccords. Chaque angle doit être renforcé avec des bandes d'étanchéité spécifiques, posées avec un chevauchement minimal de 5 centimètres de chaque côté. Les pénétrations de canalisations nécessitent des manchons étanches adaptés au diamètre exact du tube.
+
+Lors d'une rénovation complète à Gargenville l'année dernière, j'ai découvert une douche où l'étanchéité s'arrêtait à 10 centimètres du sol au lieu de remonter sur 15 centimètres minimum selon la norme DTU 60.11. L'eau avait infiltré la cloison pendant des mois, nécessitant la réfection complète de la structure.
+
+## Les Raccordements : Attention aux Normes de Diamètres
+
+Les erreurs de diamètrage représentent un fléau technique que je rencontre régulièrement. Chaque équipement sanitaire nécessite un diamètre d'évacuation spécifique selon la norme NF DTU 60.11.
+
+Un lavabo standard requiert une évacuation de 32 millimètres de diamètre, une baignoire de 40 millimètres et une douche de 50 millimètres minimum. J'ai vu trop de bricoleurs utiliser du 32 millimètres partout par économie, créant des engorgements chroniques.
+
+Le raccordement des évacuations au collecteur principal doit respecter un angle maximal de 45 degrés. Les raccords à 90 degrés, bien que plus simples à poser, créent des points de rétention et des risques de bouchons. Dans une villa de Mantes-la-Jolie, j'ai remplacé tous les coudes à 90 degrés par des raccords à 45 degrés, divisant par trois les interventions de débouchage.
+
+## L'Erreur des Cloisons : Sous-Estimer l'Humidité
+
+L'environnement humide de la salle de bain nécessite des matériaux adaptés pour les cloisons et doublages. L'utilisation de plaques de plâtre standard représente une erreur majeure que je corrige fréquemment dans les Yvelines.
+
+Seules les plaques hydrofuges (BA13 H) ou les panneaux à base de ciment peuvent être utilisées dans les zones humides. Ces matériaux coûtent environ 30% plus cher que le plâtre standard, mais cette économie mal placée se transforme en catastrophe à moyen terme.
+
+Dans un appartement de Poissy, des plaques de plâtre standard avaient été posées derrière une baignoire. Au bout de 18 mois, elles s'effritaient complètement, contaminées par les moisissures. La réfection a coûté 2800 euros au propriétaire, soit 10 fois le surcoût initial des plaques hydrofuges.
+
+## Les Alimentations : Respecter les Pressions et Débits
+
+Le dimensionnement des alimentations en eau représente un aspect technique souvent négligé. Un robinet de baignoire nécessite un débit minimal de 18 litres par minute sous 3 bars de pression. Si l'alimentation est sous-dimensionnée, le remplissage devient interminable et la pression insuffisante.
+
+J'utilise systématiquement du multicouche 16x2 pour les alimentations de baignoire et 20x2 pour les colonnes montantes. Le cuivre reste une excellente solution, mais son coût a considérablement augmenté. Comptez environ 45 euros le mètre linéaire posé en cuivre contre 28 euros en multicouche.
+
+Une installation récente à Saint-Germain-en-Laye m'a rappelé l'importance des réducteurs de pression. La pression réseau atteignait 6 bars, soit le double de la norme. Sans réducteur, les joints des robinetteries lâchent prématurément et les bruits de coups de bélier deviennent insupportables.
+
+## Ventilation : L'Oubliée qui Coûte Cher
+
+La ventilation mécanique représente l'élément le plus négligé des salles de bain, particulièrement dans les rénovations. Pourtant, sans évacuation efficace de l'humidité, tous vos efforts d'étanchéité deviennent inutiles.
+
+Une salle de bain nécessite un débit d'extraction minimal de 15 mètres cubes par heure en fonctionnement permanent et 30 mètres cubes par heure en occupation. L'extracteur doit être raccordé à un conduit débouchant directement à l'extérieur, jamais dans les combles ou un conduit de fumée.
+
+Lors d'une intervention récente à Conflans-Sainte-Honorine, j'ai découvert un extracteur raccordé... à rien du tout. Il brassait l'air humide dans les combles, créant un environnement parfait pour les moisissures. Le propriétaire dépensait une fortune en produits anti-moisissures sans comprendre l'origine du problème.
+
+## La Planification : Anticiper pour Éviter les Surcoûts
+
+Ma dernière recommandation concerne la planification des travaux. Trop de projets démarrent sans étude préalable approfondie, générant des découvertes coûteuses en cours de chantier.
+
+Une inspection complète de l'existant permet d'identifier les contraintes techniques avant le début des travaux. Vérification de la structure du plancher, état des canalisations existantes, accessibilité des réseaux : ces éléments conditionnent la faisabilité et le coût final.
+
+Le budget moyen d'une rénovation complète de plomberie de salle de bain dans les Yvelines varie entre 3500 et 6500 euros selon la configuration et les équipements choisis. Ce tarif inclut la dépose de l'existant, les nouveaux réseaux, l'étanchéité et la pose des équipements sanitaires.
+
+Chez CHARRIERE SARL, nous réalisons systématiquement un diagnostic complet avant chaque devis. Cette approche nous permet de vous proposer un prix juste et définitif, sans surprise désagréable en cours de chantier.
+
+Votre projet de rénovation de salle de bain mérite l'expertise d'un professionnel expérimenté. Contactez-nous pour un devis gratuit et personnalisé, nous interviendrons rapidement dans tout le secteur des Yvelines pour étudier votre projet.`,
+  },
+  {
     slug: "devis-detaille-travaux-renovation-conseils-artisan",
     title: "Pourquoi faire un devis détaillé avant vos travaux de rénovation ?",
     metaTitle: "Devis Détaillé Travaux — Conseils Artisan Yvelines | CHARRIERE SARL",
