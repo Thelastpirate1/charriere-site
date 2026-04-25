@@ -15,6 +15,112 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "menuiserie-interieure-portes-placards-sur-mesure-gargenville",
+    title: "Menuiserie Intérieure : Portes et Placards Sur-Mesure dans les Yvelines",
+    metaTitle: "Menuiserie Sur-Mesure Gargenville — Portes & Placards | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez nos solutions de menuiserie intérieure sur-mesure : portes, placards, dressings. Artisan qualifié à Gargenville pour vos projets dans les Yvelines.",
+    keywords: ["menuiserie intérieure","portes sur mesure","placards sur mesure","Gargenville","Yvelines","artisan menuisier"],
+    excerpt:
+      "La menuiserie intérieure sur-mesure transforme votre habitat avec des solutions parfaitement adaptées à vos espaces et besoins spécifiques.",
+    publishedAt: "2026-04-25",
+    readTime: "6 min",
+    category: "Aménagement",
+    image: "/images/blog/menuiserie-interieure-portes-placards-sur-mesure-gargenville.webp",
+    imageAlt: "Menuiserie Intérieure : Portes et Placards Sur-Mesure dans les Yvelines",
+    content: `La menuiserie intérieure sur-mesure représente l'art de créer des éléments parfaitement adaptés à votre habitat. Que vous résidiez à Gargenville, Mantes-la-Jolie ou dans toute autre commune des Yvelines, cette approche personnalisée transforme vos espaces en véritables havres de fonctionnalité et d'esthétisme.
+
+## Pourquoi Choisir la Menuiserie Sur-Mesure ?
+
+### Une Adaptation Parfaite à Vos Espaces
+
+Chaque habitation possède ses spécificités architecturales. Les maisons anciennes de Saint-Germain-en-Laye présentent souvent des angles particuliers, des hauteurs sous plafond variables ou des alcôves atypiques. La menuiserie sur-mesure s'adapte parfaitement à ces contraintes, optimisant chaque centimètre carré disponible.
+
+Les appartements modernes de Conflans-Sainte-Honorine ou de Sartrouville bénéficient également de cette approche personnalisée. Un placard sur-mesure peut transformer un espace perdu sous un escalier en solution de rangement astucieuse.
+
+### Un Style Unique et Cohérent
+
+La menuiserie sur-mesure permet de créer une harmonie parfaite dans votre intérieur. Contrairement aux solutions standardisées, chaque élément est conçu selon vos goûts et s'intègre naturellement à votre décoration existante. Cette cohérence esthétique valorise considérablement votre bien immobilier.
+
+### Une Qualité de Fabrication Supérieure
+
+Les menuiseries sur-mesure bénéficient d'un savoir-faire artisanal traditionnel. Chaque pièce est fabriquée avec attention, utilisant des techniques éprouvées et des matériaux de qualité supérieure. Cette approche garantit une durabilité exceptionnelle, bien supérieure aux produits industriels.
+
+## Les Solutions de Portes Intérieures Sur-Mesure
+
+### Portes Battantes Personnalisées
+
+Les portes battantes sur-mesure s'adaptent parfaitement aux ouvertures existantes de votre habitation. Elles permettent de corriger les défauts de construction et d'obtenir une finition impeccable. Ces portes peuvent intégrer des vitrages personnalisés, des moulures décoratives ou des finitions spécifiques selon vos préférences.
+
+### Portes Coulissantes Optimisées
+
+Dans les espaces restreints des appartements de Poissy ou des pavillons des Mureaux, les portes coulissantes sur-mesure représentent une solution idéale. Elles libèrent l'espace de débattement tout en créant une séparation élégante entre les pièces. Le système de rail peut être intégré discrètement au plafond ou apparent selon l'effet désiré.
+
+### Portes de Placard Intégrées
+
+Les portes de placard sur-mesure transforment vos rangements en éléments décoratifs à part entière. Elles peuvent adopter le même style que vos autres menuiseries pour créer une continuité visuelle parfaite dans vos chambres ou votre dressing.
+
+## Placards et Dressings : L'Art du Rangement Optimisé
+
+### Dressings Walk-in Personnalisés
+
+Un dressing sur-mesure maximise l'utilisation de l'espace disponible. Chaque élément est pensé selon vos habitudes et vos besoins spécifiques. Les penderies, étagères, tiroirs et accessoires sont positionnés de manière optimale pour faciliter l'organisation de vos affaires.
+
+### Placards Sous-Pente Astucieux
+
+Les combles aménagés des maisons traditionnelles des Yvelines offrent souvent des espaces sous-pente difficiles à exploiter. Un placard sur-mesure transforme ces zones perdues en solutions de rangement ingénieuses, parfaitement adaptées aux contraintes de hauteur.
+
+### Bibliothèques et Étagères Intégrées
+
+Les bibliothèques sur-mesure s'intègrent harmonieusement dans vos pièces de vie. Elles peuvent habiller un mur entier ou s'adapter à des niches spécifiques, créant un effet architectural remarquable tout en optimisant le rangement.
+
+## Matériaux et Finitions : Le Choix de la Qualité
+
+### Bois Massif : L'Excellence Traditionnelle
+
+Le bois massif reste le matériau de référence en menuiserie sur-mesure. Le chêne, particulièrement apprécié, offre une robustesse exceptionnelle et un vieillissement élégant. Le hêtre propose une alternative plus économique sans sacrifier la qualité. Ces essences peuvent recevoir diverses finitions : vernis naturel, teinture, peinture ou patine selon vos préférences.
+
+### Panneaux Dérivés Haute Qualité
+
+Les panneaux MDF ou contreplaqués de qualité supérieure constituent une alternative moderne au bois massif. Ils offrent une grande stabilité dimensionnelle et permettent des finitions parfaitement lisses. Ces matériaux acceptent tous types de revêtements : placage bois, stratifié, laque ou peinture.
+
+### Matériaux Contemporains
+
+Les matériaux composites et les finitions laquées apportent une touche moderne à vos menuiseries. Les surfaces laquées brillantes ou mates créent des effets visuels saisissants, particulièrement adaptés aux intérieurs contemporains.
+
+## Tarifs et Budget : Investir dans la Qualité
+
+### Portes Intérieures Sur-Mesure
+
+Une porte battante sur-mesure en MDF avec finition peinte démarre généralement autour de 350 à 500 euros pose comprise. Les modèles en bois massif avec finitions traditionnelles s'échelonnent entre 600 et 1200 euros selon l'essence choisie et la complexité des détails.
+
+Les portes coulissantes nécessitent un investissement légèrement supérieur en raison du système de rail. Comptez entre 450 et 800 euros pour une porte simple, et jusqu'à 1500 euros pour des systèmes plus élaborés.
+
+### Placards et Dressings Sur-Mesure
+
+Un placard sur-mesure standard coûte généralement entre 400 et 800 euros le mètre linéaire selon les matériaux et les finitions choisies. Les dressings walk-in plus élaborés peuvent atteindre 1200 à 2000 euros le mètre linéaire avec tous les accessoires intégrés.
+
+Les bibliothèques sur-mesure démarrent autour de 300 euros le mètre linéaire pour des réalisations simples et peuvent atteindre 800 euros pour des créations plus sophistiquées avec éclairage intégré.
+
+## L'Importance du Savoir-Faire Artisanal
+
+### Une Étude Personnalisée de Votre Projet
+
+Chez CHARRIERE SARL, chaque projet débute par une étude approfondie de vos besoins et contraintes. Cette phase d'analyse permet de concevoir des solutions parfaitement adaptées à votre mode de vie et à l'architecture de votre habitation.
+
+### Un Accompagnement Complet
+
+De la conception à la pose finale, notre équipe vous accompagne à chaque étape de votre projet. Nous vous conseillons sur le choix des matériaux, les finitions et les solutions techniques les mieux adaptées à votre budget et vos attentes.
+
+### Une Garantie de Qualité
+
+Notre expérience dans les Yvelines nous permet de maîtriser parfaitement les spécificités du bâti local. Que vous habitiez une maison de ville à Mantes-la-Jolie ou un pavillon récent à Gargenville, nous adaptons nos techniques aux caractéristiques de votre habitation.
+
+La menuiserie intérieure sur-mesure représente un investissement durable qui valorise votre patrimoine immobilier. Elle transforme votre quotidien en optimisant vos espaces et en créant une harmonie esthétique unique.
+
+Vous souhaitez donner une nouvelle dimension à vos espaces intérieurs ? Contactez CHARRIERE SARL pour un devis personnalisé et gratuit. Notre équipe se déplace dans tout le secteur de Gargenville et les communes environnantes des Yvelines pour étudier votre projet et vous proposer des solutions sur-mesure parfaitement adaptées à vos besoins.`,
+  },
+  {
     slug: "plomberie-salle-de-bain-erreurs-eviter-yvelines",
     title: "Plomberie de Salle de Bain : 7 Erreurs Fatales à Éviter Absolument",
     metaTitle: "Plomberie Salle de Bain : Erreurs à Éviter | CHARRIERE SARL Yvelines",
