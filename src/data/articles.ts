@@ -15,6 +15,110 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renovation-energetique-nouveautes-2026-yvelines",
+    title: "Rénovation énergétique : ce qui change en 2026 dans les Yvelines",
+    metaTitle: "Rénovation Énergétique 2026 : Nouvelles Aides et DPE | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les nouvelles réglementations 2026 pour la rénovation énergétique dans les Yvelines. DPE, aides financières, obligations. Devis gratuit CHARRIERE SARL.",
+    keywords: ["renovation-energetique-2026","DPE-yvelines","aides-renovation-2026","isolation-thermique-78"],
+    excerpt:
+      "L'année 2026 marque un tournant dans la rénovation énergétique avec de nouvelles réglementations et des aides repensées pour les propriétaires des Yvelines.",
+    publishedAt: "2026-04-26",
+    readTime: "7 min",
+    category: "Rénovation",
+    image: "/images/blog/renovation-energetique-nouveautes-2026-yvelines.webp",
+    imageAlt: "Rénovation énergétique : ce qui change en 2026 dans les Yvelines",
+    content: `L'année 2026 s'annonce décisive pour la rénovation énergétique en France, et particulièrement dans les Yvelines. Entre nouvelles réglementations, évolution du DPE et restructuration des aides financières, les propriétaires de Gargenville, Mantes-la-Jolie, Poissy et des communes environnantes doivent s'adapter à un paysage législatif en pleine mutation.
+
+## Les nouvelles obligations DPE en 2026
+
+### Durcissement des critères de performance
+
+Depuis janvier 2026, les critères du Diagnostic de Performance Énergétique se sont considérablement renforcés. Les logements classés G sont désormais interdits à la location, rejoignant ainsi les logements F déjà proscrits depuis 2025. Cette mesure impacte directement de nombreux propriétaires bailleurs des Yvelines, notamment dans les centres-villes anciens de Saint-Germain-en-Laye ou Conflans-Sainte-Honorine.
+
+### Impact sur les transactions immobilières
+
+Les transactions immobilières subissent également ces nouvelles contraintes. Un logement classé F ou G voit sa valeur vénale diminuer de 15 à 25 pour cent par rapport à un bien équivalent mieux classé. Cette réalité pousse de nombreux propriétaires yvelinois à anticiper leurs travaux de rénovation énergétique.
+
+### Nouvelles modalités de calcul
+
+Le calcul du DPE 2026 intègre désormais de nouveaux paramètres comme la qualité de l'air intérieur et l'impact carbone des matériaux utilisés lors des rénovations. Ces évolutions valorisent les travaux d'isolation biosourcée et les systèmes de ventilation performants, domaines d'expertise de CHARRIERE SARL.
+
+## Évolution des aides financières
+
+### MaPrimeRénov' réformée
+
+MaPrimeRénov' a subi une refonte majeure en 2026. Les montants d'aide sont désormais calculés selon un barème dégressif basé sur l'efficacité énergétique réelle des travaux. Les propriétaires des Yvelines peuvent bénéficier de primes allant de 3000 à 15000 euros pour une rénovation globale, selon les revenus et les gains énergétiques obtenus.
+
+### Nouvelles aides locales dans les Yvelines
+
+Le Département des Yvelines a lancé en 2026 le dispositif "Yvelines Énergie Plus" qui complète les aides nationales. Cette aide locale peut atteindre 2500 euros pour les travaux d'isolation et 3500 euros pour l'installation de systèmes de chauffage performants comme les pompes à chaleur.
+
+### Éco-PTZ renforcé
+
+L'Éco-Prêt à Taux Zéro a été étendu jusqu'à 50000 euros pour les rénovations globales permettant un gain de trois classes énergétiques minimum. Les propriétaires de Sartrouville, Les Mureaux et des communes limitrophes peuvent ainsi financer des projets ambitieux sans apport initial.
+
+## Nouvelles réglementations techniques
+
+### Standards d'isolation renforcés
+
+Les nouveaux standards d'isolation imposent des performances minimales : R supérieur à 6 pour les combles, R supérieur à 4 pour les murs et R supérieur à 3 pour les planchers bas. Ces exigences nécessitent une expertise technique pointue pour optimiser l'espace habitable tout en respectant les performances requises.
+
+### Obligation de ventilation performante
+
+Toute rénovation énergétique doit désormais inclure un système de ventilation mécanique contrôlée double flux ou un équivalent garantissant un renouvellement d'air optimal. Cette obligation vise à éviter les problèmes d'humidité fréquents après des travaux d'isolation mal conçus.
+
+### Réglementation sur les ponts thermiques
+
+La nouvelle réglementation impose le traitement systématique des ponts thermiques lors des rénovations. Les jonctions mur-plancher, mur-toiture et encadrements de fenêtres doivent respecter des coefficients de transmission thermique linéique stricts.
+
+## Impact spécifique sur l'habitat yvelinois
+
+### Défis du patrimoine ancien
+
+Les Yvelines comptent de nombreux logements construits avant 1975, particulièrement dans les centres historiques de Poissy ou Mantes-la-Jolie. Ces bâtiments présentent des défis techniques spécifiques : murs en pierre, charpentes anciennes, contraintes architecturales. Les nouvelles réglementations prévoient des adaptations pour ce patrimoine, mais requièrent une expertise artisanale confirmée.
+
+### Spécificités des pavillons franciliens
+
+Les maisons individuelles des années 1960-1980, nombreuses dans les communes comme Gargenville, nécessitent souvent une approche globale combinant isolation par l'extérieur, changement de menuiseries et modernisation du système de chauffage. Le budget moyen pour ces rénovations complètes oscille entre 35000 et 60000 euros.
+
+### Contraintes urbanistiques locales
+
+Certaines communes des Yvelines imposent des contraintes esthétiques particulières pour les travaux d'isolation extérieure. Ces règlements d'urbanisme peuvent orienter vers des solutions d'isolation par l'intérieur ou des matériaux spécifiques, impactant le coût et la complexité des projets.
+
+## Nouvelles opportunités pour les propriétaires
+
+### Valorisation patrimoniale accrue
+
+Un logement rénové aux standards 2026 gagne entre 10 et 20 pour cent de valeur vénale. Cette plus-value compense largement l'investissement initial, particulièrement dans un marché immobilier yvelinois dynamique proche de Paris.
+
+### Confort et économies d'énergie
+
+Les nouvelles exigences garantissent un confort thermique optimal et des factures énergétiques divisées par deux à trois. Avec les prix de l'énergie actuels, l'amortissement des travaux s'effectue généralement en moins de dix ans.
+
+### Anticipation des futures réglementations
+
+Réaliser une rénovation énergétique conforme aux standards 2026 permet d'anticiper les prochaines évolutions réglementaires prévues pour 2030. Cette approche prospective évite de futurs investissements contraints.
+
+## Conseils pour réussir sa rénovation en 2026
+
+### Audit énergétique préalable obligatoire
+
+Depuis 2026, tout projet de rénovation bénéficiant d'aides publiques doit débuter par un audit énergétique certifié. Ce diagnostic approfondi coûte entre 800 et 1200 euros mais permet d'optimiser les choix techniques et financiers.
+
+### Planification des travaux
+
+La complexité des nouvelles réglementations impose une planification rigoureuse. Les délais d'instruction des dossiers d'aides se sont allongés, nécessitant d'anticiper les demandes de trois à quatre mois avant le démarrage des travaux.
+
+### Choix de l'artisan
+
+Les nouvelles exigences techniques rendent indispensable le recours à des artisans qualifiés RGE maîtrisant les évolutions réglementaires. CHARRIERE SARL accompagne ses clients yvelinois dans toutes ces démarches, de l'audit initial à la réception des travaux.
+
+Les évolutions 2026 de la rénovation énergétique représentent à la fois un défi et une opportunité pour les propriétaires des Yvelines. Bien accompagnés, ces projets permettent de valoriser durablement son patrimoine tout en améliorant significativement le confort de vie.
+
+Vous envisagez une rénovation énergétique dans les Yvelines ? CHARRIERE SARL vous accompagne dans votre projet avec un devis gratuit et personnalisé. Contactez-nous pour bénéficier de notre expertise des nouvelles réglementations 2026.`,
+  },
+  {
     slug: "menuiserie-interieure-portes-placards-sur-mesure-gargenville",
     title: "Menuiserie Intérieure : Portes et Placards Sur-Mesure dans les Yvelines",
     metaTitle: "Menuiserie Sur-Mesure Gargenville — Portes & Placards | CHARRIERE SARL",
