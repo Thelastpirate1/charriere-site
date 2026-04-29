@@ -15,6 +15,130 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renovation-maison-combien-temps-prevoir-duree-travaux",
+    title: "Rénovation de maison : combien de temps prévoir selon vos travaux ?",
+    metaTitle: "Durée Rénovation Maison : Planning Réaliste par Type de Travaux | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les délais réels pour rénover votre maison dans les Yvelines. Planning détaillé par type de travaux et conseils pour éviter les retards.",
+    keywords: ["durée rénovation maison","temps travaux rénovation","planning rénovation","délai rénovation Yvelines"],
+    excerpt:
+      "Planifier la durée de vos travaux de rénovation est essentiel pour bien organiser votre projet. Découvrez les délais réalistes selon chaque type d'intervention.",
+    publishedAt: "2026-04-29",
+    readTime: "6 min",
+    category: "Rénovation",
+    image: "/images/blog/renovation-maison-combien-temps-prevoir-duree-travaux.webp",
+    imageAlt: "Rénovation de maison : combien de temps prévoir selon vos travaux ?",
+    content: `La question du temps nécessaire pour rénover une maison revient systématiquement lors de nos premiers échanges avec nos clients dans les Yvelines. Chez CHARRIERE SARL, nous accompagnons depuis des années les propriétaires de Gargenville, Mantes-la-Jolie et des communes environnantes dans leurs projets de rénovation. L'expérience nous a appris qu'un planning réaliste est la clé d'un projet réussi.
+
+La durée d'une rénovation dépend de nombreux facteurs : l'ampleur des travaux, l'état initial du logement, les autorisations administratives nécessaires, et bien sûr, les imprévus inhérents à ce type de chantier. Une estimation précise vous permettra de mieux vous organiser et d'éviter les mauvaises surprises.
+
+## Facteurs influençant la durée des travaux de rénovation
+
+Plusieurs éléments déterminent le temps nécessaire à votre projet de rénovation. L'état initial de votre maison constitue le premier critère d'évaluation. Une maison des années 1970 à Poissy nécessitera des interventions différentes d'une bâtisse ancienne de Saint-Germain-en-Laye.
+
+L'ampleur des travaux influence directement les délais. Un rafraîchissement cosmétique se distingue nettement d'une rénovation complète incluant la plomberie, l'électricité et la structure. Les contraintes techniques de votre logement, comme l'accessibilité du chantier ou la présence d'amiante, peuvent également prolonger les délais.
+
+Les démarches administratives représentent souvent un poste de temps sous-estimé. Selon la nature des travaux, vous pourriez avoir besoin d'un permis de construire ou d'une déclaration préalable, ce qui ajoute plusieurs semaines au planning initial.
+
+## Durée des travaux par type d'intervention
+
+### Rénovation de cuisine
+
+La rénovation d'une cuisine demande généralement entre 3 et 6 semaines selon l'ampleur des modifications. Pour une cuisine standard de 12 m² dans une maison de Conflans-Sainte-Honorine, comptez 4 semaines si vous conservez l'implantation existante.
+
+Les délais se décomposent ainsi : démolition et évacuation (2 à 3 jours), travaux de plomberie et électricité (1 semaine), pose du carrelage ou parquet (3 à 4 jours), installation des meubles et électroménager (1 semaine), finitions (2 à 3 jours).
+
+Si vous modifiez l'implantation ou créez une cuisine ouverte, ajoutez 1 à 2 semaines supplémentaires pour les travaux de cloisons et les modifications structurelles.
+
+### Rénovation de salle de bain
+
+Une salle de bain complète nécessite entre 2 et 4 semaines de travaux. Dans les maisons anciennes des Mureaux ou de Sartrouville, nous rencontrons souvent des contraintes d'évacuation qui peuvent prolonger le chantier.
+
+Le planning type comprend : démolition et préparation (2 à 3 jours), plomberie et évacuation (1 semaine), électricité et ventilation (2 à 3 jours), étanchéité et carrelage (1 semaine), installation sanitaire (3 à 4 jours), finitions et peinture (2 jours).
+
+Pour une salle de bain de 6 m² avec douche italienne, budget comprise entre 8 000 et 15 000 euros, le délai moyen s'établit à 3 semaines.
+
+### Rénovation électrique complète
+
+La réfection complète de l'installation électrique d'une maison de 100 m² prend généralement 2 à 3 semaines. Ce type de travaux, fréquent dans les maisons anciennes de la région, nécessite une planification minutieuse.
+
+Le processus inclut : diagnostic et conception (1 jour), saignées et passage des câbles (1 semaine), pose du tableau électrique et raccordements (3 à 4 jours), tests et mise en conformité (1 à 2 jours), rebouchage et finitions (2 à 3 jours).
+
+### Rénovation complète d'une maison
+
+Pour une rénovation complète d'une maison de 100 m² dans les Yvelines, comptez entre 4 et 8 mois selon l'état initial et vos exigences. Cette fourchette large s'explique par la variabilité des situations rencontrées.
+
+Une rénovation lourde incluant structure, isolation, électricité, plomberie et finitions demande au minimum 6 mois. Si vous ajoutez des modifications architecturales ou des prestations haut de gamme, le délai peut atteindre 10 mois.
+
+## Planning réaliste pour votre projet
+
+### Phase de préparation
+
+La phase de préparation représente souvent 20 à 30% du temps total de votre projet. Elle inclut la définition de vos besoins, la recherche d'artisans, l'établissement des devis et l'obtention des éventuelles autorisations.
+
+Comptez 2 à 4 semaines pour cette étape cruciale. Dans les Yvelines, les délais d'instruction des permis de construire varient de 2 à 3 mois selon les communes. Mantes-la-Jolie et Saint-Germain-en-Laye traitent généralement les dossiers plus rapidement que les petites communes.
+
+### Séquençage des corps de métier
+
+L'ordre d'intervention des différents corps de métier influence directement la durée totale. Un mauvais séquençage peut créer des temps morts coûteux ou nécessiter de refaire certains travaux.
+
+La séquence classique commence par le gros œuvre et la démolition, suivis de la plomberie et de l'électricité. Viennent ensuite l'isolation, le cloisonnement, puis les revêtements de sols et murs. Les finitions (peinture, menuiserie) concluent le chantier.
+
+Chez CHARRIERE SARL, nous planifions scrupuleusement ces interventions pour optimiser les délais tout en maintenant la qualité des prestations.
+
+### Approvisionnement et délais de livraison
+
+Les délais d'approvisionnement impactent significativement votre planning. Certains matériaux ou équipements sur mesure nécessitent plusieurs semaines de fabrication.
+
+Pour une cuisine équipée, comptez 4 à 6 semaines de délai après validation des plans. Les carrelages spéciaux ou les parquets massifs peuvent demander 2 à 3 semaines supplémentaires.
+
+Anticipez ces délais en commandant les matériaux dès la signature des devis, particulièrement pour les projets débutant au printemps, période de forte activité dans le secteur.
+
+## Gestion des imprévus et rallongement des délais
+
+### Imprévus techniques courants
+
+Malgré une préparation minutieuse, les imprévus techniques restent fréquents en rénovation. Dans les maisons anciennes de Gargenville ou des communes voisines, nous découvrons régulièrement des problèmes cachés lors de la démolition.
+
+Les canalisations vétustes, les problèmes de structure ou la présence d'amiante peuvent rallonger significativement les délais. Comptez une marge de 15 à 20% sur votre planning initial pour absorber ces aléas.
+
+Un diagnostic approfondi avant travaux limite ces risques. Nous recommandons systématiquement cette étape préalable à nos clients, même si elle représente un coût supplémentaire.
+
+### Intempéries et conditions climatiques
+
+Les conditions météorologiques influencent particulièrement les travaux de toiture, d'isolation extérieure ou de maçonnerie. En Île-de-France, comptez une dizaine de jours d'arrêt potentiel entre novembre et mars.
+
+Planifiez les gros œuvres et travaux extérieurs entre avril et octobre pour minimiser les retards climatiques. Cette stratégie s'avère particulièrement pertinente pour les projets d'extension ou de rénovation de toiture.
+
+### Modifications en cours de chantier
+
+Les changements d'avis en cours de travaux représentent la première cause de dépassement de délais. Une modification apparemment simple peut nécessiter de reprendre des travaux déjà réalisés.
+
+Une réflexion approfondie en amont et des plans détaillés limitent ces modifications coûteuses en temps et en argent. Chez CHARRIERE SARL, nous prenons le temps nécessaire à la conception pour éviter ces écueils.
+
+## Conseils pour optimiser les délais
+
+### Préparation et planification
+
+Une préparation rigoureuse divise souvent les délais par deux. Définissez précisément vos besoins, établissez un budget réaliste et sélectionnez vos artisans avec soin. Cette phase préparatoire, bien que chronophage, constitue un investissement rentable.
+
+Préparez également votre logement en libérant les espaces de travail et en protégeant vos biens. Ces actions simples évitent des pertes de temps quotidiennes sur le chantier.
+
+### Communication avec les artisans
+
+Une communication régulière avec vos artisans facilite la détection précoce des problèmes. Organisez des points d'avancement hebdomadaires et n'hésitez pas à poser des questions sur l'évolution des travaux.
+
+Cette approche collaborative, pratiquée systématiquement par CHARRIERE SARL, permet d'anticiper les difficultés et d'adapter le planning si nécessaire.
+
+### Solution de logement temporaire
+
+Pour une rénovation lourde, prévoyez une solution de logement temporaire. Cette anticipation évite la pression du délai et permet de maintenir la qualité des prestations sans précipitation.
+
+Dans les Yvelines, comptez entre 800 et 1200 euros par mois pour un logement temporaire de qualité selon la commune choisie.
+
+La rénovation d'une maison demande du temps et de la patience, mais un planning réaliste et une bonne préparation garantissent la réussite de votre projet. Chaque situation étant unique, nous vous recommandons de faire appel à des professionnels expérimentés pour établir un calendrier personnalisé. CHARRIERE SARL vous accompagne dans l'estimation précise de vos délais et la planification optimale de vos travaux dans les Yvelines. Contactez-nous dès aujourd'hui pour un devis gratuit et des conseils personnalisés adaptés à votre projet de rénovation.`,
+  },
+  {
     slug: "sol-vinyle-ou-carrelage-cuisine-comparatif-prix-pose",
     title: "Sol vinyle ou carrelage pour sa cuisine : le guide complet 2026",
     metaTitle: "Sol Vinyle ou Carrelage Cuisine : Comparatif Prix & Pose | CHARRIERE SARL",
