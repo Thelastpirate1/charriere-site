@@ -15,6 +15,90 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "choisir-carrelage-salle-de-bain-2026-poissy-mantes-la-jolie",
+    title: "Comment bien choisir son carrelage de salle de bain en 2026 ?",
+    metaTitle: "Carrelage Salle de Bain 2026 — Grès Cérame & Grand Format | CHARRIERE SARL",
+    metaDescription:
+      "Guide complet pour choisir le carrelage idéal de votre salle de bain. Tendances 2026, grès cérame, grand format. Devis gratuit à Poissy et Mantes-la-Jolie.",
+    keywords: ["carrelage salle de bain","grès cérame","carrelage grand format","tendances carrelage 2026"],
+    excerpt:
+      "Découvrez tous nos conseils d'expert pour choisir le carrelage parfait pour votre salle de bain, avec les dernières tendances 2026.",
+    publishedAt: "2026-04-30",
+    readTime: "8 min",
+    category: "Salle de bain",
+    image: "/images/blog/choisir-carrelage-salle-de-bain-2026-poissy-mantes-la-jolie.webp",
+    imageAlt: "Comment bien choisir son carrelage de salle de bain en 2026 ?",
+    content: `Choisir le carrelage de sa salle de bain représente un investissement important qui influencera l'ambiance de cette pièce pendant de nombreuses années. Entre les matériaux, les formats, les couleurs et les finitions, les options sont nombreuses et peuvent rapidement devenir source de confusion. CHARRIERE SARL, fort de son expérience dans la rénovation de salles de bain à Poissy et Mantes-la-Jolie, vous guide dans ce choix crucial.
+
+## Les critères essentiels pour choisir son carrelage de salle de bain
+
+### La résistance à l'humidité : priorité absolue
+
+La salle de bain étant une pièce humide par excellence, votre carrelage doit impérativement résister à l'eau et à la vapeur. Le taux d'absorption d'eau, exprimé en pourcentage, constitue l'indicateur clé. Pour une salle de bain, optez pour un carrelage avec un taux d'absorption inférieur à 3%, idéalement inférieur à 0,5% pour les zones très exposées comme la douche.
+
+Le grès cérame se révèle particulièrement adapté à cet environnement. Ce matériau, obtenu par cuisson à très haute température, présente une porosité quasi nulle et une résistance exceptionnelle à l'humidité. Les propriétaires de Poissy et Mantes-la-Jolie qui ont opté pour ce type de carrelage témoignent de sa durabilité remarquable, même après plusieurs années d'utilisation intensive.
+
+### L'antidérapant : sécurité avant tout
+
+La sécurité ne doit jamais être négligée dans une salle de bain. Le carrelage au sol doit présenter des propriétés antidérapantes suffisantes pour éviter les chutes, particulièrement dangereuses sur sol mouillé. Les normes françaises classent les carrelages selon leur résistance au glissement, de R9 à R13. Pour une salle de bain domestique, un classement R10 constitue un minimum recommandé.
+
+Les finitions structurées ou légèrement rugueuses améliorent l'adhérence sans compromettre l'esthétique. Attention toutefois aux reliefs trop prononcés qui compliqueraient l'entretien quotidien.
+
+## Les tendances carrelage 2026 : vers plus de sophistication
+
+### Le grand format : élégance et modernité
+
+L'année 2026 confirme la prédominance du carrelage grand format dans les salles de bain. Les dimensions 60x120 cm, voire 80x160 cm, créent un effet de continuité saisissant qui agrandit visuellement l'espace. Cette tendance séduit particulièrement les propriétaires des maisons contemporaines de Conflans-Sainte-Honorine et Sartrouville.
+
+Le grand format présente également des avantages pratiques non négligeables. Moins de joints signifie moins d'entretien et une étanchéité renforcée. La pose demande toutefois une expertise technique particulière, notamment pour la planéité du support et la manipulation des carreaux volumineux.
+
+### Les imitations matières : authenticité et praticité
+
+Les carrelages effet bois, pierre naturelle ou béton ciré connaissent un succès grandissant. Le grès cérame permet aujourd'hui des reproductions d'un réalisme saisissant, combinant l'esthétique des matériaux naturels avec la praticité du carrelage. Les effets marbre veiné ou travertin apportent une touche de luxe particulièrement appréciée dans les rénovations haut de gamme des Yvelines.
+
+### Les couleurs tendance 2026
+
+Les teintes neutres dominent toujours : blanc, beige, gris dans toutes leurs nuances. Cependant, 2026 voit émerger des couleurs plus audacieuses comme le vert sauge, le bleu pétrole ou les terres cuites modernes. Ces couleurs s'intègrent parfaitement dans des projets de rénovation personnalisés, créant des ambiances uniques.
+
+## Choisir le bon format selon sa salle de bain
+
+### Petites salles de bain : optimiser l'espace
+
+Dans les petites salles de bain, fréquentes dans les appartements anciens de Mantes-la-Jolie, le choix du format influence considérablement la perception de l'espace. Contrairement aux idées reçues, le grand format peut être judicieux même dans un petit espace, créant une impression de grandeur par la réduction du nombre de joints.
+
+Le format 30x60 cm représente un excellent compromis pour les salles de bain de 4 à 6 m². Il offre suffisamment de présence sans nécessiter de découpes trop importantes.
+
+### Grandes salles de bain : jouer avec les formats
+
+Les grandes salles de bain permettent plus de créativité. Le mélange de formats, très tendance en 2026, crée des effets visuels dynamiques. Associer du 60x60 cm au sol avec du 30x60 cm au mur, ou créer un motif avec différentes tailles de carreaux personnalise l'espace de manière remarquable.
+
+## Les aspects budgétaires : investir intelligemment
+
+### Fourchettes de prix par type de carrelage
+
+Le budget carrelage varie considérablement selon les choix effectués. Pour du grès cérame standard, comptez entre 15 et 40 euros par m² pour un produit de qualité. Les carrelages grand format haut de gamme peuvent atteindre 60 à 100 euros par m², mais leur durabilité et leur esthétique justifient cet investissement.
+
+La faïence murale, plus économique, oscille entre 10 et 30 euros par m². Cependant, sa moindre résistance la réserve aux zones moins exposées aux projections d'eau.
+
+### Le coût de la pose : un investissement nécessaire
+
+La pose représente une part importante du budget total. Pour un carrelage standard, comptez entre 30 et 50 euros par m² de main-d'œuvre. Le grand format ou les poses complexes peuvent porter ce tarif à 60-80 euros par m². Cette dépense reste justifiée car une pose mal réalisée compromet la durabilité de l'ensemble.
+
+## L'importance de l'accompagnement professionnel
+
+Choisir son carrelage ne se limite pas à des considérations esthétiques. Les aspects techniques comme la préparation du support, l'étanchéité ou la ventilation influencent directement la réussite du projet. Un professionnel expérimenté comme CHARRIERE SARL apporte cette expertise technique indispensable.
+
+L'accompagnement professionnel permet également d'optimiser les quantités, d'anticiper les découpes et de coordonner les différents corps de métier impliqués dans la rénovation de votre salle de bain.
+
+## Entretien et durabilité : penser à long terme
+
+Le choix du carrelage influence directement l'entretien futur de votre salle de bain. Le grès cérame, particulièrement résistant aux produits d'entretien, facilite le nettoyage quotidien. Les finitions polies, bien qu'esthétiques, montrent plus facilement les traces de calcaire que les finitions mates ou structurées.
+
+Pour les familles de Saint-Germain-en-Laye ou Gargenville, la facilité d'entretien constitue souvent un critère décisif, particulièrement dans les salles de bain familiales très sollicitées.
+
+Vous envisagez de rénover votre salle de bain dans les Yvelines ? CHARRIERE SARL vous accompagne de la conception à la réalisation de votre projet. Contactez-nous pour un devis gratuit et des conseils personnalisés adaptés à votre budget et vos envies.`,
+  },
+  {
     slug: "renovation-maison-combien-temps-prevoir-duree-travaux",
     title: "Rénovation de maison : combien de temps prévoir selon vos travaux ?",
     metaTitle: "Durée Rénovation Maison : Planning Réaliste par Type de Travaux | CHARRIERE SARL",
