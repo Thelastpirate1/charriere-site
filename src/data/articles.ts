@@ -15,6 +15,110 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renovation-cuisine-ouverte-salon-avantages-inconvenients",
+    title: "Cuisine ouverte sur salon : avantages, inconvénients et contraintes techniques",
+    metaTitle: "Rénovation Cuisine Ouverte sur Salon — Avantages & Inconvénients | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les avantages et inconvénients d'une cuisine ouverte sur salon. Contraintes techniques, prix et conseils d'expert pour votre projet dans les Yvelines.",
+    keywords: ["cuisine ouverte salon","rénovation cuisine ouverte","cuisine américaine","aménagement cuisine salon"],
+    excerpt:
+      "La cuisine ouverte sur salon séduit de plus en plus de propriétaires. Découvrez tous les aspects techniques et pratiques de ce projet de rénovation.",
+    publishedAt: "2026-05-01",
+    readTime: "7 min",
+    category: "Cuisine",
+    image: "/images/blog/renovation-cuisine-ouverte-salon-avantages-inconvenients.webp",
+    imageAlt: "Cuisine ouverte sur salon : avantages, inconvénients et contraintes techniques",
+    content: `La cuisine ouverte sur salon, aussi appelée cuisine américaine, est devenue l'une des demandes les plus fréquentes lors de nos chantiers de rénovation à Gargenville et dans les communes environnantes des Yvelines. Cette configuration transforme radicalement l'espace de vie et mérite une réflexion approfondie avant de se lancer.
+
+## Les avantages indéniables de la cuisine ouverte
+
+### Un espace agrandi et lumineux
+
+En supprimant la cloison qui séparait traditionnellement la cuisine du salon, vous créez immédiatement une sensation d'espace. Cette transformation est particulièrement appréciée dans les appartements ou maisons de taille modeste que l'on retrouve fréquemment à Mantes-la-Jolie ou Poissy.
+
+L'ouverture permet également à la lumière naturelle de circuler librement entre les deux espaces. Si votre salon bénéficie d'une belle exposition, votre cuisine en profitera également, réduisant ainsi vos besoins en éclairage artificiel pendant la journée.
+
+### Une convivialité renforcée
+
+La cuisine ouverte favorise les échanges familiaux et l'accueil des invités. Pendant que vous préparez le repas, vous pouvez converser avec vos proches installés dans le salon, surveiller les enfants qui jouent, ou même suivre un programme télévisé. Cette configuration est devenue un véritable art de vivre.
+
+Lors d'un récent chantier à Saint-Germain-en-Laye, nos clients nous ont confié que l'ouverture de leur cuisine avait complètement transformé leurs habitudes familiales, créant un véritable lieu de vie central.
+
+### Une facilitation de la circulation
+
+L'aménagement ouvert optimise les déplacements dans la maison. Fini les allers-retours avec les portes à ouvrir et fermer, particulièrement appréciable lorsque vous portez des plats ou recevez du monde.
+
+## Les inconvénients à bien anticiper
+
+### La gestion des odeurs et vapeurs de cuisson
+
+C'est probablement le principal défi d'une cuisine ouverte. Les odeurs de cuisson se propagent naturellement dans tout l'espace de vie. Une friture de poisson ou une raclette marquera durablement vos textiles du salon : canapé, rideaux, tapis.
+
+Il est donc indispensable d'investir dans un système de ventilation performant. Nous recommandons systématiquement une hotte aspirante de qualité professionnelle, avec un débit d'au moins 600 m³/h pour une cuisine ouverte standard.
+
+### Le bruit constant des appareils électroménagers
+
+Le réfrigérateur, le lave-vaisselle, la hotte, tous ces équipements génèrent du bruit qui se propage désormais dans votre salon. Cette nuisance sonore peut devenir problématique, notamment le soir lorsque vous souhaitez regarder la télévision ou recevoir.
+
+Sur un chantier récent à Conflans-Sainte-Honorine, nous avons dû prévoir une isolation acoustique renforcée autour de l'espace électroménager pour limiter ces désagréments.
+
+### L'obligation de maintenir un ordre constant
+
+Avec une cuisine ouverte, impossible de cacher le désordre ! Votre plan de travail et votre évier sont constamment visibles depuis le salon. Cela impose une discipline quotidienne et peut générer un stress supplémentaire au quotidien.
+
+## Les contraintes techniques majeures
+
+### L'évaluation structurelle préalable
+
+Avant toute démolition, il est impératif de vérifier si la cloison à abattre est porteuse ou non. Dans les constructions des années 1970-1980 que l'on retrouve fréquemment à Sartrouville ou Les Mureaux, certaines cloisons participent à la stabilité du bâtiment.
+
+Si la cloison est effectivement porteuse, nous devrons prévoir la pose d'un IPN (poutre métallique) pour reprendre les charges. Cette intervention nécessite l'intervention d'un bureau d'études structure et représente un surcoût significatif, généralement entre 2000 et 4000 euros selon la portée.
+
+### Le défi de l'évacuation des fumées
+
+L'installation d'une hotte performante nécessite souvent de repenser complètement l'évacuation. Si votre cuisine actuelle dispose d'une évacuation directe vers l'extérieur, l'ouverture de l'espace peut compliquer le raccordement.
+
+Dans certains cas, nous devons créer un conduit d'évacuation apparent ou l'intégrer dans un faux-plafond. Cette solution technique peut impacter l'esthétique générale et nécessite une étude personnalisée.
+
+### La complexité du réseau plomberie
+
+L'ouverture de l'espace implique souvent de repenser l'implantation de votre cuisine. Le déplacement de l'évier nécessite de modifier les arrivées et évacuations d'eau, ce qui peut s'avérer complexe selon la configuration existante.
+
+Nous avons récemment réalisé une cuisine ouverte à Gargenville où le déplacement de l'évier a nécessité de créer une évacuation dans une chape existante, représentant deux jours de travaux supplémentaires.
+
+### L'adaptation du réseau électrique
+
+Une cuisine ouverte moderne nécessite souvent plus de prises électriques et des circuits dédiés pour les gros électroménagers. L'éclairage doit également être repensé pour créer différentes ambiances entre l'espace cuisson et l'espace salon.
+
+La norme NF C 15-100 impose des circuits spécialisés pour le lave-vaisselle, le four, les plaques de cuisson. Cette mise aux normes représente généralement entre 800 et 1500 euros selon l'ampleur des modifications.
+
+## Les solutions techniques recommandées
+
+### Investir dans une hotte de qualité
+
+Nous préconisons systématiquement une hotte îlot ou une hotte plafond intégrée, avec un débit minimum de 10 fois le volume de la pièce par heure. Les modèles avec recyclage par filtres charbon peuvent être une solution si l'évacuation extérieure est impossible.
+
+Prévoyez un budget entre 800 et 2500 euros pour une hotte adaptée à une cuisine ouverte, installation comprise.
+
+### Créer des zones de transition
+
+L'utilisation d'un îlot central ou d'une péninsule permet de conserver une séparation visuelle tout en maintenant l'ouverture. Cette solution offre également des rangements supplémentaires et un plan de travail étendu.
+
+### Optimiser l'isolation phonique
+
+L'installation de matériaux absorbants derrière les meubles de cuisine et le choix d'électroménager silencieux limitent les nuisances sonores. Les dernières générations de lave-vaisselle affichent des niveaux sonores inférieurs à 40 dB.
+
+## Budget et planning de réalisation
+
+Pour une ouverture de cuisine standard dans les Yvelines, comptez entre 8000 et 15000 euros selon les contraintes techniques rencontrées. Ce budget inclut la démolition, l'évacuation des gravats, la réfection des sols et murs, l'adaptation des réseaux et la pose d'une hotte performante.
+
+La durée des travaux varie généralement entre 2 et 4 semaines, selon que la cloison soit porteuse ou non et l'ampleur des modifications de réseaux nécessaires.
+
+Chez CHARRIERE SARL, nous accompagnons nos clients de Gargenville et des communes environnantes dans toutes les étapes de leur projet de cuisine ouverte. Notre expertise technique nous permet d'anticiper les contraintes et de vous proposer des solutions adaptées à votre budget et vos attentes.
+
+Vous envisagez d'ouvrir votre cuisine sur votre salon ? Contactez-nous pour un devis personnalisé et gratuit. Nous nous déplaçons dans toutes les Yvelines pour étudier la faisabilité technique de votre projet et vous conseiller sur les meilleures solutions à mettre en œuvre.`,
+  },
+  {
     slug: "choisir-carrelage-salle-de-bain-2026-poissy-mantes-la-jolie",
     title: "Comment bien choisir son carrelage de salle de bain en 2026 ?",
     metaTitle: "Carrelage Salle de Bain 2026 — Grès Cérame & Grand Format | CHARRIERE SARL",
