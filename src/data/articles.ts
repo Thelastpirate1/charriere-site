@@ -15,6 +15,88 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "etapes-renovation-salle-bain-guide-complet",
+    title: "Les 7 Étapes Clés d'une Rénovation de Salle de Bain Réussie",
+    metaTitle: "Étapes Rénovation Salle de Bain — Guide Complet | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les 7 étapes essentielles pour réussir votre rénovation de salle de bain dans les Yvelines. Guide complet avec conseils d'artisan expert.",
+    keywords: ["rénovation salle de bain","étapes rénovation","artisan salle de bain Yvelines","rénovation Gargenville"],
+    excerpt:
+      "Un guide complet des 7 étapes essentielles pour mener à bien votre projet de rénovation de salle de bain, de la conception à la finition.",
+    publishedAt: "2026-05-03",
+    readTime: "8 min",
+    category: "Salle de bain",
+    image: "/images/blog/etapes-renovation-salle-bain-guide-complet.webp",
+    imageAlt: "Les 7 Étapes Clés d'une Rénovation de Salle de Bain Réussie",
+    content: `La rénovation d'une salle de bain représente l'un des projets les plus complexes en matière d'aménagement intérieur. Entre la plomberie, l'électricité, l'étanchéité et la pose de carrelage, cette pièce d'eau nécessite une coordination parfaite entre différents corps de métier. Pour les propriétaires de Gargenville, Mantes-la-Jolie ou Poissy, comprendre les étapes de ce processus permet d'anticiper les délais et d'éviter les mauvaises surprises.
+
+## Étape 1 : L'étude et la conception du projet
+
+Tout projet de rénovation commence par une phase de réflexion approfondie. Cette première étape consiste à définir vos besoins, votre budget et vos contraintes techniques. Dans une salle de bain existante, il faut d'abord évaluer l'état des installations actuelles : canalisations, évacuations, système électrique et structure des murs.
+
+L'avantage de faire appel à un artisan polyvalent comme CHARRIERE SARL réside dans cette phase cruciale. Plutôt que de multiplier les intervenants dès le départ, un professionnel expérimenté peut réaliser un diagnostic complet et vous proposer des solutions cohérentes. Il identifiera les contraintes techniques, les possibilités d'aménagement et établira un planning réaliste.
+
+Cette étape inclut également le choix des matériaux et équipements. Pour une salle de bain standard de 5m² dans les Yvelines, comptez entre 8 000 et 15 000 euros selon le niveau de finition souhaité. La conception détaillée permet d'établir un devis précis et d'éviter les modifications coûteuses en cours de chantier.
+
+## Étape 2 : La démolition et la préparation
+
+Une fois le projet défini, place à la démolition de l'existant. Cette phase nécessite une attention particulière pour préserver les éléments à conserver et protéger le reste du logement. Il faut déposer soigneusement les anciens équipements, retirer le carrelage mural et au sol, puis procéder aux saignées nécessaires pour les nouvelles canalisations.
+
+La démolition révèle souvent des surprises : canalisations vétustes, problèmes d'étanchéité ou défauts de structure. C'est pourquoi confier cette étape à un artisan expérimenté s'avère judicieux. Il saura adapter le projet aux contraintes découvertes et proposer des solutions techniques appropriées.
+
+Dans les maisons anciennes de Saint-Germain-en-Laye ou Conflans-Sainte-Honorine, cette phase peut révéler des canalisations en plomb nécessitant un remplacement complet. Un artisan unique coordonne alors ces modifications avec le reste du projet, évitant les délais et surcoûts.
+
+## Étape 3 : Les gros œuvres et la plomberie
+
+Après la démolition, place aux modifications structurelles et aux nouvelles installations de plomberie. Cette étape comprend la création ou modification des arrivées d'eau chaude et froide, l'installation des évacuations et la mise en place du système de chauffage.
+
+Les normes actuelles imposent des contraintes strictes en matière d'évacuation et de ventilation. Il faut prévoir les pentes nécessaires pour l'évacuation des eaux usées, installer une ventilation mécanique contrôlée adaptée et respecter les distances minimales entre les différents équipements.
+
+Cette phase technique détermine la réussite de l'ensemble du projet. Une erreur à ce niveau peut compromettre l'étanchéité future ou créer des dysfonctionnements coûteux. Faire appel à un artisan maîtrisant l'ensemble des techniques permet d'assurer la cohérence entre plomberie, électricité et gros œuvre.
+
+## Étape 4 : L'électricité et l'éclairage
+
+L'installation électrique d'une salle de bain répond à des normes de sécurité strictes définies par la norme NF C 15-100. Il faut créer un circuit dédié protégé par un disjoncteur différentiel 30mA, respecter les volumes de sécurité autour des points d'eau et installer un éclairage adapté.
+
+L'éclairage d'une salle de bain nécessite plusieurs sources lumineuses : éclairage général, éclairage du miroir et éventuellement éclairage d'ambiance. Les LED offrent aujourd'hui des solutions économiques et durables, particulièrement adaptées à l'humidité des salles d'eau.
+
+Cette étape doit être parfaitement coordonnée avec la plomberie pour éviter les interférences entre canalisations et câblages. Un artisan polyvalent anticipe ces interactions et optimise les passages techniques, réduisant les coûts et les délais d'intervention.
+
+## Étape 5 : L'étanchéité et l'isolation
+
+L'étanchéité constitue le point critique de toute rénovation de salle de bain. Il faut traiter l'ensemble des parois en contact avec l'eau : sol, murs de douche, contour de baignoire et zones de passage de canalisations. Les techniques modernes utilisent des membranes d'étanchéité liquides ou des systèmes d'étanchéité sous carrelage.
+
+L'isolation thermique et phonique améliore le confort d'usage. Dans les maisons des Mureaux ou Sartrouville, une isolation performante évite les problèmes de condensation et améliore les performances énergétiques du logement.
+
+Cette étape invisible mais cruciale conditionne la durabilité de votre rénovation. Un défaut d'étanchéité peut provoquer des dégâts importants dans le logement et nécessiter une réfection complète. L'expertise d'un professionnel garantit la mise en œuvre conforme aux règles de l'art.
+
+## Étape 6 : Le carrelage et les revêtements
+
+La pose des revêtements transforme votre salle de bain et lui donne son aspect définitif. Le carrelage reste le revêtement de référence pour sa résistance à l'humidité et sa facilité d'entretien. Il existe aujourd'hui une grande variété de formats, textures et couleurs permettant tous les styles.
+
+La pose du carrelage nécessite une parfaite préparation des supports et le respect des règles de calepinage. Les joints d'étanchéité autour des équipements sanitaires demandent un soin particulier. Pour une salle de bain de taille moyenne, comptez entre 50 et 150 euros par mètre carré selon le type de carrelage choisi.
+
+Les revêtements muraux peuvent également inclure la peinture spéciale salle de bain, l'enduit décoratif ou le lambris PVC. Le choix dépend du style souhaité et du budget disponible. Un artisan expérimenté vous conseillera sur les matériaux les mieux adaptés à votre projet.
+
+## Étape 7 : L'installation des équipements et finitions
+
+La dernière étape consiste à installer les équipements sanitaires et réaliser les finitions. Cette phase comprend la pose de la baignoire ou du receveur de douche, l'installation des robinetteries, la fixation des meubles et accessoires.
+
+Chaque équipement doit être raccordé aux arrivées d'eau et évacuations préparées lors des étapes précédentes. Les réglages finaux assurent le bon fonctionnement de l'ensemble : débit des robinets, évacuation des eaux, étanchéité des joints.
+
+Les finitions incluent la pose des joints silicone, l'installation des accessoires muraux, la fixation du miroir et de l'éclairage. Ces détails donnent le caractère final à votre salle de bain rénovée.
+
+## L'importance d'un artisan unique pour votre projet
+
+Coordonner une rénovation de salle de bain avec plusieurs artisans différents génère souvent des complications : problèmes de planning, responsabilités partagées en cas de défaut, coûts supplémentaires liés aux déplacements multiples.
+
+Faire appel à un artisan polyvalent comme CHARRIERE SARL présente de nombreux avantages. Un interlocuteur unique suit votre projet de bout en bout, coordonne les différentes phases et assume la responsabilité de l'ensemble des travaux. Cette approche garantit une meilleure cohérence technique et des délais maîtrisés.
+
+La polyvalence permet également d'optimiser les coûts en évitant les marges multiples et les déplacements séparés. Pour les habitants de Gargenville et des communes environnantes, cette proximité facilite le suivi du chantier et les interventions ultérieures de maintenance.
+
+Vous envisagez de rénover votre salle de bain dans les Yvelines ? CHARRIERE SARL vous accompagne dans toutes les étapes de votre projet, de la conception à la réalisation. Contactez-nous dès aujourd'hui pour établir un devis gratuit adapté à vos besoins et votre budget.`,
+  },
+  {
     slug: "prix-douche-italienne-2026-yvelines",
     title: "Combien coûte une douche à l'italienne en 2026 dans les Yvelines ?",
     metaTitle: "Prix Douche Italienne 2026 — Tarifs Détaillés Yvelines | CHARRIERE SARL",
