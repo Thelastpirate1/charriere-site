@@ -15,6 +15,104 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "quel-plan-travail-choisir-cuisine-quartz-granit-bois-stratifie",
+    title: "Quel Plan de Travail Choisir pour sa Cuisine ? Guide Complet 2026",
+    metaTitle: "Plan de Travail Cuisine : Quartz, Granit, Bois ou Stratifié | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez quel plan de travail choisir pour votre cuisine : comparatif quartz, granit, bois, stratifié. Prix, durabilité et conseils d'expert à Gargenville.",
+    keywords: ["plan de travail cuisine","quartz cuisine","granit plan travail","renovation cuisine gargenville"],
+    excerpt:
+      "Le choix du plan de travail est crucial dans une cuisine. Découvrez notre comparatif détaillé entre quartz, granit, bois et stratifié pour faire le bon choix.",
+    publishedAt: "2026-05-04",
+    readTime: "8 min",
+    category: "Cuisine",
+    image: "/images/blog/quel-plan-travail-choisir-cuisine-quartz-granit-bois-stratifie.webp",
+    imageAlt: "Quel Plan de Travail Choisir pour sa Cuisine ? Guide Complet 2026",
+    content: `Le plan de travail constitue l'élément central de votre cuisine. C'est sur cette surface que vous préparez vos repas quotidiens, et elle doit allier esthétique, praticité et résistance. Avec l'expérience de nombreuses rénovations de cuisines à Gargenville et dans les Yvelines, nous vous guidons dans ce choix déterminant pour votre projet.
+
+Le marché propose aujourd'hui une grande variété de matériaux, chacun ayant ses avantages et ses inconvénients. Entre le quartz ultra-résistant, le granit noble, le bois chaleureux et le stratifié économique, comment s'y retrouver ? Ce guide détaillé vous aidera à faire le choix le plus adapté à vos besoins et à votre budget.
+
+## Le plan de travail en quartz : la référence moderne
+
+Le quartz s'impose aujourd'hui comme le matériau de référence pour les plans de travail haut de gamme. Composé à 90% de quartz naturel et 10% de résine, ce matériau artificiel offre des performances exceptionnelles.
+
+Sa résistance aux rayures, aux taches et à la chaleur en fait un choix privilégié pour les cuisines intensément utilisées. Contrairement aux idées reçues, le quartz ne nécessite aucun traitement d'étanchéité et conserve son aspect d'origine pendant des décennies.
+
+L'avantage esthétique du quartz réside dans sa régularité. Contrairement aux pierres naturelles, vous ne trouverez pas de variations de couleur ou de motif d'une plaque à l'autre. Cette homogénéité facilite grandement les raccords, particulièrement important pour les cuisines avec îlot central.
+
+Côté tarifs, comptez entre 300 et 600 euros le mètre carré posé, selon la qualité et l'épaisseur choisies. Ce prix peut paraître élevé, mais l'investissement se justifie par la durabilité exceptionnelle du matériau.
+
+## Le granit : l'élégance naturelle intemporelle
+
+Le granit reste un choix prisé pour sa beauté naturelle unique. Chaque dalle présente des veines et des nuances différentes, conférant à votre cuisine un caractère authentique et raffiné.
+
+Cette pierre naturelle offre une résistance remarquable aux chocs et à la chaleur. Vous pouvez poser une casserole chaude directement sur le granit sans risque d'endommagement. Sa dureté naturelle le rend également très résistant aux rayures du quotidien.
+
+Toutefois, le granit présente une porosité naturelle qui nécessite un traitement d'étanchéité régulier, environ tous les deux ans. Sans cette protection, les liquides peuvent s'infiltrer et provoquer des taches définitives.
+
+Dans les Yvelines, de nombreuses cuisines à Saint-Germain-en-Laye et Conflans-Sainte-Honorine adoptent le granit pour son prestige. Les prix oscillent entre 250 et 500 euros le mètre carré posé, selon la provenance et la rareté de la pierre.
+
+## Le stratifié : l'option économique et polyvalente
+
+Le stratifié moderne n'a plus rien à voir avec les anciens modèles. Les nouvelles générations offrent des imitations très réussies de matériaux nobles comme le marbre, le béton ou le bois.
+
+Son principal avantage réside dans son rapport qualité-prix exceptionnel. Pour un budget serré, le stratifié permet d'obtenir un rendu esthétique satisfaisant sans compromettre la fonctionnalité de la cuisine.
+
+La facilité d'entretien constitue un autre atout majeur. Un simple nettoyage à l'eau savonneuse suffit pour maintenir l'aspect d'origine. De plus, les dernières générations intègrent des traitements antibactériens particulièrement appréciés en cuisine.
+
+Les limites du stratifié concernent principalement sa résistance à la chaleur et aux chocs violents. Une casserole chaude ou un coup de couteau peuvent laisser des marques irréversibles. Comptez entre 50 et 150 euros le mètre carré posé.
+
+## Le bois : la chaleur naturelle à maîtriser
+
+Le plan de travail en bois apporte une ambiance chaleureuse et conviviale à la cuisine. Les essences comme le chêne, le hêtre ou l'iroko offrent des caractéristiques différentes en termes de dureté et de résistance à l'humidité.
+
+L'avantage du bois réside dans sa capacité à se patiner avec le temps, développant un caractère unique. Les petites rayures du quotidien participent à cette patine naturelle plutôt que de constituer des défauts.
+
+Cependant, le bois demande un entretien rigoureux. Un huilage régulier, tous les six mois environ, maintient ses propriétés hydrofuges. Sans cette protection, l'humidité peut provoquer des déformations ou des taches.
+
+Les tarifs varient considérablement selon l'essence choisie, de 100 euros le mètre carré pour un hêtre standard à plus de 300 euros pour des essences exotiques résistantes.
+
+## Critères de choix selon votre mode de vie
+
+Le choix du plan de travail doit s'adapter à votre utilisation quotidienne de la cuisine. Une famille nombreuse qui cuisine fréquemment privilégiera la résistance du quartz ou du granit, même si l'investissement initial est plus conséquent.
+
+Pour une résidence secondaire ou une cuisine peu sollicitée, le stratifié peut suffire amplement. Sa facilité d'entretien et son coût réduit en font une solution pertinente pour ce type d'usage.
+
+L'esthétique joue également un rôle déterminant. Le style de votre cuisine influence naturellement le choix du matériau. Une cuisine contemporaine s'accommodera parfaitement du quartz, tandis qu'un style rustique appellera plutôt le bois ou la pierre naturelle.
+
+## Installation et finitions : l'importance du savoir-faire
+
+La pose du plan de travail nécessite une expertise technique particulière, surtout pour les matériaux lourds comme le granit ou le quartz. Les découpes d'évier, de plaque de cuisson et les chants visibles demandent une précision millimétrique.
+
+Chez CHARRIERE SARL, nous privilégions toujours un relevé de mesures précis après la pose des meubles. Cette méthode garantit un ajustement parfait et évite les mauvaises surprises le jour de la livraison.
+
+Les finitions des chants constituent un point crucial souvent négligé. Un chant mal réalisé compromet l'esthétique générale et peut créer des zones de faiblesse dans le temps.
+
+## Entretien et durabilité dans le temps
+
+La longévité de votre plan de travail dépend largement de l'entretien que vous lui accordez. Le quartz, pratiquement sans entretien, conserve son aspect neuf pendant des décennies avec un simple nettoyage quotidien.
+
+Le granit nécessite plus d'attention avec son traitement bisannuel, mais récompense cette vigilance par une durabilité exceptionnelle. Certains plans de travail en granit traversent les générations sans perdre de leur superbe.
+
+Le bois et le stratifié demandent plus de précautions au quotidien, mais un entretien approprié prolonge considérablement leur durée de vie.
+
+## Budget et retour sur investissement
+
+L'investissement dans un plan de travail de qualité se justifie par plusieurs facteurs. Outre la satisfaction d'usage au quotidien, un matériau noble valorise votre bien immobilier lors d'une éventuelle revente.
+
+Dans les secteurs prisés comme Mantes-la-Jolie ou Les Mureaux, une cuisine équipée d'un plan de travail en quartz ou granit constitue un argument de vente non négligeable.
+
+Il convient également de considérer le coût global sur la durée de vie. Un stratifié moins cher à l'achat mais remplacé tous les dix ans peut s'avérer plus coûteux qu'un quartz conservé trente ans.
+
+## Notre accompagnement pour votre projet cuisine
+
+Forte de son expérience dans la rénovation de cuisines à Gargenville et dans toute la région des Yvelines, l'équipe CHARRIERE SARL vous accompagne dans le choix de votre plan de travail. Nous prenons en compte vos habitudes de vie, votre budget et vos préférences esthétiques pour vous orienter vers la solution la plus adaptée.
+
+Notre réseau de fournisseurs nous permet de vous proposer tous les matériaux aux meilleurs tarifs, sans compromis sur la qualité. De la sélection à la pose finale, nous assurons un suivi complet de votre projet.
+
+Vous envisagez de rénover votre cuisine à Poissy, Sartrouville ou ailleurs dans les Yvelines ? N'hésitez pas à nous contacter pour un devis gratuit et personnalisé. Nous étudions ensemble la solution qui transformera votre cuisine en espace de vie exceptionnel.`,
+  },
+  {
     slug: "etapes-renovation-salle-bain-guide-complet",
     title: "Les 7 Étapes Clés d'une Rénovation de Salle de Bain Réussie",
     metaTitle: "Étapes Rénovation Salle de Bain — Guide Complet | CHARRIERE SARL",
