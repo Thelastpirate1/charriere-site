@@ -15,6 +15,112 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renover-maison-ancienne-yvelines-78",
+    title: "Rénover une maison ancienne dans les Yvelines : guide complet",
+    metaTitle: "Rénovation Maison Ancienne Yvelines 78 — Isolation, Normes | CHARRIERE SARL",
+    metaDescription:
+      "Rénovez votre maison ancienne dans les Yvelines avec respect du bâti traditionnel. Isolation, normes, préservation du charme. Devis gratuit 78.",
+    keywords: ["rénovation maison ancienne yvelines","bâti ancien 78","isolation maison ancienne","rénovation Les Mureaux","rénovation Meulan"],
+    excerpt:
+      "Découvrez comment rénover une maison ancienne dans les Yvelines en préservant son caractère tout en améliorant ses performances énergétiques.",
+    publishedAt: "2026-05-06",
+    readTime: "8 min",
+    category: "Rénovation",
+    image: "/images/blog/renover-maison-ancienne-yvelines-78.webp",
+    imageAlt: "Rénover une maison ancienne dans les Yvelines : guide complet",
+    content: `Rénover une maison ancienne dans les Yvelines représente un projet passionnant qui allie respect du patrimoine et modernisation nécessaire. Que vous ayez acquis une longère à Meulan ou une maison de maître aux Mureaux, chaque bâti ancien du département possède ses spécificités qu'il convient de comprendre avant d'entreprendre des travaux.
+
+Les Yvelines regorgent de constructions traditionnelles datant du XVIIIe et XIXe siècle, particulièrement dans les communes comme Gargenville, Mantes-la-Jolie ou Saint-Germain-en-Laye. Ces demeures de caractère nécessitent une approche respectueuse de leurs techniques constructives d'origine tout en répondant aux exigences contemporaines de confort et d'efficacité énergétique.
+
+## Comprendre le bâti ancien des Yvelines
+
+### Les caractéristiques du patrimoine yvelinois
+
+Les maisons anciennes des Yvelines présentent des particularités constructives liées aux matériaux locaux disponibles à l'époque. La pierre calcaire, extraite des carrières de la région, constitue souvent la base des fondations et des murs porteurs. Les murs en moellons de pierre, d'une épaisseur variant entre 40 et 60 centimètres, assurent une excellente inertie thermique naturelle.
+
+Le torchis, mélange d'argile et de fibres végétales, servait traditionnellement de remplissage entre les pans de bois. Cette technique, courante dans les constructions rurales de Conflans-Sainte-Honorine ou de Poissy, permet une régulation naturelle de l'humidité mais nécessite un entretien régulier.
+
+Les charpentes traditionnelles en chêne, assemblées par tenons et mortaises, témoignent du savoir-faire ancestral. Ces structures, souvent centenaires, conservent généralement une excellente stabilité mais peuvent nécessiter des renforts ponctuels ou le remplacement de certaines pièces de bois.
+
+### L'adaptation aux contraintes climatiques locales
+
+Le climat tempéré océanique des Yvelines, avec ses hivers humides et ses étés parfois chauds, a influencé les techniques constructives traditionnelles. Les toitures pentues en tuiles plates ou en ardoise facilitent l'évacuation des eaux de pluie, tandis que les murs épais protègent naturellement des variations thermiques.
+
+Cependant, cette conception ancestrale ne répond plus aux standards actuels d'isolation et d'étanchéité. L'humidité peut s'infiltrer par capillarité depuis les fondations non étanchéifiées, créant des désordres dans les murs en pierre ou en terre.
+
+## Diagnostic préalable : étape indispensable
+
+### Évaluation structurelle complète
+
+Avant tout projet de rénovation d'une maison ancienne à Les Mureaux ou Meulan, un diagnostic structurel approfondi s'impose. Cette expertise permet d'identifier les pathologies existantes : fissures dans les murs porteurs, affaissement de planchers, déformation de la charpente ou problèmes de fondations.
+
+L'examen des installations existantes révèle souvent des réseaux électriques et de plomberie obsolètes, ne respectant plus les normes de sécurité actuelles. La mise aux normes de ces équipements représente généralement un poste budgétaire important, avec des coûts variant entre 80 et 150 euros par mètre carré selon la complexité des travaux.
+
+### Détection des problèmes d'humidité
+
+L'humidité constitue l'ennemi principal des constructions anciennes. Les remontées capillaires depuis le sol, l'infiltration d'eau de pluie par la toiture ou les murs, et la condensation due à une ventilation insuffisante peuvent causer des dégâts considérables.
+
+Un diagnostic humidité complet, incluant des mesures hygrométriques et l'identification des sources, coûte généralement entre 500 et 800 euros. Cette dépense initiale permet d'éviter des erreurs coûteuses lors de la rénovation et de choisir les solutions techniques adaptées.
+
+## Isolation : concilier performance et préservation
+
+### Les enjeux de l'isolation thermique
+
+L'amélioration de la performance énergétique d'une maison ancienne dans les Yvelines nécessite une approche respectueuse des matériaux d'origine. L'isolation par l'intérieur, plus économique avec un coût moyen de 50 à 80 euros par mètre carré, réduit cependant l'espace habitable et peut perturber les échanges hygrométriques naturels des murs anciens.
+
+L'isolation par l'extérieur, bien que plus coûteuse avec des tarifs oscillant entre 120 et 180 euros par mètre carré, préserve les volumes intérieurs et améliore significativement l'inertie thermique. Cette solution s'avère particulièrement adaptée aux maisons en pierre des communes comme Sartrouville ou Gargenville.
+
+### Choix des matériaux isolants
+
+Les isolants naturels comme la fibre de bois, la ouate de cellulose ou le chanvre s'accordent parfaitement avec les matériaux traditionnels. Ces produits, perméables à la vapeur d'eau, permettent aux murs anciens de continuer à "respirer" tout en améliorant leur performance thermique.
+
+La laine de bois, avec un coût d'environ 20 à 35 euros par mètre carré, offre d'excellentes performances tant en hiver qu'en été. Sa capacité de déphasage thermique procure un confort appréciable lors des fortes chaleurs estivales.
+
+## Respect des normes et réglementations
+
+### Contraintes urbanistiques locales
+
+Les communes des Yvelines appliquent souvent des règlements d'urbanisme stricts pour préserver l'identité architecturale locale. À Meulan ou aux Mureaux, certains secteurs bénéficient d'une protection particulière qui encadre les modifications de façade, le choix des matériaux ou la couleur des menuiseries.
+
+La consultation du Plan Local d'Urbanisme en mairie constitue un préalable obligatoire. Les Architectes des Bâtiments de France peuvent également intervenir dans les secteurs protégés, ajoutant des contraintes supplémentaires mais garantissant la préservation du patrimoine architectural.
+
+### Mise aux normes énergétiques
+
+La rénovation énergétique d'une maison ancienne doit respecter la Réglementation Thermique Existant. Cette obligation concerne notamment l'isolation des parois rénovées, l'installation de systèmes de chauffage performants et la mise en place d'une ventilation adaptée.
+
+Les aides financières comme MaPrimeRénov' ou les Certificats d'Économies d'Énergie encouragent ces améliorations. Un audit énergétique préalable, coûtant entre 800 et 1200 euros, permet d'optimiser les choix techniques et de maximiser les subventions disponibles.
+
+## Préservation du charme et du caractère
+
+### Valorisation des éléments d'origine
+
+La restauration des éléments patrimoniaux comme les poutres apparentes, les cheminées anciennes ou les sols en terre cuite contribue au charme unique des maisons anciennes. Ces travaux de restauration, minutieux et spécialisés, représentent un investissement variant entre 100 et 300 euros par mètre carré selon la complexité.
+
+Le sablage des poutres en chêne, leur traitement contre les insectes xylophages et leur finition demandent un savoir-faire spécifique. CHARRIERE SARL maîtrise ces techniques traditionnelles, essentielles pour préserver l'authenticité des demeures anciennes tout en garantissant leur pérennité.
+
+### Création d'espaces contemporains
+
+L'aménagement d'espaces de vie modernes dans une maison ancienne nécessite créativité et respect du bâti existant. L'ouverture de cloisons non porteuses, l'installation de cuisines contemporaines ou la création de salles de bains peuvent transformer le confort sans dénaturer l'architecture d'origine.
+
+L'intégration discrète des réseaux techniques, cachés dans des gaines ou des faux-plafonds, permet de concilier modernité et esthétique. Ces aménagements sur mesure représentent généralement entre 800 et 1500 euros par mètre carré selon le niveau de finition souhaité.
+
+## Budget et planification des travaux
+
+### Estimation des coûts globaux
+
+La rénovation complète d'une maison ancienne dans les Yvelines nécessite un budget conséquent, généralement compris entre 1500 et 2500 euros par mètre carré pour une rénovation de qualité respectant le caractère du bâti. Ce montant inclut la mise aux normes, l'isolation, la réfection des réseaux et les finitions.
+
+Les postes les plus importants concernent la toiture et la charpente, représentant souvent 20 à 25% du budget total, suivis par l'isolation et le chauffage. La rénovation des façades et des menuiseries constitue également un investissement significatif, particulièrement si des matériaux nobles sont choisis pour préserver l'authenticité.
+
+### Planification et phasage
+
+Un projet de rénovation d'envergure s'étale généralement sur 8 à 18 mois selon l'ampleur des travaux. La planification rigoureuse des interventions permet d'optimiser les délais et de minimiser les désagréments pour les occupants.
+
+L'ordre logique débute par les travaux de gros œuvre et de toiture, suivi de l'isolation et de la pose des réseaux techniques. Les travaux de second œuvre et les finitions interviennent en dernière phase, permettant de révéler progressivement le charme restauré de la demeure ancienne.
+
+Rénover une maison ancienne dans les Yvelines représente un investissement durable qui valorise le patrimoine tout en créant un cadre de vie exceptionnel. Pour réussir votre projet de rénovation à Les Mureaux, Meulan ou dans toute commune des Yvelines, CHARRIERE SARL vous accompagne avec expertise et passion du bâti ancien. Contactez-nous dès aujourd'hui pour un devis gratuit et personnalisé de vos travaux de rénovation.`,
+  },
+  {
     slug: "amenager-petit-appartement-astuces-rangement-studio-t2",
     title: "Aménager un Petit Appartement : Astuces Rangement pour Studios et T2",
     metaTitle: "Aménagement Petit Appartement Studio T2 Sartrouville | CHARRIERE SARL",
