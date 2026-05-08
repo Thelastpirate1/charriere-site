@@ -15,6 +15,94 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "renover-cuisine-sans-tout-casser-solutions-budget",
+    title: "Comment rénover sa cuisine sans tout casser : astuces d'artisan",
+    metaTitle: "Rénover sa cuisine sans tout casser — Solutions budget malin | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez comment transformer votre cuisine avec un petit budget : repeindre les façades, changer le plan de travail. Conseils d'artisan en Yvelines.",
+    keywords: ["rénover cuisine sans casser","rénovation cuisine budget","repeindre façades cuisine","changer plan de travail","rénovation cuisine Yvelines"],
+    excerpt:
+      "Transformez votre cuisine avec un budget malin grâce à nos solutions de rénovation partielle : peinture, plan de travail, électroménager...",
+    publishedAt: "2026-05-08",
+    readTime: "6 min",
+    category: "Cuisine",
+    image: "/images/blog/renover-cuisine-sans-tout-casser-solutions-budget.webp",
+    imageAlt: "Comment rénover sa cuisine sans tout casser : astuces d'artisan",
+    content: `Votre cuisine a perdu de son éclat mais votre budget ne vous permet pas une rénovation complète ? Bonne nouvelle : il existe de nombreuses solutions pour lui redonner vie sans engager de gros travaux. En tant qu'artisan spécialisé en rénovation intérieure dans les Yvelines, je vous partage mes meilleures astuces pour transformer votre cuisine avec un budget maîtrisé.
+
+## Repeindre les façades de cuisine : la transformation express
+
+### Choisir la bonne peinture pour ses meubles de cuisine
+
+Repeindre les façades de vos meubles de cuisine représente l'une des solutions les plus économiques et spectaculaires. Cette technique permet de moderniser instantanément l'aspect de votre cuisine pour un budget moyen de 200 à 500 euros selon la surface à traiter.
+
+Pour obtenir un résultat durable, optez pour une peinture spécifique aux meubles de cuisine, résistante à l'humidité et aux graisses. Les peintures acryliques satinées offrent un excellent rapport qualité-prix, tandis que les peintures époxy garantissent une résistance maximale.
+
+### Préparation et application : les étapes clés
+
+La réussite de votre projet dépend largement de la préparation. Démontez les portes et tiroirs, dégraissez soigneusement toutes les surfaces avec un dégraissant spécifique. Un léger ponçage améliore l'accroche de la peinture, surtout sur les surfaces mélaminées.
+
+Pour les cuisines de Gargenville ou Mantes-la-Jolie où l'humidité peut être importante, l'application d'une sous-couche spéciale cuisine s'avère indispensable. Comptez une journée de préparation et deux jours de peinture pour une cuisine de taille moyenne.
+
+## Changer le plan de travail : un impact visuel garanti
+
+### Les matériaux tendance à prix abordable
+
+Le plan de travail constitue l'élément central de votre cuisine. Son remplacement transforme radicalement l'ambiance de la pièce. Les stratifiés nouvelle génération offrent aujourd'hui des finitions très réalistes imitant parfaitement le bois, la pierre ou le béton.
+
+Pour un budget de 150 à 400 euros selon les dimensions, vous obtenez un résultat moderne et durable. Les plans de travail en bois massif représentent une option plus onéreuse mais apportent une chaleur incomparable à votre cuisine.
+
+### Installation et découpes : l'importance du savoir-faire
+
+La pose d'un plan de travail nécessite des découpes précises, notamment autour de l'évier et des plaques de cuisson. Un artisan expérimenté réalise ces découpes sur mesure et assure une étanchéité parfaite des joints.
+
+Dans les cuisines anciennes de Poissy ou Saint-Germain-en-Laye, les murs rarement d'équerre demandent une expertise particulière pour obtenir un ajustement parfait. Cette prestation représente généralement 200 à 400 euros de main-d'œuvre selon la complexité.
+
+## Moderniser sa crédence avec style
+
+### Solutions déco abordables et tendance
+
+La crédence protège vos murs des éclaboussures tout en apportant une touche décorative. Remplacer l'ancienne crédence par un modèle moderne transforme immédiatement l'aspect de votre cuisine.
+
+Les carreaux de métro restent indémodables et s'adaptent à tous les styles. Pour 25 à 40 euros le mètre carré, vous obtenez un rendu chic et intemporel. Les crédences en verre laqué offrent une alternative moderne et facile d'entretien pour 60 à 100 euros le mètre carré.
+
+### Pose collée : une solution rapide et économique
+
+La pose collée permet d'installer votre nouvelle crédence directement sur l'ancien carrelage, évitant ainsi les frais de dépose. Cette technique convient parfaitement aux rénovations légères et limite considérablement les nuisances.
+
+Un artisan expérimenté réalise cette prestation en une demi-journée pour une cuisine standard. Le coût de pose varie entre 30 et 50 euros le mètre carré selon le matériau choisi.
+
+## Changer la robinetterie et l'éclairage
+
+### L'impact des détails sur l'ambiance générale
+
+Un nouveau robinet et un éclairage adapté suffisent parfois à rajeunir une cuisine. Les robinets mitigeurs design apportent une touche de modernité pour 100 à 300 euros selon les finitions choisies.
+
+L'éclairage sous les meubles hauts améliore considérablement le confort d'utilisation tout en créant une ambiance chaleureuse. Les réglettes LED consomment peu et durent longtemps, représentant un investissement de 50 à 150 euros pour une cuisine complète.
+
+### Installation électrique : respecter les normes de sécurité
+
+Tout ajout d'éclairage nécessite le respect des normes électriques en vigueur, particulièrement dans les zones humides de la cuisine. Un électricien qualifié s'assure de la conformité de l'installation et de votre sécurité.
+
+Dans les maisons anciennes des Mureaux ou Conflans-Sainte-Honorine, une mise aux normes partielle peut s'avérer nécessaire. Comptez 200 à 500 euros selon l'ampleur des travaux électriques à réaliser.
+
+## Optimiser son budget rénovation cuisine
+
+### Échelonner les travaux selon ses priorités
+
+Inutile de tout faire d'un coup. Commencez par les éléments les plus visibles : peinture des façades et changement du plan de travail. Vous pourrez ensuite ajouter une nouvelle crédence, puis moderniser l'éclairage et la robinetterie.
+
+Cette approche vous permet d'étaler les dépenses sur plusieurs mois tout en profitant rapidement d'une cuisine plus moderne. Chaque étape apporte sa part de satisfaction et vous motive pour la suite du projet.
+
+### Faire appel à un artisan pour certaines prestations
+
+Si la peinture peut être réalisée par vos soins, certaines prestations nécessitent l'intervention d'un professionnel. La découpe et la pose du plan de travail, l'installation électrique ou les raccordements de plomberie demandent un savoir-faire spécifique.
+
+CHARRIERE SARL accompagne les habitants de Sartrouville et des communes environnantes dans leurs projets de rénovation cuisine. Notre expérience nous permet de vous conseiller les meilleures solutions selon votre budget et vos attentes.
+
+Pour obtenir un devis personnalisé et gratuit pour votre projet de rénovation cuisine, contactez-nous dès maintenant. Nous étudions ensemble les meilleures options pour transformer votre cuisine sans vous ruiner.`,
+  },
+  {
     slug: "pose-parquet-yvelines-massif-contrecolle-stratifie-prix-poissy",
     title: "Pose de Parquet dans les Yvelines : Quel Type Choisir ? Guide Complet 2026",
     metaTitle: "Pose Parquet Poissy Yvelines — Massif, Contrecollé, Stratifié | CHARRIERE SARL",
