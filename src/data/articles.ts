@@ -15,6 +15,128 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "creer-suite-parentale-salle-eau-yvelines",
+    title: "Créer une Suite Parentale avec Salle d'Eau : Guide Complet 2026",
+    metaTitle: "Suite Parentale avec Salle d'Eau — Aménagement Yvelines | CHARRIERE SARL",
+    metaDescription:
+      "Créez votre suite parentale avec salle d'eau dans les Yvelines. Aménagement, plomberie, cloisons : budget, délais et conseils d'expert pour votre projet.",
+    keywords: ["suite parentale salle d'eau","aménagement suite parentale","création salle d'eau","rénovation suite parentale Yvelines"],
+    excerpt:
+      "Découvrez comment aménager une suite parentale avec salle d'eau dans votre pavillon des Yvelines : conseils, budget et étapes clés pour réussir votre projet.",
+    publishedAt: "2026-05-09",
+    readTime: "6 min",
+    category: "Aménagement",
+    image: "/images/blog/creer-suite-parentale-salle-eau-yvelines.webp",
+    imageAlt: "Créer une Suite Parentale avec Salle d'Eau : Guide Complet 2026",
+    content: `Créer une suite parentale avec salle d'eau représente l'un des projets d'aménagement les plus demandés dans les pavillons des Yvelines. Cette transformation permet de gagner en confort et en intimité tout en valorisant significativement votre bien immobilier. Que vous habitiez à Gargenville, Mantes-la-Jolie ou Saint-Germain-en-Laye, ce type d'aménagement s'adapte parfaitement aux maisons individuelles de notre région.
+
+## Pourquoi Aménager une Suite Parentale avec Salle d'Eau
+
+La suite parentale avec salle d'eau offre de nombreux avantages pratiques. Elle crée un espace privé dédié aux parents, évitant les embouteillages matinaux dans la salle de bain familiale. Cette configuration améliore également l'organisation quotidienne de la famille, particulièrement appréciable dans les foyers avec enfants.
+
+Dans les pavillons des Yvelines, notamment à Poissy ou Les Mureaux, cette solution répond parfaitement aux besoins des familles modernes. La valeur ajoutée immobilière est considérable : une suite parentale bien conçue peut augmenter la valeur de votre bien de 10 à 15 pour cent.
+
+## Étudier la Faisabilité de Votre Projet
+
+### Analyser l'Espace Disponible
+
+La première étape consiste à identifier l'espace idéal pour créer votre suite parentale. Les combles aménageables représentent souvent la solution la plus évidente, offrant intimité et séparation naturelle avec le reste de la maison. Une chambre existante peut également être agrandie en annexant une pièce adjacente.
+
+Pour les maisons de Conflans-Sainte-Honorine ou Sartrouville, l'extension peut parfois être envisagée si l'espace intérieur est insuffisant. Cette option nécessite cependant des démarches administratives plus complexes.
+
+### Vérifier les Contraintes Techniques
+
+La faisabilité technique dépend principalement de trois éléments : l'accessibilité des réseaux de plomberie, la possibilité d'évacuation des eaux usées et la structure porteuse existante. L'arrivée d'eau et l'évacuation constituent souvent les points les plus contraignants du projet.
+
+La hauteur sous plafond minimum recommandée est de 2,20 mètres pour le confort d'utilisation. Dans les combles, vérifiez que cette hauteur soit respectée sur une surface suffisante.
+
+## Conception et Aménagement de l'Espace
+
+### Optimiser la Distribution des Espaces
+
+Une suite parentale réussie nécessite une réflexion approfondie sur la distribution des espaces. La chambre doit conserver une surface minimum de 12 mètres carrés pour accueillir un lit double et des rangements. La salle d'eau, quant à elle, nécessite au minimum 3 mètres carrés pour être fonctionnelle.
+
+L'orientation des espaces influence grandement le confort d'utilisation. Privilégiez une exposition est ou sud pour la chambre, garantissant un réveil naturel et lumineux. La salle d'eau peut accepter une exposition moins favorable, notamment si elle dispose d'une ventilation mécanique efficace.
+
+### Choisir les Cloisons Adaptées
+
+Le choix des cloisons dépend des contraintes de votre projet. Les cloisons en placo sur ossature métallique offrent flexibilité et facilité de mise en œuvre. Elles permettent également d'intégrer facilement l'isolation phonique et les réseaux techniques.
+
+Pour séparer la chambre de la salle d'eau, privilégiez des cloisons avec un indice d'affaiblissement acoustique élevé. L'intimité sonore constitue un critère essentiel pour le confort de votre suite parentale.
+
+## Installation de la Plomberie et des Évacuations
+
+### Planifier les Arrivées d'Eau
+
+L'installation de la plomberie représente l'aspect le plus technique du projet. La création de nouvelles arrivées d'eau nécessite de se raccorder au réseau existant, idéalement depuis la salle de bain principale ou la cuisine. Cette opération peut nécessiter de percer des cloisons ou des planchers.
+
+La distribution doit respecter les normes DTU en vigueur, particulièrement pour les diamètres de canalisation et les pentes d'évacuation. L'eau chaude et l'eau froide doivent être correctement isolées pour éviter les pertes thermiques et la condensation.
+
+### Gérer les Évacuations d'Eaux Usées
+
+L'évacuation des eaux usées constitue souvent le point le plus délicat du projet. La pente naturelle d'évacuation doit être respectée, ce qui peut nécessiter des aménagements particuliers, notamment en combles. Un sanibroyeur peut être envisagé si l'évacuation gravitaire s'avère impossible.
+
+Dans les pavillons anciens des Yvelines, il convient de vérifier l'état et la capacité du réseau d'évacuation existant avant d'y raccorder de nouveaux équipements.
+
+## Ventilation et Électricité
+
+### Assurer une Ventilation Efficace
+
+La salle d'eau nécessite une ventilation performante pour évacuer l'humidité et prévenir les problèmes de moisissure. Une VMC simple flux suffit généralement, avec un extracteur spécifiquement dédié à la salle d'eau. Le débit d'extraction recommandé est de 15 mètres cubes par heure minimum.
+
+L'étanchéité à l'air de la salle d'eau doit être particulièrement soignée pour optimiser l'efficacité de la ventilation et limiter les transferts d'humidité vers la chambre.
+
+### Adapter l'Installation Électrique
+
+L'installation électrique doit respecter la norme NF C 15-100, particulièrement stricte dans les locaux humides. La salle d'eau nécessite un circuit dédié protégé par un disjoncteur différentiel 30 mA. L'éclairage et les prises doivent respecter les volumes de sécurité définis par la norme.
+
+Prévoyez suffisamment de points lumineux pour créer une ambiance agréable dans la chambre et un éclairage fonctionnel dans la salle d'eau.
+
+## Choix des Équipements et Finitions
+
+### Sélectionner les Sanitaires
+
+Le choix des sanitaires influence directement l'esthétique et la fonctionnalité de votre salle d'eau. Une douche à l'italienne s'intègre parfaitement dans un espace restreint tout en offrant un aspect moderne et épuré. Comptez entre 800 et 1500 euros pour une douche complète selon la qualité des matériaux choisis.
+
+Le lavabo peut être suspendu ou sur colonne selon l'espace disponible. Les modèles compacts, spécialement conçus pour les petits espaces, permettent d'optimiser chaque mètre carré.
+
+### Choisir les Revêtements
+
+Les revêtements de sol et muraux doivent allier esthétique et résistance à l'humidité. Le carrelage reste la solution la plus durable pour la salle d'eau, avec un large choix de formats et de finitions. Les grands formats créent une impression d'espace particulièrement appréciable dans les petits volumes.
+
+Pour la chambre, le parquet flottant ou stratifié offre confort et esthétique à prix raisonnable. L'isolation phonique entre les deux espaces mérite une attention particulière.
+
+## Budget et Financement de Votre Projet
+
+### Estimer les Coûts par Poste
+
+Le budget d'une suite parentale avec salle d'eau varie considérablement selon l'ampleur des travaux et la qualité des finitions choisies. Pour un aménagement complet incluant cloisons, plomberie et finitions, comptez entre 15000 et 30000 euros selon les spécificités de votre projet.
+
+La plomberie représente généralement 25 à 30 pour cent du budget total, soit 4000 à 8000 euros selon la complexité des raccordements. Les cloisons et l'isolation comptent pour 20 à 25 pour cent du budget, les finitions pour 30 à 40 pour cent.
+
+### Optimiser Votre Investissement
+
+Certains choix permettent d'optimiser le rapport qualité-prix de votre projet. Privilégier des équipements de milieu de gamme plutôt que du haut de gamme permet de réaliser des économies significatives sans compromettre la durabilité. Les finitions peuvent également être échelonnées dans le temps si le budget initial est serré.
+
+Les aides financières, comme MaPrimeRénov' pour les travaux d'isolation, peuvent réduire le coût final de votre projet.
+
+## Délais et Planification des Travaux
+
+### Organiser les Interventions
+
+La création d'une suite parentale nécessite une coordination précise des différents corps de métier. Les travaux de gros œuvre (cloisons, ouvertures) interviennent en premier, suivis de la plomberie et de l'électricité. Les finitions (sols, peintures, faïence) concluent le chantier.
+
+Comptez généralement 3 à 6 semaines pour un projet complet, selon la complexité des raccordements et les délais de livraison des matériaux. Une planification rigoureuse permet d'éviter les retards et les surcoûts.
+
+### Anticiper les Contraintes
+
+Certaines contraintes peuvent allonger les délais : difficulté d'accès pour les matériaux, nécessité d'obtenir une autorisation de travaux, découverte de problèmes techniques imprévus. Une marge de sécurité de 20 pour cent sur les délais prévus permet d'anticiper ces aléas.
+
+La saison influence également la planification : évitez les périodes de fortes chaleurs pour les travaux en combles non isolés.
+
+Votre projet de suite parentale avec salle d'eau mérite un accompagnement professionnel pour garantir sa réussite. CHARRIERE SARL vous propose un devis gratuit et personnalisé pour votre aménagement dans les Yvelines. Notre expertise en rénovation intérieure nous permet de vous conseiller sur les meilleures solutions techniques et esthétiques pour votre projet. Contactez-nous dès aujourd'hui pour transformer votre maison et créer l'espace de vos rêves.`,
+  },
+  {
     slug: "renover-cuisine-sans-tout-casser-solutions-budget",
     title: "Comment rénover sa cuisine sans tout casser : astuces d'artisan",
     metaTitle: "Rénover sa cuisine sans tout casser — Solutions budget malin | CHARRIERE SARL",
