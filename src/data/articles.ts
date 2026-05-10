@@ -15,6 +15,101 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "aides-financieres-renovation-2026-maprimerenov-eco-ptz",
+    title: "Aides financières rénovation 2026 : MaPrimeRénov', éco-PTZ et toutes les subventions",
+    metaTitle: "Aides Rénovation 2026 MaPrimeRénov' Éco-PTZ TVA | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez toutes les aides financières 2026 pour vos travaux de rénovation : MaPrimeRénov', MaPrimeAdapt', éco-PTZ, TVA réduite. Conditions d'éligibilité détaillées.",
+    keywords: ["aides financières rénovation 2026","MaPrimeRénov 2026","éco-PTZ rénovation","TVA réduite travaux","subventions rénovation Yvelines"],
+    excerpt:
+      "Guide complet des aides financières disponibles en 2026 pour vos projets de rénovation : montants, conditions d'éligibilité et démarches.",
+    publishedAt: "2026-05-10",
+    readTime: "8 min",
+    category: "Rénovation",
+    image: "/images/blog/aides-financieres-renovation-2026-maprimerenov-eco-ptz.webp",
+    imageAlt: "Aides financières rénovation 2026 : MaPrimeRénov', éco-PTZ et toutes les subventions",
+    content: `La rénovation de votre logement dans les Yvelines représente un investissement important, mais heureusement, de nombreuses aides financières sont disponibles en 2026 pour vous accompagner dans vos projets. Que vous habitiez à Gargenville, Mantes-la-Jolie, Poissy ou ailleurs dans le département, ces dispositifs peuvent considérablement réduire le coût de vos travaux de rénovation énergétique et d'adaptation.
+
+## MaPrimeRénov' 2026 : l'aide phare de la rénovation énergétique
+
+MaPrimeRénov' reste en 2026 l'aide principale pour financer vos travaux de rénovation énergétique. Cette prime forfaitaire est accessible à tous les propriétaires, qu'ils occupent leur logement ou le mettent en location, sans condition de revenus depuis 2021.
+
+### Montants et barème de MaPrimeRénov' 2026
+
+Les montants de MaPrimeRénov' varient selon vos revenus et sont classés en quatre catégories codées par couleur. Pour une famille de 4 personnes en Île-de-France, les plafonds de revenus 2026 sont les suivants :
+
+- MaPrimeRénov' Bleu : revenus jusqu'à 43 580 euros par an
+- MaPrimeRénov' Jaune : revenus de 43 581 à 56 130 euros par an
+- MaPrimeRénov' Violet : revenus de 56 131 à 82 800 euros par an
+- MaPrimeRénov' Rose : revenus supérieurs à 82 800 euros par an
+
+Pour l'installation d'une pompe à chaleur air-eau par exemple, les montants peuvent atteindre 5 000 euros pour les ménages aux revenus les plus modestes. L'isolation des combles peut être subventionnée à hauteur de 25 euros par mètre carré selon votre catégorie de revenus.
+
+### Conditions d'éligibilité MaPrimeRénov'
+
+Pour bénéficier de MaPrimeRénov' sur votre projet de rénovation à Conflans-Sainte-Honorine ou Saint-Germain-en-Laye, votre logement doit être achevé depuis au moins 15 ans, ou 2 ans en cas de remplacement d'une chaudière au fioul. Les travaux doivent obligatoirement être réalisés par un artisan certifié RGE (Reconnu Garant de l'Environnement), comme CHARRIERE SARL qui accompagne ses clients dans ces démarches administratives.
+
+## MaPrimeAdapt' : la nouvelle aide pour l'adaptation du logement
+
+Lancée en 2024 et confirmée pour 2026, MaPrimeAdapt' remplace progressivement l'ancien dispositif "Habiter Facile" de l'Anah. Cette aide concerne spécifiquement les travaux d'adaptation du logement au vieillissement et au handicap.
+
+### Travaux éligibles à MaPrimeAdapt'
+
+MaPrimeAdapt' finance l'installation de douches à l'italienne, la pose de barres d'appui, l'élargissement des portes, l'installation de monte-escaliers ou encore l'adaptation des sanitaires. Le montant de l'aide peut atteindre 22 000 euros selon vos revenus et peut couvrir jusqu'à 70 % du montant des travaux pour les ménages les plus modestes.
+
+Cette aide s'adresse aux propriétaires occupants de plus de 60 ans ou aux personnes en situation de handicap, sans condition d'âge. Les locataires peuvent également en bénéficier avec l'accord du propriétaire.
+
+## L'éco-PTZ 2026 : le prêt à taux zéro pour la rénovation
+
+L'éco-prêt à taux zéro (éco-PTZ) permet de financer vos travaux de rénovation énergétique sans avancer de trésorerie et sans payer d'intérêts. Prolongé jusqu'en 2027, ce dispositif reste un outil précieux pour les propriétaires des Yvelines.
+
+### Montants et durée de l'éco-PTZ
+
+En 2026, l'éco-PTZ peut atteindre 50 000 euros pour une rénovation globale permettant un gain énergétique d'au moins 35 %. Pour des travaux par poste (isolation, chauffage, ventilation), le montant maximum est de 15 000 euros par catégorie de travaux, avec un plafond global de 30 000 euros.
+
+La durée de remboursement peut s'étendre jusqu'à 20 ans pour les rénovations globales et 15 ans pour les autres travaux. Cette souplesse permet d'adapter les mensualités à votre capacité de remboursement.
+
+### Conditions d'obtention de l'éco-PTZ
+
+L'éco-PTZ est accessible à tous les propriétaires, occupants ou bailleurs, sans condition de revenus. Le logement doit être votre résidence principale et être achevé avant le 1er janvier 1990. Comme pour MaPrimeRénov', les travaux doivent être réalisés par des professionnels RGE.
+
+## La TVA réduite à 5,5 % : un avantage immédiat
+
+La TVA à taux réduit de 5,5 % s'applique automatiquement aux travaux de rénovation énergétique, représentant une économie substantielle sur votre facture. Cette réduction concerne aussi bien les matériaux que la main-d'œuvre pour les travaux éligibles.
+
+### Travaux concernés par la TVA réduite
+
+Sont éligibles à la TVA à 5,5 % : l'isolation thermique, l'installation de systèmes de chauffage performants, la pose de fenêtres double ou triple vitrage, l'installation de systèmes de ventilation, ou encore les équipements de production d'énergie renouvelable.
+
+Pour des travaux de rénovation d'une cuisine ou d'une salle de bain intégrant des équipements performants, cette réduction de TVA peut représenter plusieurs centaines d'euros d'économie sur un projet de 15 000 euros par exemple.
+
+## Cumul des aides et stratégie de financement
+
+La bonne nouvelle est que la plupart de ces aides sont cumulables entre elles. Vous pouvez par exemple bénéficier simultanément de MaPrimeRénov', de l'éco-PTZ et de la TVA réduite pour maximiser le financement de vos travaux.
+
+### Optimiser le financement de votre projet
+
+Pour un projet de rénovation globale à Sartrouville ou Les Mureaux d'un montant de 25 000 euros, il est possible d'obtenir : MaPrimeRénov' jusqu'à 10 000 euros selon vos revenus, un éco-PTZ pour le complément, et une économie de TVA d'environ 2 400 euros. Le reste à charge peut ainsi être considérablement réduit.
+
+Certaines collectivités locales des Yvelines proposent également des aides complémentaires. Il est recommandé de se renseigner auprès de votre mairie ou du conseil départemental.
+
+## Démarches et conseils pratiques
+
+Pour optimiser vos chances d'obtenir ces aides, il est essentiel de bien préparer votre dossier. Commencez par faire réaliser un audit énergétique de votre logement pour identifier les travaux prioritaires et leur impact sur la performance énergétique.
+
+Faites établir plusieurs devis détaillés par des artisans RGE et vérifiez que les équipements proposés respectent les critères techniques requis. CHARRIERE SARL vous accompagne dans ces démarches en vous fournissant tous les justificatifs nécessaires et en vous orientant vers les dispositifs les plus adaptés à votre situation.
+
+Déposez vos demandes d'aides avant de signer les devis et de commencer les travaux. La plupart des aides nécessitent cette antériorité pour être accordées. Conservez soigneusement tous les documents : factures, attestations, certificats de conformité.
+
+## Perspectives et évolutions 2026
+
+Le gouvernement maintient son engagement en faveur de la rénovation énergétique avec des enveloppes budgétaires conséquentes pour 2026. Des simplifications administratives sont également prévues pour faciliter l'accès aux aides, notamment avec le développement de France Rénov', le service public de la rénovation de l'habitat.
+
+De nouvelles aides pourraient également voir le jour pour accompagner la décarbonation du chauffage, avec un focus particulier sur le remplacement des chaudières au gaz et au fioul.
+
+Vous envisagez des travaux de rénovation dans les Yvelines et souhaitez optimiser vos aides financières ? CHARRIERE SARL vous accompagne de A à Z dans votre projet : audit énergétique, étude de faisabilité, constitution des dossiers d'aides et réalisation des travaux. Contactez-nous dès maintenant pour un devis gratuit et personnalisé, et découvrez comment réduire significativement le coût de votre rénovation grâce aux dispositifs 2026.`,
+  },
+  {
     slug: "creer-suite-parentale-salle-eau-yvelines",
     title: "Créer une Suite Parentale avec Salle d'Eau : Guide Complet 2026",
     metaTitle: "Suite Parentale avec Salle d'Eau — Aménagement Yvelines | CHARRIERE SARL",
