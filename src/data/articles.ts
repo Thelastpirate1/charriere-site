@@ -15,6 +15,110 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "isolation-interieure-maison-ancienne-yvelines-78",
+    title: "Isolation intérieure d'une maison ancienne : que faut-il savoir dans les Yvelines ?",
+    metaTitle: "Isolation Intérieure Maison Ancienne 78 — Guide Complet | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez les techniques d'isolation intérieure pour maisons anciennes dans les Yvelines. Matériaux, aides financières et spécificités des pavillons 60-80.",
+    keywords: ["isolation intérieure maison ancienne","isolation thermique Yvelines","rénovation énergétique 78","isolation pavillon années 60"],
+    excerpt:
+      "Guide complet pour isoler efficacement votre maison ancienne dans les Yvelines, avec focus sur les pavillons des années 60-80.",
+    publishedAt: "2026-05-11",
+    readTime: "7 min",
+    category: "Rénovation",
+    image: "/images/blog/isolation-interieure-maison-ancienne-yvelines-78.webp",
+    imageAlt: "Isolation intérieure d'une maison ancienne : que faut-il savoir dans les Yvelines ?",
+    content: `L'isolation intérieure d'une maison ancienne représente un enjeu majeur pour améliorer le confort thermique et réduire les factures énergétiques. Dans les Yvelines, où l'habitat ancien est particulièrement présent, notamment les pavillons construits entre 1960 et 1980, cette problématique concerne de nombreux propriétaires de Gargenville, Mantes-la-Jolie, Poissy ou encore Les Mureaux.
+
+## Les spécificités des maisons anciennes dans les Yvelines
+
+Les constructions antérieures aux années 1980 dans le département des Yvelines présentent des caractéristiques communes qui influencent directement les choix d'isolation. Les pavillons de cette époque, très répandus à Saint-Germain-en-Laye, Conflans-Sainte-Honorine ou Sartrouville, ont été édifiés avec des normes thermiques bien moins exigeantes qu'aujourd'hui.
+
+Ces habitations se caractérisent généralement par des murs en béton banché, des cloisons en briques creuses ou en parpaings, et une absence totale d'isolation thermique. Les ponts thermiques sont nombreux, particulièrement au niveau des liaisons plancher-mur et des huisseries d'origine souvent en simple vitrage.
+
+La configuration type de ces maisons comprend des murs porteurs d'une épaisseur de 20 centimètres environ, sans isolation, ce qui génère des déperditions thermiques importantes. Les combles, souvent aménageables, sont rarement isolés ou disposent d'une isolation vétuste et insuffisante.
+
+## Les techniques d'isolation intérieure adaptées
+
+### Isolation des murs par doublage
+
+L'isolation des murs par l'intérieur constitue la solution la plus couramment adoptée dans la rénovation des maisons anciennes. Cette technique consiste à créer une contre-cloison isolante devant le mur existant. Plusieurs systèmes sont possibles selon la configuration de votre habitation.
+
+Le doublage collé représente la solution la plus simple à mettre en œuvre. Des panneaux composites, associant isolant et parement de plâtre, sont directement collés sur le mur support. Cette technique convient particulièrement aux murs réguliers et sains, fréquents dans les constructions des années 60-70.
+
+Pour les murs présentant des irrégularités ou des problèmes d'humidité, le doublage sur ossature métallique s'avère plus approprié. Une structure métallique est fixée au mur, l'isolant est inséré entre les montants, puis l'ensemble est recouvert de plaques de plâtre. Cette méthode permet également de passer les réseaux électriques.
+
+### Isolation des combles aménagés
+
+Dans les pavillons des Yvelines, les combles sont souvent aménageables et représentent un potentiel d'extension intéressant. L'isolation de ces espaces nécessite une approche spécifique, notamment l'isolation des rampants de toiture.
+
+L'isolation par l'intérieur des rampants s'effectue généralement entre et sous les chevrons. La première couche d'isolant est placée entre les chevrons, tandis qu'une seconde couche est installée perpendiculairement pour limiter les ponts thermiques. Cette technique permet d'atteindre des performances thermiques élevées tout en conservant l'espace habitable.
+
+## Les matériaux isolants recommandés
+
+### Isolants minéraux
+
+La laine de verre reste l'isolant le plus utilisé pour l'isolation intérieure des maisons anciennes. Ses performances thermiques, son coût abordable et sa facilité de mise en œuvre en font un choix privilégié. Pour une isolation efficace des murs, une épaisseur de 100 à 120 millimètres est recommandée, permettant d'obtenir une résistance thermique d'environ 3 m².K/W.
+
+La laine de roche offre des caractéristiques similaires avec l'avantage d'une meilleure résistance au feu et d'excellentes propriétés acoustiques. Ces qualités en font un matériau particulièrement adapté aux cloisons séparatives dans les maisons mitoyennes.
+
+### Isolants naturels
+
+La fibre de bois connaît un succès croissant dans la rénovation des maisons anciennes. Ce matériau biosourcé présente d'excellentes qualités de régulation hygrométrique, particulièrement appréciables dans l'habitat ancien où les variations d'humidité peuvent être importantes.
+
+La laine de chanvre, produite localement dans certaines régions, constitue également une alternative intéressante. Sa capacité à réguler l'humidité ambiante et ses propriétés antibactériennes naturelles en font un isolant adapté aux maisons anciennes.
+
+### Isolants synthétiques
+
+Le polystyrène expansé trouve son application dans les doublages collés, notamment en cave ou en sous-sol où ses propriétés d'imperméabilité à l'eau sont appréciées. Cependant, son utilisation doit être limitée aux zones ne présentant pas de risque d'humidité.
+
+## Les aides financières disponibles en 2026
+
+### MaPrimeRénov'
+
+Le dispositif MaPrimeRénov' constitue l'aide principale pour financer vos travaux d'isolation intérieure. Le montant de cette prime varie selon vos revenus et les performances thermiques atteintes. Pour l'isolation des murs par l'intérieur, les propriétaires aux revenus modestes peuvent bénéficier d'une aide de 25 euros par mètre carré isolé, tandis que les ménages aux revenus intermédiaires perçoivent 20 euros par mètre carré.
+
+Pour l'isolation des combles aménagés, les montants s'élèvent à 25 euros par mètre carré pour les revenus très modestes, 20 euros pour les revenus modestes et 15 euros pour les revenus intermédiaires.
+
+### Éco-prêt à taux zéro
+
+L'éco-PTZ permet de financer jusqu'à 15 000 euros de travaux d'isolation sans avancer de trésorerie et sans payer d'intérêts. Ce prêt peut être cumulé avec MaPrimeRénov' et s'avère particulièrement intéressant pour financer des bouquets de travaux incluant l'isolation et le changement du système de chauffage.
+
+### Aides locales
+
+Le Conseil départemental des Yvelines propose des aides complémentaires pour la rénovation énergétique. Ces dispositifs, variables selon les communes, peuvent prendre la forme de subventions ou d'avances remboursables. Il convient de se renseigner auprès de votre mairie pour connaître les dispositifs disponibles.
+
+## Coûts et prix au mètre carré
+
+Le coût de l'isolation intérieure varie selon la technique employée et les matériaux choisis. Pour un doublage collé avec isolant polystyrène, comptez entre 25 et 35 euros par mètre carré, fourniture et pose comprises. Cette solution convient parfaitement aux murs réguliers des pavillons des années 60-70.
+
+L'isolation sur ossature métallique avec laine de verre représente un investissement de 35 à 50 euros par mètre carré. Cette technique, plus coûteuse, s'impose toutefois lorsque les murs présentent des défauts ou nécessitent le passage de réseaux.
+
+Pour l'isolation des combles aménagés, prévoyez un budget de 50 à 80 euros par mètre carré selon l'épaisseur d'isolant mise en œuvre et la complexité de la charpente. Ces prix intègrent la fourniture de l'isolant, la membrane d'étanchéité à l'air et la pose par un professionnel qualifié.
+
+## Les points de vigilance particuliers
+
+### Gestion de l'humidité
+
+L'isolation intérieure modifie les transferts hygrométriques dans les murs anciens. Il est essentiel d'installer un pare-vapeur côté chauffé pour éviter la condensation dans l'isolant. Cette précaution s'avère particulièrement importante dans les maisons des Yvelines où l'humidité relative peut être élevée en période hivernale.
+
+Une ventilation efficace devient indispensable après isolation pour renouveler l'air intérieur et évacuer l'humidité produite par les activités domestiques. L'installation d'une VMC simple flux constitue généralement le complément indispensable aux travaux d'isolation.
+
+### Traitement des ponts thermiques
+
+Les liaisons entre différents éléments de construction constituent des points faibles qu'il convient de traiter soigneusement. Les jonctions plancher-mur, particulièrement critiques dans les pavillons sur vide sanitaire, nécessitent une attention particulière pour maintenir la continuité de l'isolation.
+
+L'isolation des tableaux de fenêtres ne doit pas être négligée. Ces zones, souvent oubliées, peuvent représenter des sources importantes de déperditions thermiques si elles ne sont pas correctement traitées.
+
+## Faire appel à un professionnel qualifié
+
+La réussite de vos travaux d'isolation intérieure dépend largement de la qualité de mise en œuvre. Un professionnel expérimenté saura adapter les techniques aux spécificités de votre habitation et vous conseiller sur les solutions les plus appropriées.
+
+CHARRIERE SARL, forte de son expérience dans la rénovation des maisons anciennes des Yvelines, vous accompagne dans votre projet d'isolation intérieure. Notre connaissance approfondie des constructions locales nous permet de vous proposer des solutions parfaitement adaptées à votre habitation et à votre budget.
+
+Pour obtenir un devis gratuit et personnalisé pour vos travaux d'isolation intérieure, n'hésitez pas à nous contacter. Notre équipe se déplace dans tout le département des Yvelines pour évaluer vos besoins et vous proposer les solutions les plus performantes.`,
+  },
+  {
     slug: "aides-financieres-renovation-2026-maprimerenov-eco-ptz",
     title: "Aides financières rénovation 2026 : MaPrimeRénov', éco-PTZ et toutes les subventions",
     metaTitle: "Aides Rénovation 2026 MaPrimeRénov' Éco-PTZ TVA | CHARRIERE SARL",
