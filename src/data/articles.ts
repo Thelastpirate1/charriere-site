@@ -15,6 +15,116 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: "remplacer-baignoire-par-douche-gargenville-78",
+    title: "Remplacer une Baignoire par une Douche : Avantages, Prix et Aides PMR",
+    metaTitle: "Remplacer Baignoire par Douche — Prix et Aides PMR | CHARRIERE SARL",
+    metaDescription:
+      "Découvrez pourquoi et comment remplacer votre baignoire par une douche à Gargenville. Avantages, prix détaillés et aides PMR disponibles dans les Yvelines.",
+    keywords: ["remplacer baignoire par douche","douche PMR Gargenville","rénovation salle de bain Yvelines","aides douche senior"],
+    excerpt:
+      "Remplacer une baignoire par une douche présente de nombreux avantages : accessibilité, économies d'espace et d'eau. Guide complet avec prix et aides PMR.",
+    publishedAt: "2026-05-12",
+    readTime: "6 min",
+    category: "Salle de bain",
+    image: "/images/blog/remplacer-baignoire-par-douche-gargenville-78.webp",
+    imageAlt: "Remplacer une Baignoire par une Douche : Avantages, Prix et Aides PMR",
+    content: `## Pourquoi remplacer sa baignoire par une douche ?
+
+La décision de remplacer une baignoire par une douche gagne en popularité dans les foyers de Gargenville et des communes environnantes des Yvelines. Cette transformation répond à des besoins pratiques et esthétiques qui évoluent avec le temps.
+
+L'une des principales motivations concerne l'accessibilité. Enjamber le rebord d'une baignoire devient difficile avec l'âge ou en cas de mobilité réduite. Une douche de plain-pied élimine cet obstacle et sécurise l'usage quotidien de la salle de bain. Cette préoccupation touche particulièrement les résidents de Poissy, Saint-Germain-en-Laye ou Conflans-Sainte-Honorine qui souhaitent adapter leur logement au vieillissement.
+
+L'économie d'espace constitue un autre avantage majeur. Dans les appartements anciens de Mantes-la-Jolie ou les maisons traditionnelles de Sartrouville, chaque mètre carré compte. Une douche optimise l'espace disponible et permet d'envisager des aménagements supplémentaires : rangements muraux, lave-linge ou simple gain de circulation.
+
+Les économies d'eau représentent également un argument de poids. Une douche consomme en moyenne 60 litres contre 150 litres pour un bain. Cette réduction impacte directement la facture d'eau, particulièrement appréciable dans le contexte actuel de hausse des prix de l'énergie.
+
+## Les avantages concrets du remplacement
+
+### Gain d'accessibilité et sécurité
+
+L'installation d'une douche PMR (Personnes à Mobilité Réduite) transforme radicalement l'usage de la salle de bain. Le receveur extra-plat ou de plain-pied élimine le risque de chute lié à l'enjambement. Les barres de maintien, le siège rabattable et le sol antidérapant complètent ce dispositif sécurisé.
+
+Chez CHARRIERE SARL, nous observons que nos clients de Les Mureaux et Gargenville apprécient particulièrement cette amélioration du confort quotidien. La douche devient accessible aux personnes âgées, aux enfants et aux personnes en situation de handicap temporaire ou permanent.
+
+### Modernisation esthétique
+
+Le remplacement d'une baignoire vieillissante par une douche contemporaine métamorphose l'aspect de la salle de bain. Les receveurs en résine, les parois en verre trempé et les robinetteries modernes apportent une touche design appréciée dans les rénovations.
+
+Les matériaux actuels offrent une palette étendue : carrelage effet pierre, résine colorée, faïence grand format. Cette diversité permet d'harmoniser la douche avec le style global de la maison, qu'il s'agisse d'une demeure bourgeoise de Saint-Germain-en-Laye ou d'un pavillon récent de Gargenville.
+
+### Facilité d'entretien
+
+Une douche bien conçue simplifie considérablement l'entretien quotidien. Les surfaces lisses du receveur et les parois vitrées se nettoient rapidement. L'absence de joints complexes autour d'une baignoire réduit les risques de moisissures et facilite l'hygiène.
+
+## Prix du remplacement : budget à prévoir
+
+### Coût des équipements
+
+Le budget pour remplacer une baignoire par une douche varie selon les équipements choisis et la complexité des travaux. Pour un receveur standard 80x120 cm en acrylique, comptez entre 200 et 500 euros. Les modèles extra-plats ou en résine minérale s'échelonnent de 400 à 1200 euros selon les dimensions et la qualité.
+
+Les parois de douche représentent un investissement de 300 à 800 euros pour un modèle standard, jusqu'à 1500 euros pour une paroi sur mesure en verre sécurisé avec traitement anticalcaire. La robinetterie thermostatique, recommandée pour la sécurité, coûte entre 150 et 600 euros selon la gamme choisie.
+
+### Tarifs de la main-d'œuvre
+
+La main-d'œuvre représente une part significative du budget global. Dans les Yvelines, comptez entre 800 et 1500 euros pour la dépose de l'ancienne baignoire et l'installation complète de la douche, hors fournitures. Ce tarif inclut la plomberie, l'étanchéité, le carrelage éventuel et les finitions.
+
+Les travaux nécessitent généralement 2 à 3 jours selon la configuration existante. Une évacuation à déplacer ou des reprises de carrelage importantes peuvent allonger ce délai et impacter le coût final.
+
+### Budget total indicatif
+
+Pour une installation complète de qualité standard, prévoyez un budget de 2000 à 4000 euros. Une douche PMR avec équipements spécialisés peut atteindre 5000 à 7000 euros selon les aménagements requis. Ces montants incluent la dépose de l'existant, les nouveaux équipements et la pose par un professionnel qualifié.
+
+## Aides financières disponibles
+
+### Crédit d'impôt et TVA réduite
+
+Les travaux d'adaptation du logement aux personnes âgées ou handicapées bénéficient d'un crédit d'impôt de 25% du montant des équipements, plafonné à 5000 euros pour une personne seule. Cette aide concerne spécifiquement les équipements PMR : receveur extra-plat, barres de maintien, siège de douche.
+
+La TVA réduite à 5,5% s'applique aux travaux d'amélioration de l'accessibilité dans les logements de plus de 2 ans. Cette réduction significative par rapport au taux normal de 20% allège considérablement la facture finale.
+
+### Aides de l'ANAH
+
+L'Agence Nationale de l'Habitat propose des subventions pour l'adaptation du logement au vieillissement. Le programme "Habiter Facile" peut financer jusqu'à 50% du montant des travaux, dans la limite de 10000 euros pour les ménages modestes. Ces aides s'adressent aux propriétaires occupants sous conditions de ressources.
+
+### Dispositifs locaux
+
+Le Conseil Départemental des Yvelines propose des aides complémentaires pour l'adaptation des logements. Certaines communes comme Poissy ou Mantes-la-Jolie offrent également des subventions locales pour ce type de travaux. Il convient de se renseigner auprès de sa mairie pour connaître les dispositifs disponibles.
+
+La Caisse de Retraite peut également participer au financement de ces aménagements dans le cadre de son action sociale. Les montants varient selon les caisses mais peuvent atteindre 3500 euros par foyer.
+
+## Comment procéder : les étapes clés
+
+### Étude préalable et dimensionnement
+
+La réussite du projet commence par une étude approfondie de l'existant. La position des évacuations, l'état de l'étanchéité et les dimensions disponibles conditionnent les solutions techniques envisageables. Un professionnel qualifié évalue ces paramètres pour proposer l'aménagement le mieux adapté.
+
+Chez CHARRIERE SARL, nous réalisons systématiquement cette analyse lors de nos interventions à Gargenville et dans les communes voisines. Cette approche évite les mauvaises surprises en cours de chantier et garantit un résultat conforme aux attentes.
+
+### Choix des équipements
+
+Le choix du receveur détermine largement le confort d'usage et l'esthétique finale. Un receveur extra-plat de 3 à 5 cm de hauteur facilite l'accès tout en conservant une évacuation efficace. Les dimensions standards 80x120 cm ou 90x120 cm conviennent à la plupart des configurations.
+
+Les parois méritent une attention particulière pour leur durabilité. Le verre trempé de 6 à 8 mm d'épaisseur offre une sécurité optimale. Les traitements anticalcaire et les profilés en aluminium anodisé garantissent une longévité maximale.
+
+### Réalisation des travaux
+
+La dépose de l'ancienne baignoire nécessite des précautions particulières, notamment pour la découpe qui génère poussières et vibrations. La préparation du support pour le nouveau receveur exige une parfaite planéité et une pente d'évacuation adaptée.
+
+L'étanchéité constitue un point critique de l'installation. L'application d'un système d'étanchéité liquide sous carrelage ou l'utilisation de panneaux hydrofuges garantit la pérennité de l'installation. Ces travaux requièrent l'intervention d'un professionnel expérimenté pour éviter tout désordre ultérieur.
+
+## Conseils pour réussir son projet
+
+Anticipez les démarches administratives si vous sollicitez des aides financières. Les dossiers doivent souvent être déposés avant le début des travaux. Constituez les pièces justificatives en amont pour éviter tout retard.
+
+Privilégiez les équipements de qualité pour garantir la durabilité de l'installation. Un receveur premier prix peut présenter des défauts de planéité ou une résistance insuffisante. L'économie initiale se transforme souvent en surcoût lors du remplacement prématuré.
+
+Faites appel à un professionnel qualifié pour la réalisation. L'étanchéité et la plomberie nécessitent un savoir-faire spécifique. Une malfaçon peut engendrer des dégâts considérables dans les logements situés en étage.
+
+Remplacer une baignoire par une douche représente un investissement judicieux pour améliorer l'accessibilité, moderniser sa salle de bain et réaliser des économies d'usage. Les aides disponibles réduisent significativement le reste à charge, particulièrement pour les équipements PMR.
+
+Vous envisagez ce type de transformation dans votre logement de Gargenville ou des environs ? CHARRIERE SARL vous accompagne de l'étude à la réalisation. Contactez-nous pour un devis gratuit et personnalisé adapté à vos besoins et votre budget.`,
+  },
+  {
     slug: "isolation-interieure-maison-ancienne-yvelines-78",
     title: "Isolation intérieure d'une maison ancienne : que faut-il savoir dans les Yvelines ?",
     metaTitle: "Isolation Intérieure Maison Ancienne 78 — Guide Complet | CHARRIERE SARL",
